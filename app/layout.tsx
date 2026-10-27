@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import Navegacao from "./Navegacao";
+import Navegacao, { Lateral } from "./Navegacao";
 import RegistrarSW from "./RegistrarSW";
 import "./globals.css";
 
@@ -12,14 +12,17 @@ export const metadata: Metadata = {
 export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
-  themeColor: "#1f6feb",
+  themeColor: "#3557e6",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="pt-BR">
       <body>
-        <main>{children}</main>
+        <div className="casca">
+          <Lateral />
+          <main>{children}</main>
+        </div>
         <Navegacao />
         <RegistrarSW />
       </body>

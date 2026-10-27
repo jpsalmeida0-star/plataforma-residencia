@@ -18,3 +18,13 @@ export function lerFila(): string[] {
     return [];
   }
 }
+
+/** Até n ids em ordem aleatória. */
+export function sortear(ids: string[], n: number): string[] {
+  const copia = [...ids];
+  for (let i = copia.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copia[i], copia[j]] = [copia[j], copia[i]];
+  }
+  return copia.slice(0, n);
+}

@@ -145,9 +145,12 @@ function Biblioteca() {
 
   return (
     <>
-      <h1>Apostilas</h1>
+      <div className="cabecalho">
+        <h1>Apostilas</h1>
+        <p>Busque um assunto e abra direto a página da apostila no seu Drive.</p>
+      </div>
 
-      <form onSubmit={aoBuscar} className="chips" style={{ flexWrap: "nowrap" }}>
+      <form onSubmit={aoBuscar} className="chips" style={{ flexWrap: "nowrap", marginBottom: 16 }}>
         <input
           type="text"
           value={consulta}

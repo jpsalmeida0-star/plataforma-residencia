@@ -4,6 +4,10 @@ import {
   cardsDaSemana,
   cardsParaAnki,
   desempenhoPorTema,
+  diasSeguidos,
+  erradasDoTema,
+  erroPrincipal,
+  motivoDaFaixa,
   fatorEsquecimento,
   inicioDaSemana,
   INTERVALOS_DIAS,
@@ -139,3 +143,41 @@ function inicioDia(t: number) {
   d.setHours(0, 0, 0, 0);
   return d.getTime();
 }
+
+describe("orientação por tema", () => {
+  const qs = [questao("a", ["clinica.cardio.ic"]), questao("b", ["clinica.cardio.ic"]), questao("c", ["clinica.cardio.has"])];
+
+  it("lista só as questões do tema cuja última tentativa foi errada, com o que aprendeu antes", () => {
+    const ts = [
+      tentativa("a", false, { data: AGORA - 3 * DIA, aprendi: "4 pilares" }),
+      tentativa("a", false, { data: AGORA - DIA }),
+      tentativa("b", false, { data: AGORA - 2 * DIA }),
+      tentativa("b", true, { data: AGORA - DIA }),
+      tentativa("c", false),
+    ];
+    const r = erradasDoTema(ts, qs, "clinica.cardio.ic");
+    expect(r.map((x) => x.questao.id)).toEqual(["a"]);
+    expect(r[0].tentativa.aprendi).toBe("4 pilares");
+  });
+
+  it("aponta o erro mais comum e explica a faixa", () => {
+    const ts = [
+      tentativa("a", false, { tipoErro: "lacuna" }),
+      tentativa("b", false, { tipoErro: "leitura" }),
+      tentativa("a", false, { tipoErro: "lacuna", data: AGORA - 2 * DIA }),
+    ];
+    const [d] = desempenhoPorTema(ts, qs, AGORA);
+    expect(erroPrincipal(d)).toEqual({ tipo: "lacuna", n: 2 });
+    expect(erroPrincipal({ errosPorTipo: {} })).toBeNull();
+    const motivo = motivoDaFaixa(d, AGORA);
+    expect(motivo).toContain("Acerto de 0%");
+    expect(motivo).toContain("67% das questões oficiais");
+    expect(motivo).toContain("Você viu o tema hoje");
+  });
+
+  it("conta dias seguidos de estudo, aceitando que hoje ainda não teve questão", () => {
+    expect(diasSeguidos([], AGORA)).toBe(0);
+    expect(diasSeguidos([{ data: AGORA }, { data: AGORA - DIA }, { data: AGORA - 3 * DIA }], AGORA)).toBe(2);
+    expect(diasSeguidos([{ data: AGORA - DIA }, { data: AGORA - 2 * DIA }], AGORA)).toBe(2);
+  });
+});

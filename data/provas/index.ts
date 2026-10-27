@@ -22,10 +22,15 @@ import enare2022 from "./enare-2022.json";
 // (GABARITOPRELIMINARPROVAGERALTIPO1-PSUMG2025, em aremg.org.br) com as questões 12 e 67 anuladas após os recursos,
 // conforme o gabarito oficial republicado pela OsceLabs e pela Medway.
 import psuMg2025 from "./psu-mg-2025.json";
-// PSU-MG/AREMG 2024 (prova geral, aplicada em dezembro de 2023). Mesma origem do texto; gabarito oficial pós-recursos
+// PSU-MG/AREMG 2024 (prova geral). Mesma origem do texto; gabarito oficial pós-recursos
 // (OsceLabs e Medway conferem entre si) com as questões 18, 19, 34 e 42 anuladas.
 import psuMg2024 from "./psu-mg-2024.json";
+// SUS-SP 2025 (Quadrix, Especialidades com Acesso Direto, aplicada em 14/12/2024): caderno oficial e gabarito definitivo
+// oficial (questão 78 anulada), ambos espelhados pela OsceLabs; originais em ajuda.quadrix.org.br.
+import susSp2025 from "./sus-sp-2025.json";
 
-export const PROVAS: Prova[] = [enamed2025c1 as Prova, enare2024 as Prova, enare2023 as Prova, enare2022 as Prova, psuMg2025 as Prova, psuMg2024 as Prova];
+export const PROVAS: Prova[] = [
+  enamed2025c1 as Prova, enare2024 as Prova, enare2023 as Prova, enare2022 as Prova, psuMg2025 as Prova, psuMg2024 as Prova,
+  susSp2025 as Prova];
 
 export const QUESTOES: Questao[] = PROVAS.flatMap((p) => p.questoes);

@@ -7,8 +7,8 @@ export default function manifest(): MetadataRoute.Manifest {
     description: "Banco de questões, análise de erros e revisão",
     start_url: "/",
     display: "standalone",
-    background_color: "#f6f7f9",
-    theme_color: "#1f6feb",
+    background_color: "#f4f6fb",
+    theme_color: "#3557e6",
     lang: "pt-BR",
     icons: [
       { src: "/icone-192.png", sizes: "192x192", type: "image/png" },

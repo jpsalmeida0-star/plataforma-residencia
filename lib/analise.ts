@@ -234,3 +234,63 @@ export function cardsParaAnki(cards: Card[]): string {
   const limpa = (s: string) => s.replace(/\t/g, " ").replace(/\r?\n/g, "<br>");
   return cards.map((c) => `${limpa(c.frente)}\t${limpa(c.verso)}\t${c.temas.join(" ")}`).join("\n");
 }
+
+/** O que fazer com cada tipo de erro: ajuda a decidir entre reler teoria ou treinar questões. */
+export const CONSELHO_POR_ERRO: Record<TipoErro, string> = {
+  lacuna: "Falta teoria: leia o capítulo do tema na apostila antes de voltar às questões.",
+  esquecido: "Você já estudou, mas não fixou: flashcards e revisão espaçada resolvem melhor que reler tudo.",
+  raciocinio: "Sabe a teoria, mas erra na aplicação: faça questões comentadas e casos clínicos do tema.",
+  leitura: "Erro de atenção: leia o comando primeiro e sublinhe \"exceto\", \"incorreta\" e os dados do caso.",
+  pegadinha: "Anote a conduta que a banca cobra (às vezes diferente do livro) no caderno de erros.",
+};
+
+/** O tipo de erro mais anotado no tema, se houver. */
+export function erroPrincipal(d: Pick<DesempenhoTema, "errosPorTipo">): { tipo: TipoErro; n: number } | null {
+  let melhor: { tipo: TipoErro; n: number } | null = null;
+  for (const [tipo, n] of Object.entries(d.errosPorTipo) as [TipoErro, number][])
+    if (n > 0 && (!melhor || n > melhor.n)) melhor = { tipo, n };
+  return melhor;
+}
+
+/** Explica em uma frase por que o tema está na faixa em que está. */
+export function motivoDaFaixa(d: DesempenhoTema, agora: number): string {
+  const pct = (x: number) => `${Math.round(x * 100)}%`;
+  const partes = [`Acerto de ${pct(d.acerto)} nas últimas ${d.n} questão(ões), contando chute como erro e dúvida como meio acerto.`];
+  if (d.incidencia) partes.push(`O tema é ${pct(d.incidencia)} das questões oficiais do banco.`);
+  if (d.ultima !== undefined) {
+    const dias = Math.floor((agora - d.ultima) / DIA);
+    partes.push(dias <= 0 ? "Você viu o tema hoje." : `Última questão há ${dias} dia(s).`);
+  }
+  if (d.faixa === "pouca-amostra") partes.push(`Com menos de ${AMOSTRA_MINIMA} questões ainda não dá para cravar.`);
+  return partes.join(" ");
+}
+
+export type QuestaoErrada = { questao: Questao; tentativa: Tentativa };
+
+/** Questões do tema cuja última tentativa foi errada, mais recentes primeiro. */
+export function erradasDoTema(tentativas: Tentativa[], questoes: Questao[], tema: string): QuestaoErrada[] {
+  const doTema = new Map(questoes.filter((q) => q.temas.includes(tema)).map((q) => [q.id, q]));
+  const ultima = new Map<string, Tentativa>();
+  for (const t of [...tentativas].sort((a, b) => a.data - b.data)) if (doTema.has(t.questaoId)) ultima.set(t.questaoId, t);
+  const resultado: QuestaoErrada[] = [];
+  for (const [id, t] of ultima) {
+    if (t.acertou) continue;
+    // "o que aprendi" pode estar numa tentativa anterior da mesma questão
+    const aprendi = t.aprendi ?? tentativas.filter((x) => x.questaoId === id && x.aprendi).sort((a, b) => b.data - a.data)[0]?.aprendi;
+    resultado.push({ questao: doTema.get(id)!, tentativa: { ...t, aprendi } });
+  }
+  return resultado.sort((a, b) => b.tentativa.data - a.tentativa.data);
+}
+
+/** Dias seguidos com pelo menos uma questão, terminando hoje (ou ontem, se hoje ainda não teve). */
+export function diasSeguidos(tentativas: Pick<Tentativa, "data">[], agora: number): number {
+  const dias = new Set(tentativas.map((t) => inicioDoDia(t.data)));
+  let dia = inicioDoDia(agora);
+  if (!dias.has(dia)) dia = inicioDoDia(dia - DIA / 2);
+  let n = 0;
+  while (dias.has(dia)) {
+    n++;
+    dia = inicioDoDia(dia - DIA / 2);
+  }
+  return n;
+}

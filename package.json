@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "postinstall": "node scripts/copiar-pdfjs.mjs",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
@@ -13,6 +14,7 @@
     "dexie": "4.4.7",
     "dexie-react-hooks": "4.4.0",
     "next": "15.5.28",
+    "pdfjs-dist": "5.7.284",
     "react": "19.1.10",
     "react-dom": "19.1.10"
   },
@@ -20,6 +22,7 @@
     "@types/node": "22.20.5",
     "@types/react": "19.1.17",
     "@types/react-dom": "19.1.11",
+    "fake-indexeddb": "6.2.6",
     "typescript": "5.9.3",
     "vitest": "3.2.7"
   }

@@ -4,16 +4,24 @@
 import Dexie, { type EntityTable } from "dexie";
 import { proximaRevisao } from "./analise";
 import type { Revisao, Tentativa } from "./tipos";
+import type { Apostila, PaginaIndexada } from "./biblioteca/tipos";
 
 class BancoLocal extends Dexie {
   tentativas!: EntityTable<Tentativa, "id">;
   revisoes!: EntityTable<Revisao, "questaoId">;
+  apostilas!: EntityTable<Apostila, "id">;
+  paginas!: EntityTable<PaginaIndexada, "chave">;
 
   constructor() {
     super("plataforma-residencia");
     this.version(1).stores({
       tentativas: "++id, questaoId, data, acertou",
       revisoes: "questaoId, proxima",
+    });
+    // Biblioteca: índice das apostilas do Drive, guardado só neste aparelho.
+    this.version(2).stores({
+      apostilas: "id, status, caminho",
+      paginas: "chave, apostilaId, *termos",
     });
   }
 }

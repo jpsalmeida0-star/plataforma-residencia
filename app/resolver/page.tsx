@@ -166,6 +166,17 @@ function Resolver() {
             <p className="errado">Errada. Gabarito: {q.gabarito}.</p>
           )}
           <p className="suave">Temas: {q.temas.map(nomeDoTema).join(", ") || "sem tema"}</p>
+          {q.temas.length > 0 && (
+            <p className="suave">
+              Ver nas apostilas:{" "}
+              {q.temas.map((tema, i) => (
+                <span key={tema}>
+                  {i > 0 && ", "}
+                  <Link href={`/biblioteca?q=${encodeURIComponent(nomeDoTema(tema))}`}>{nomeDoTema(tema)}</Link>
+                </span>
+              ))}
+            </p>
+          )}
           {q.comentario && <p className="enunciado">{q.comentario}</p>}
 
           {q.gabarito !== null && !acertou && !erroSalvo && (

@@ -41,7 +41,11 @@ O ID do cliente não é segredo (ele aparece no navegador de qualquer forma); n�
 4. Busque um assunto. Cada resultado mostra a apostila, o caminho das pastas, a página e um trecho;
    tocar abre o PDF naquela página.
 
-A conexão vale por cerca de 1 hora; depois o app pede para conectar de novo.
+A conexão vale por cerca de 1 hora. Se ela expirar no meio da indexação, o que já foi feito fica salvo e o
+botão vira **Conectar e continuar a indexação**: um toque e ela segue de onde parou.
+
+**Atualizar lista** busca de uma vez todas as pastas, atalhos e PDFs da conta (1000 por consulta) e monta a árvore
+no navegador, então leva segundos mesmo com milhares de arquivos.
 
 ## Limitações atuais
 

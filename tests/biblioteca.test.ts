@@ -3,7 +3,7 @@ import { readFileSync } from "node:fs";
 import path from "node:path";
 import { beforeEach, describe, expect, it } from "vitest";
 import { db } from "@/lib/db";
-import { idDaPasta } from "@/lib/biblioteca/drive";
+import { idDaPasta, pdfsDaPasta } from "@/lib/biblioteca/drive";
 import { buscar, indexarApostila, sincronizarLista } from "@/lib/biblioteca/indice";
 import { extrairPaginas, type PdfJs } from "@/lib/biblioteca/pdf";
 import { normalizar, pontuar, termos, trecho } from "@/lib/biblioteca/texto";
@@ -47,6 +47,48 @@ describe("idDaPasta", () => {
     expect(idDaPasta("https://drive.google.com/open?id=1AbCdEfGhIjKlMn")).toBe("1AbCdEfGhIjKlMn");
     expect(idDaPasta("1AbCdEfGhIjKlMn")).toBe("1AbCdEfGhIjKlMn");
     expect(idDaPasta("não é um link")).toBeNull();
+  });
+});
+
+describe("pdfsDaPasta", () => {
+  const PASTA = "application/vnd.google-apps.folder";
+  const PDF = "application/pdf";
+  const pastas = [
+    { id: "curso", name: "Medcurso 2023", parents: ["raiz"] },
+    { id: "clinica", name: "Clínica", parents: ["curso"] },
+    { id: "fora", name: "Outra coisa", parents: ["meu-drive"] },
+    { id: "alvo", name: "Pasta atalhada", parents: ["meu-drive"] },
+  ];
+  const pdfs = [
+    { id: "p1", name: "Cardio.pdf", parents: ["clinica"], modifiedTime: "t1", size: "100" },
+    { id: "p2", name: "Raiz.pdf", parents: ["raiz"], modifiedTime: "t2" },
+    { id: "p3", name: "Fora.pdf", parents: ["fora"], modifiedTime: "t3" },
+    { id: "p4", name: "Via atalho.pdf", parents: ["alvo"], modifiedTime: "t4" },
+    { id: "p5", name: "Original.pdf", parents: ["fora"], modifiedTime: "t5" },
+  ];
+  const atalhos = [
+    { id: "a1", name: "Atalho pasta", parents: ["curso"], shortcutDetails: { targetId: "alvo", targetMimeType: PASTA } },
+    { id: "a2", name: "Atalho arquivo.pdf", parents: ["raiz"], shortcutDetails: { targetId: "p5", targetMimeType: PDF } },
+    { id: "a3", name: "Volta", parents: ["clinica"], shortcutDetails: { targetId: "raiz", targetMimeType: PASTA } },
+  ];
+
+  it("pega só o que está dentro da pasta raiz, com o caminho, seguindo atalhos e sem repetir", () => {
+    const r = pdfsDaPasta("raiz", { pastas, atalhos, pdfs });
+    expect(r.map((p) => [p.id, p.caminho, p.nome])).toEqual([
+      ["p5", "", "Atalho arquivo.pdf"],
+      ["p2", "", "Raiz.pdf"],
+      ["p4", "Medcurso 2023 / Atalho pasta", "Via atalho.pdf"],
+      ["p1", "Medcurso 2023 / Clínica", "Cardio.pdf"],
+    ]);
+    expect(r.find((p) => p.id === "p1")).toMatchObject({ modificado: "t1", tamanho: 100 });
+  });
+
+  it("aguenta milhares de arquivos rápido", () => {
+    const muitasPastas = Array.from({ length: 2000 }, (_, i) => ({ id: `d${i}`, name: `Pasta ${i}`, parents: [i < 20 ? "raiz" : `d${i % 20}`] }));
+    const muitosPdfs = Array.from({ length: 30000 }, (_, i) => ({ id: `f${i}`, name: `A${i}.pdf`, parents: [`d${i % 2000}`], modifiedTime: "t" }));
+    const inicio = Date.now();
+    expect(pdfsDaPasta("raiz", { pastas: muitasPastas, atalhos: [], pdfs: muitosPdfs })).toHaveLength(30000);
+    expect(Date.now() - inicio).toBeLessThan(2000);
   });
 });
 

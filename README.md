@@ -19,12 +19,13 @@ No celular: abra o endereço publicado no navegador e use "Adicionar à tela ini
 
 | Pasta | O que tem |
 | --- | --- |
-| `app/` | Telas: Início, Questões (montar caderno), Resolver, Painel, Erros |
+| `app/` | Telas: Início, Questões (montar caderno), Resolver, Painel, Erros, Apostilas |
 | `lib/tipos.ts` | Formato de questão, prova, tentativa e revisão |
 | `lib/taxonomia.ts` | Árvore de temas (grande área > especialidade > tema). Os ids não devem mudar |
 | `lib/analise.ts` | Acerto ajustado, prioridade por tema, estratégia de revisão, cards da semana |
 | `lib/db.ts` | Banco local no aparelho (IndexedDB) |
 | `data/provas/` | Provas oficiais importadas, uma por arquivo JSON |
+| `lib/biblioteca/` | Apostilas do Drive: login, lista de PDFs, índice local e busca ([guia](docs/biblioteca.md)) |
 
 ## Como a análise funciona
 
@@ -43,4 +44,3 @@ No celular: abra o endereço publicado no navegador e use "Adicionar à tela ini
 ## Próximas etapas
 
 - Sincronizar as respostas entre aparelhos (Supabase). Hoje elas ficam no aparelho; use "Baixar cópia" na aba Erros.
-- Biblioteca: busca nas apostilas do Google Drive com abertura do PDF na página.

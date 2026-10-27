@@ -1,0 +1,3439 @@
+{
+  "id": "sus-sp-2025",
+  "banca": "SUS-SP",
+  "ano": 2025,
+  "titulo": "SUS-SP 2025 — Acesso Direto (aplicada em 14/12/2024)",
+  "fonte": "https://ujjurqtnpakcjznynead.supabase.co/storage/v1/object/public/uploads/provas/psu/sus-sp-2025-oficial-prova.pdf",
+  "questoes": [
+    {
+      "id": "sus-sp-2025-q001",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 1,
+      "enunciado": "Um homem de 52 anos de idade, tabagista com 30 anos/maço, diabético e dislipidêmico, dirigiu-se ao pronto-socorro com dor precordial, inespecífica, sem irradiação, que se iniciou há 10 minutos, ao levantar uma caixa, com sudorese a mal-estar associado. Foi realizado eletrocardiograma (apresentado a seguir) e troponina (dentro do valor de referência/normal).\nCom base nessa situação hipotética, e na imagem acima, assinale a alternativa que apresenta a conduta adequada para essa situação.",
+      "imagem": "/provas/sus-sp-2025/q001.jpg",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Trata-se de um caso de angina, porém sem infarto agudo do miocárdio. O paciente deverá realizar um teste ergométrico ambulatorialmente."
+        },
+        {
+          "letra": "B",
+          "texto": "O paciente deverá ser submetido à angioplastia primária, por se tratar de um infarto com supra de seguimento ST de V2 a V4."
+        },
+        {
+          "letra": "C",
+          "texto": "Deverá ser mantido no pronto-socorro para seriar eletrocardiograma e troponina."
+        },
+        {
+          "letra": "D",
+          "texto": "Trata-se de um caso de angina, porém sem infarto agudo do miocárdio. O paciente deverá realizar angiotomografia de coronárias ambulatorialmente."
+        },
+        {
+          "letra": "E",
+          "texto": "O paciente deverá ser submetido à trombólise química devido a infarto agudo do miocárdio sem critérios para angioplastia primária. de acordo com o respectivo comando. Para as devidas marcações, use a va."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "clinica.cardio.sca"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q002",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 2,
+      "enunciado": "Uma mulher de 23 anos de idade foi internada devido à cefaleia pulsátil bilateral com fono/fotofobia associada. A paciente relatou estar com náuseas intensas naquele momento e solicitou medicamento para o controle dos sintomas.\nCom base nessa situação hipotética, assinale a alternativa que apresenta o esquema adequado para o controle sintomático, considerando-se que a paciente não possui alergias.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "dimenidriato + piridoxina"
+        },
+        {
+          "letra": "B",
+          "texto": "metoclopramida + dexametasona"
+        },
+        {
+          "letra": "C",
+          "texto": "ondansetrona + tramadol"
+        },
+        {
+          "letra": "D",
+          "texto": "metoclopramida + tramadol"
+        },
+        {
+          "letra": "E",
+          "texto": "ondansetrona + cetoprofeno"
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "clinica.neuro.cefaleia"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q003",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 3,
+      "enunciado": "Um homem de 57 anos de idade, acometido por cirrose hepática de etiologia alcoólica com hepatocarcinoma associado, foi internado devido ao aumento de volume abdominal, dor abdominal e confusão mental. Foi realizada uma punção diagnóstica, com 375 neutrófilos no líquido puncionado, albumina soro 1,9 e albumina do líquido ascítico 0,6 e culturas em andamento. Foi, então, iniciada antibioticoterapia empírica e diureticoterapia com furosemida e espironolactona. No terceiro dia de internação, a paciente evoluiu com oligoanúria, teve piora do edema periférico, creatinina de 2,9 (na entrada, era de 0,8), ureia de 93, potássio 5,7, gasometria com pH 7,28 e bicarbonato 15.\nSobre o caso acima, assinale a alternativa adequada.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A melhora dos níveis de ureia e creatinina com uso de albumina confirmaria a hipótese diagnóstica de síndrome hepatorrenal."
+        },
+        {
+          "letra": "B",
+          "texto": "Pode-se diminuir a dose dos diuréticos, porém é possível mantê-los em uso para manejo volêmico."
+        },
+        {
+          "letra": "C",
+          "texto": "Devem-se manter diuréticos e aumentar o aporte hídrico para evitar piora dos níveis de ureia/creatinina e para manter o manejo do edema."
+        },
+        {
+          "letra": "D",
+          "texto": "Devido à acidose metabólica grave, o paciente encontra-se em urgência dialítica."
+        },
+        {
+          "letra": "E",
+          "texto": "A exclusão de um componente pós-renal associado poderia ajudar a confirmar uma condição de pior prognóstico ao paciente."
+        }
+      ],
+      "gabarito": "E",
+      "origem": "oficial",
+      "temas": [
+        "clinica.gastro.cirrose",
+        "clinica.nefro.lra"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q004",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 4,
+      "enunciado": "Um homem de 57 anos de idade, acometido por cirrose hepática de etiologia alcoólica com hepatocarcinoma associado, foi internado devido ao aumento de volume abdominal, dor abdominal e confusão mental. Foi realizada uma punção diagnóstica, com 375 neutrófilos no líquido puncionado, albumina soro 1,9 e albumina do líquido ascítico 0,6 e culturas em andamento. Foi, então, iniciada antibioticoterapia empírica e diureticoterapia com furosemida e espironolactona. No terceiro dia de internação, a paciente evoluiu com oligoanúria, teve piora do edema periférico, creatinina de 2,9 (na entrada, era de 0,8), ureia de 93, potássio 5,7, gasometria com pH 7,28 e bicarbonato 15.\nA respeito dos dados gasométricos apresentados em um contexto de injúria renal aguda, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O paciente possui indicação bem estabelecida de reposição endovenosa de bicarbonato devido ao valor de pH apresentado."
+        },
+        {
+          "letra": "B",
+          "texto": "O tratamento da hipercalemia, por si só, seria suficiente para a correção do pH."
+        },
+        {
+          "letra": "C",
+          "texto": "Ao realizar a insulina associada à glicose em pacientes com injúria renal, o risco de hipoglicemia é maior que na população geral."
+        },
+        {
+          "letra": "D",
+          "texto": "A alteração gasométrica apresentada pode ser um efeito adverso da furosemida, independentemente da piora de função renal ocorrida."
+        },
+        {
+          "letra": "E",
+          "texto": "Para a hipercalemia apresentada, podem-se realizar glicose + insulina, inalação com b2 agonista e furosemida."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "clinica.nefro.acidobase",
+        "clinica.nefro.eletrolitos"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q005",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 5,
+      "enunciado": "Um homem de 57 anos de idade, acometido por cirrose hepática de etiologia alcoólica com hepatocarcinoma associado, foi internado devido ao aumento de volume abdominal, dor abdominal e confusão mental. Foi realizada uma punção diagnóstica, com 375 neutrófilos no líquido puncionado, albumina soro 1,9 e albumina do líquido ascítico 0,6 e culturas em andamento. Foi, então, iniciada antibioticoterapia empírica e diureticoterapia com furosemida e espironolactona. No terceiro dia de internação, a paciente evoluiu com oligoanúria, teve piora do edema periférico, creatinina de 2,9 (na entrada, era de 0,8), ureia de 93, potássio 5,7, gasometria com pH 7,28 e bicarbonato 15.\nQuanto ao líquido ascítico, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O paciente possui diagnóstico confirmado de peritonite bacteriana espontânea, e o antibiótico iniciado provavelmente foi uma cefalosporina de terceira geração."
+        },
+        {
+          "letra": "B",
+          "texto": "Caso a cultura do líquido ascítico termine como negativa, o diagnóstico seria bacterascite e o antibiótico seria desnecessário."
+        },
+        {
+          "letra": "C",
+          "texto": "Caso a cultura do líquido ascítico termine como negativa, o diagnóstico seria ascite neutrofílica e o antibiótico adequado seria uma cefalosporina de terceira geração."
+        },
+        {
+          "letra": "D",
+          "texto": "A análise do líquido demonstra um GASA elevado, logo o paciente possui diagnóstico de líquido exsudativo e, portanto, provável peritonite bacteriana secundária."
+        },
+        {
+          "letra": "E",
+          "texto": "A análise do líquido demonstra um GASA baixo, logo o paciente possui diagnóstico de líquido exsudativo e, portanto, provável peritonite bacteriana secundária."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "clinica.gastro.cirrose"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q006",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 6,
+      "enunciado": "Uma mulher de 18 anos de idade, sem antecedentes pessoais e familiares relevantes, dirigiu-se ao pronto-socorro de um hospital municipal com náusea, vômitos, diarreia líquida sem produtos patológicos, mialgia, sensação febril e astenia. Esse quadro teve início dois dias antes da admissão, com piora no dia atual, com sete episódios de fezes líquidas nas últimas 24 horas. A paciente relatou inapetência e dificuldade para ingerir líquidos e comprimidos. Ao exame físico: afebril; regular estado geral; levemente desidratada; bem perfundida e com extremidades quentes; abdome flácido; um pouco de dor à palpação profunda difusamente; sem sinais de peritonite; e sinais vitais marcando PA de 110 x 75 mmHg e FC de 87 bpm.\nCom base nessa situação hipotética, assinale a alternativa correta em relação à condução desse caso.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A paciente necessita de uma tomografia de abdome devido à suspeita de complicações associadas ao quadro."
+        },
+        {
+          "letra": "B",
+          "texto": "A paciente deve ser internada em regime de enfermaria com hidratação endovenosa, antibioticoterapia endovenosa com ceftriaxone e metronidazol e sintomáticos."
+        },
+        {
+          "letra": "C",
+          "texto": "A paciente deve ser internada em regime de enfermaria com hidratação endovenosa, antibioticoterapia endovenosa com ceftriaxone em monoterapia e sintomáticos."
+        },
+        {
+          "letra": "D",
+          "texto": "A paciente deve ser internada em regime de enfermaria com hidratação endovenosa e sintomáticos."
+        },
+        {
+          "letra": "E",
+          "texto": "Deve ser realizado tratamento ambulatorial com hidratação oral, sintomáticos e sinais de alarme."
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "clinica.infecto"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q007",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 7,
+      "enunciado": "Uma mulher de 18 anos de idade, sem antecedentes pessoais e familiares relevantes, dirigiu-se ao pronto-socorro de um hospital municipal com náusea, vômitos, diarreia líquida sem produtos patológicos, mialgia, sensação febril e astenia. Esse quadro teve início dois dias antes da admissão, com piora no dia atual, com sete episódios de fezes líquidas nas últimas 24 horas. A paciente relatou inapetência e dificuldade para ingerir líquidos e comprimidos. Ao exame físico: afebril; regular estado geral; levemente desidratada; bem perfundida e com extremidades quentes; abdome flácido; um pouco de dor à palpação profunda difusamente; sem sinais de peritonite; e sinais vitais marcando PA de 110 x 75 mmHg e FC de 87 bpm.\nA equipe do hospital municipal optou pela internação hospitalar para hidratação, sintomáticos e antibioticoterapia endovenosa (ceftriaxone e metronidazol). Os exames admissionais evidenciaram PCR de 19 (elevado), função renal e hemograma sem alterações dignas de nota, a não ser pela discreta leucocitose. No segundo dia de internação, já havia ampla melhora do quadro de diarreia, PCR de 9, porém ainda inapetente e um pouco nauseada. Portanto, optaram por manter a internação por mais um dia. No terceiro dia de internação, a paciente relatou muita náusea, gosto metálico na boca, inapetência sem melhora. A mãe da paciente no leito preocupada e nervosa pela ausência de melhora sintomática da filha. Exames com PCR de 4, enzimas hepáticas, canaliculares, bilirrubinas e coagulograma sem alterações. O quadro de diarreia seguiu em ampla melhora.\nCom base nessa situação hipotética, assinale a alternativa que apresenta a conduta adequada a ser seguida pela equipe do hospital, no momento atual.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "suspensão de ceftriaxone e otimização de sintomáticos"
+        },
+        {
+          "letra": "B",
+          "texto": "tomografia computadorizada de abdome devido à suspeita de complicação"
+        },
+        {
+          "letra": "C",
+          "texto": "endoscopia digestiva alta devido à possibilidade de lesão gástrica associada"
+        },
+        {
+          "letra": "D",
+          "texto": "suspensão metronidazol e otimização de sintomáticos"
+        },
+        {
+          "letra": "E",
+          "texto": "USG de abdome devido à suspeita de complicação hepática associada a múltiplas medicações"
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "clinica.infecto.atb"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q008",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 8,
+      "enunciado": "Uma mulher de 18 anos de idade, sem antecedentes pessoais e familiares relevantes, dirigiu-se ao pronto-socorro de um hospital municipal com náusea, vômitos, diarreia líquida sem produtos patológicos, mialgia, sensação febril e astenia. Esse quadro teve início dois dias antes da admissão, com piora no dia atual, com sete episódios de fezes líquidas nas últimas 24 horas. A paciente relatou inapetência e dificuldade para ingerir líquidos e comprimidos. Ao exame físico: afebril; regular estado geral; levemente desidratada; bem perfundida e com extremidades quentes; abdome flácido; um pouco de dor à palpação profunda difusamente; sem sinais de peritonite; e sinais vitais marcando PA de 110 x 75 mmHg e FC de 87 bpm.\nSomente no quinto dia de internação, a paciente evoluiu com melhora clínica significativa. A equipe médica realizou alta hospitalar com ciprofloxacino via oral para completar sete dias em domicílio. Após duas semanas, a paciente retornou devido a um novo episódio diarreico, que teve início no dia anterior, com picos febris aferidos de 37,9 oC. A mãe da paciente estava extremamente nervosa e exigiu uma tomografia de abdome. Os médicos do pronto-socorro, então, solicitaram uma tomografia computadorizada de abdome, que evidenciou sinais de processo inflamatório, predominando no intestino grosso.\nCom base nessa situação hipotética, assinale a conduta adequada, considerando esse quadro clínico.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "solicitação de colonoscopia devido à suspeita de retocolite ulcerativa"
+        },
+        {
+          "letra": "B",
+          "texto": "solicitação de colonoscopia devido à suspeita de doença de Crohn"
+        },
+        {
+          "letra": "C",
+          "texto": "solicitação de pesquisa para C. Difficile e uso de metronidazol empírico"
+        },
+        {
+          "letra": "D",
+          "texto": "solicitação de pesquisa para C. Difficile e uso de vancomicina oral empírica"
+        },
+        {
+          "letra": "E",
+          "texto": "Solicitação de pesquisa para C. Difficile e uso de vancomicina endovenosa empírica"
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "clinica.infecto.atb"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q009",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 9,
+      "enunciado": "Correlacionar imagens tomográficas com quadro clínico.\nA) homem de meia idade, tabagista, dispneia progressiva aos esforços com meses de evolução, espirometria com vef1/cvf > 70, estertores predominando no final da inspiração ao exame físico\nB) mulher de 67 anos de idade, tabagista, tosse crônica, dispneia aos esforços, policitemia no hemograma, tempo expiratório prolongado, ausculta pulmonar com murmúrios vesicular reduzidos globalmente\nC) homem de 68 anos de idade, hipertenso mal-controlado, cardiopata, piora de dispneia, edema de membros inferiores, ortopneia, ausculta abolida em bases e estertores em ápice pulmonar\nD) jovem de 27 anos de idade, com antecedente de hepatopatia em investigação, com relatos de dispneia durante os esforços físicos, ausculta com murmúrios vesiculares diminuído em bases pulmonares",
+      "imagem": "/provas/sus-sp-2025/q009.jpg",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A-4, B-3, C-1, D-2"
+        },
+        {
+          "letra": "B",
+          "texto": "A-3, B-2, C-1, D-4"
+        },
+        {
+          "letra": "C",
+          "texto": "A-3, B-2, C-4, D-1"
+        },
+        {
+          "letra": "D",
+          "texto": "A-3, B-1, C-2, D-4"
+        },
+        {
+          "letra": "E",
+          "texto": "A-4, B-3, C-2, D-1"
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "clinica.pneumo",
+        "clinica.pneumo.dpoc"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q010",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 10,
+      "enunciado": "Uma mulher de 32 anos de idade, com antecedentes de ansiedade e enxaqueca, compareceu ao pronto-socorro trazida por uma viatura do SAMU acompanhada por uma amiga, com relato de cefaleia holocraniana intensa, que teve início duas horas antes, além de vômitos intensos, mal-estar e rebaixamento do nível de consciência durante o transporte. A seguir, consta a tomografia computadorizada do crânio.\nAssinale a alternativa adequada.",
+      "imagem": "/provas/sus-sp-2025/q010.jpg",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "hemorragia subaracnóidea Fischer IV"
+        },
+        {
+          "letra": "B",
+          "texto": "hemorragia subaracnóidea Fischer III"
+        },
+        {
+          "letra": "C",
+          "texto": "acidente vascular encefálico isquêmico com transformação hemorrágica intraparenquimatosa"
+        },
+        {
+          "letra": "D",
+          "texto": "enxaqueca"
+        },
+        {
+          "letra": "E",
+          "texto": "encefalite viral"
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "clinica.neuro.avc"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q011",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 11,
+      "enunciado": "Uma mulher de 63 anos de idade, obesa, hipertensa, diabética e dislipidêmica, em uso irregular de anlodipino, metformina e sinvastatina, compareceu ao pronto-socorro com relato de tosse, febre aferida de 38,2 oC, coriza, mialgia e espirros há três dias, porém, nos últimos dois dias também percebeu edema de membros inferiores e dispneia importante que a fizeram procurar o pronto-socorro. Ela relatou que realizou um teste recente na farmácia, influenza A positivo. Na admissão, apresentou: temperatura de 37,7 oC; glasgow 15; PA 180 x 110; FC 118 irpm; e FR 26 irpm. A paciente segurava-se à grade do leito devido à ortopneia, havia presença de estase jugular, pulso com ritmo irregular e ausculta com estertores de base até terço ápice bilateralmente. O eletrocardiograma da paciente apresentou: ausência de onda P; RR irregular; QRS estreito; e FC 118 bpm.\nCom base nessa situação hipotética, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Devido ao ECG descrito associado a sinais de gravidade da arritmia (dispneia), deve ser realizada a cardioversão elétrica sincronizada."
+        },
+        {
+          "letra": "B",
+          "texto": "A paciente apresenta perfil C de descompensação de insuficiência cardíaca, deve ser realizada furosemida, vasodilatação e VNI."
+        },
+        {
+          "letra": "C",
+          "texto": "A paciente apresenta edema agudo de pulmão. Ainda não é possível realizar diagnóstico de insuficiência cardíaca sem resultado de ecocardiograma. Assim, deve ser realizada vasodilatação, VNI, diureticoterapia endovenosa e ser dado início a oseltamivir."
+        },
+        {
+          "letra": "D",
+          "texto": "A paciente apresenta insuficiência cardíaca descompensada perfil B. Assim, deve ser realizada, imediatamente, vasodilatação, VNI, diureticoterapia endovenosa e ser dado início a oseltamivir."
+        },
+        {
+          "letra": "E",
+          "texto": "A paciente apresenta insuficiência cardíaca descompensada perfil B. Assim, deve ser realizada, imediatamente, vasodilatação, betabloqueador, VNI, diureticoterapia endovenosa e ser dado início a oseltamivir."
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "clinica.cardio.ic"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q012",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 12,
+      "enunciado": "Uma mulher de 63 anos de idade, obesa, hipertensa, diabética e dislipidêmica, em uso irregular de anlodipino, metformina e sinvastatina, compareceu ao pronto-socorro com relato de tosse, febre aferida de 38,2 oC, coriza, mialgia e espirros há três dias, porém, nos últimos dois dias também percebeu edema de membros inferiores e dispneia importante que a fizeram procurar o pronto-socorro. Ela relatou que realizou um teste recente na farmácia, influenza A positivo. Na admissão, apresentou: temperatura de 37,7 oC; glasgow 15; PA 180 x 110; FC 118 irpm; e FR 26 irpm. A paciente segurava-se à grade do leito devido à ortopneia, havia presença de estase jugular, pulso com ritmo irregular e ausculta com estertores de base até terço ápice bilateralmente. O eletrocardiograma da paciente apresentou: ausência de onda P; RR irregular; QRS estreito; e FC 118 bpm.\nAssinale a alternativa que corresponda ao exame de imagem compatível ao caso clínico apresentado.",
+      "imagem": "/provas/sus-sp-2025/q012.jpg",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A"
+        },
+        {
+          "letra": "B",
+          "texto": "B"
+        },
+        {
+          "letra": "C",
+          "texto": "C"
+        },
+        {
+          "letra": "D",
+          "texto": "D"
+        },
+        {
+          "letra": "E",
+          "texto": "E"
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "clinica.cardio.ic"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q013",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 13,
+      "enunciado": "Uma mulher de 63 anos de idade, obesa, hipertensa, diabética e dislipidêmica, em uso irregular de anlodipino, metformina e sinvastatina, compareceu ao pronto-socorro com relato de tosse, febre aferida de 38,2 oC, coriza, mialgia e espirros há três dias, porém, nos últimos dois dias também percebeu edema de membros inferiores e dispneia importante que a fizeram procurar o pronto-socorro. Ela relatou que realizou um teste recente na farmácia, influenza A positivo. Na admissão, apresentou: temperatura de 37,7 oC; glasgow 15; PA 180 x 110; FC 118 irpm; e FR 26 irpm. A paciente segurava-se à grade do leito devido à ortopneia, havia presença de estase jugular, pulso com ritmo irregular e ausculta com estertores de base até terço ápice bilateralmente. O eletrocardiograma da paciente apresentou: ausência de onda P; RR irregular; QRS estreito; e FC 118 bpm.\nApós a execução das ações iniciais, a paciente evoluiu em melhora clínica e realizou-se um ecocardiograma que apresentou os seguintes achados mais relevantes: coração em ritmo irregular; fração de ejeção 56%; aumento moderado de átrio esquerdo; e aumento moderado na pressão de artéria pulmonar, com e/e’ > 9.\nCom base nessa situação hipotética, e nas informações apresentadas acima, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Achados ecocardiográficos ajudam a corroborar a hipótese de insuficiência cardíaca."
+        },
+        {
+          "letra": "B",
+          "texto": "É um paciente sem critérios suficientes para o diagnóstico de insuficiência cardíaca, dado edema agudo de pulmão sem etiologia bem estabelecida. Com isso, deve-se proceder à estratificação com cineangiocoronariografia devido à possibilidade de doença isquêmica associada."
+        },
+        {
+          "letra": "C",
+          "texto": "É um paciente com provável diagnóstico de insuficiência cardíaca, porém achados ecocardiográficos não auxiliam a hipótese, dada ausência de causa bem estabelecida para a recente descompensação. Seria prudente, então, a realização de cineangiocoronariografia dado o altíssimo risco cardiovascular e dada a possível descompensação por evento isquêmico."
+        },
+        {
+          "letra": "D",
+          "texto": "Apesar de achados ecocardiográficos afastarem a hipótese de insuficiência cardíaca, ainda existe uma grande probabilidade. A hipótese mais provável, então, seria de insuficiência cardíaca descompensada devido a quadro infeccioso."
+        },
+        {
+          "letra": "E",
+          "texto": "Houve achados ecocardiográficos sugestivos de cor pulmonale. Logo, o paciente deverá realizar tomografia de tórax para avaliar intersticiopatia crônica associada."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "clinica.cardio.ic"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q014",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 14,
+      "enunciado": "Um homem de 63 anos de idade, com antecedente de doença diverticular colônica, compareceu ao pronto-socorro com queixa de fraqueza e tontura. Nos exames admissionais, apresentou hemoglobina de 6,5, ht a 30 %, vcm e hcm no limite inferior da normalidade e rdw aumentado. O paciente relatou sangue vivo nas fezes durante as últimas semanas. A equipe médica solicitou reticulócitos, com valor de absoluto de 65.000 e 2,2% em índice (referência da normalidade 20.000 a 100.000 absoluto e 1 a 2 % de índice).\nCom base nessa situação hipotética, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Trata-se de provável anemia hiperproliferativa devido às perdas sanguíneas em trato gastrointestinal."
+        },
+        {
+          "letra": "B",
+          "texto": "Trata-se de uma provável anemia hiperproliferativa e ferropriva devido às perdas por trato gastrointestinal."
+        },
+        {
+          "letra": "C",
+          "texto": "Trata-se de provável anemia hipoproliferativa e ferropriva associada às perdas sanguíneas por trato gastrointestinal."
+        },
+        {
+          "letra": "D",
+          "texto": "Trata-se de uma provável anemia hipoproliferativa devido ao quadro hemorrágico."
+        },
+        {
+          "letra": "E",
+          "texto": "Possui anemia normoproliferativa, devido às perdas gastrointestinais e apresenta possível componente de ferropenia associado."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "clinica.hemato.anemias"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q015",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 15,
+      "enunciado": "Uma mulher de 23 anos de idade, com antecedentes de lúpus eritematoso sistêmico com atividade articular bem controlada, em uso de hidroxicloroquina, compareceu ao pronto-socorro com quadro agudo de tosse, dispneia, febre, náusea e mal-estar, desidratação, piora das dores articulares e rash malar. Nos exames admissionais, constatou-se ureia de 88 e creatinina de 2,1. Foi notada a presença de consolidação em base direita nos raios X de tórax. A paciente fez exames ambulatoriais recentes que não apresentaram alteração na função renal.\nCom base nessa situação hipotética, quanto à investigação da etiologia da injúria renal apresentada, assinale a alternativa que apresenta o tratamento correto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Além de hidratar a paciente, a depender da evolução clínico laboratorial, seria prudente solicitação de C3, C4 e anti-DNA, além da avaliação de possível proteinúria."
+        },
+        {
+          "letra": "B",
+          "texto": "Além de hidratar a paciente, a depender da evolução clínico laboratorial, seria prudente solicitação de C3, C4 e anti-la, além da avaliação de possível proteinúria."
+        },
+        {
+          "letra": "C",
+          "texto": "Paciente já possui indicação de biópsia renal para determinar a classe da nefrite lúpica apresentada."
+        },
+        {
+          "letra": "D",
+          "texto": "Além de hidratar a paciente, a depender da evolução clínico laboratorial, seria prudente solicitação de C3, C4 e P-ANCA, como também de avaliação de possível proteinúria."
+        },
+        {
+          "letra": "E",
+          "texto": "Além de hidratar a paciente, a depender da evolução clínico laboratorial, seria prudente a solicitação de C3, C4 e anti-histona, como também de avaliação de possível proteinúria."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "clinica.reumato.les",
+        "clinica.nefro.lra"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q016",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 16,
+      "enunciado": "Uma mulher de 54 anos de idade, diabética, hipertensa e dislipidêmica, em uso irregular de medicações, compareceu ao pronto-socorro com cefaleia intensa, vômitos, náusea, turvação visual e escotomas. O acompanhante relatou que o quadro evoluiu paulatinamente durante os últimos dias, com piora importante no dia atual. Na admissão, foram notados os seguintes sinais vitais: FC 117 bpm; PA 210 x 145 mmHg; FR 21 irpm; e dextro 120.\nConsiderando essa situação hipotética, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Deve ser iniciado nitroprussiato endovenoso e realizada tomografia computadorizada do crânio sem contraste, caso esteja sem lesão hemorrágica, procedido à trombólise química."
+        },
+        {
+          "letra": "B",
+          "texto": "Deve ser iniciado nitroprussiato endovenoso e realizada tomografia computadorizada do crânio sem contraste e, caso não seja encontrada lesão hemorrágica, proceder-se-á à trombectomia mecânica."
+        },
+        {
+          "letra": "C",
+          "texto": "Deve ser iniciado nitroprussiato endovenoso e realizada tomografia computadorizada de crânio sem contraste, dada a ausência de tempo hábil para trombólise química. Deve ser realizada, então, ressonância magnética de crânio para averiguar se ainda há região de penumbra para possível trombectomia."
+        },
+        {
+          "letra": "D",
+          "texto": "Deve ser iniciado nitroprussiato endovenoso, com possibilidade de reversão dos sintomas com a melhora dos controles pressóricos."
+        },
+        {
+          "letra": "E",
+          "texto": "Deve ser iniciado nitroprussiato endovenoso para evitar novo evento, porém os sintomas apresentados provavelmente se manterão."
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "clinica.cardio.has"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q017",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 17,
+      "enunciado": "Uma mulher de 54 anos de idade, diabética, hipertensa e dislipidêmica, em uso irregular de medicações, compareceu ao pronto-socorro com cefaleia intensa, vômitos, náusea, turvação visual e escotomas. O acompanhante relatou que o quadro evoluiu paulatinamente durante os últimos dias, com piora importante no dia atual. Na admissão, foram notados os seguintes sinais vitais: FC 117 bpm; PA 210 x 145 mmHg; FR 21 irpm; e dextro 120.\nAinda com base na situação hipotética apresentada, e na imagem da ressonância magnética de crânio acima, assinale a alternativa correta.",
+      "imagem": "/provas/sus-sp-2025/q017.jpg",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A principal hipótese diagnóstica é um AVCI com lesão sequelar em região occipital."
+        },
+        {
+          "letra": "B",
+          "texto": "A principal hipótese diagnóstica é um AVC hemorrágico com hemorragia intraparenquimatosa em região occipital."
+        },
+        {
+          "letra": "C",
+          "texto": "A principal hipótese diagnóstica é uma hemorragia subaracnóidea."
+        },
+        {
+          "letra": "D",
+          "texto": "A principal hipótese diagnóstica é uma hemorragia subdural."
+        },
+        {
+          "letra": "E",
+          "texto": "A principal hipótese diagnóstica é a síndrome da encefalopatia posterior reversível."
+        }
+      ],
+      "gabarito": "E",
+      "origem": "oficial",
+      "temas": [
+        "clinica.cardio.has",
+        "clinica.neuro"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q018",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 18,
+      "enunciado": "Uma mulher de 27 anos de idade, doente renal crônica dialítica devido à nefrite lúpica, com perdas de duas gestações prévias e AVC isquêmico há um ano, compareceu ao hospital com edema assimétrico de membro inferior esquerdo, realizou usg Doppler, confirmando diagnóstico de tvp. A paciente apresentou os seguintes valores para os sinais vitais: PA 145 x 95; FC 89 bpm; sat. 99% em ar ambiente; FR 15 irpm; e livedo reticular notado em membros inferiores. Estava consciente e orientada, e com extremidades quentes. Ainda em ambiente de observação no pronto-socorro, a paciente relatou que possuía condições financeiras para a compra de medicamentos e desejava tratar-se em casa.\nConsiderando a situação hipotética apresentada, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A paciente pode ter alta com apixabana via oral, devido ao fato de este ser o anticoagulante oral direto com menor metabolização renal."
+        },
+        {
+          "letra": "B",
+          "texto": "A paciente pode ter alta com rivaroxabana, devido à sua metabolização ser predominantemente hepática."
+        },
+        {
+          "letra": "C",
+          "texto": "A paciente deve ser internada para avaliar possíveis complicações devido aos antecedentes apresentados, realizar início de anticoagulação com heparina endovenosa e transição para apixabana oral no momento da alta."
+        },
+        {
+          "letra": "D",
+          "texto": "A paciente deve ser internada, anticoagulação endovenosa com heparina e início de marevan até inr próximo ao alvo."
+        },
+        {
+          "letra": "E",
+          "texto": "A paciente deve ser internada, e, assim, deve-se proceder à anticoagulação com heparina de baixo peso molecular (enoxaparina) e dar início a marevan até inr próximo ao alvo."
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "clinica.hemato.hemostasia",
+        "cirurgia.vascular.tvp"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q019",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 19,
+      "enunciado": "Uma mulher de 27 anos de idade, doente renal crônica dialítica devido à nefrite lúpica, com perdas de duas gestações prévias e AVC isquêmico há um ano, compareceu ao hospital com edema assimétrico de membro inferior esquerdo, realizou usg Doppler, confirmando diagnóstico de tvp. A paciente apresentou os seguintes valores para os sinais vitais: PA 145 x 95; FC 89 bpm; sat. 99% em ar ambiente; FR 15 irpm; e livedo reticular notado em membros inferiores. Estava consciente e orientada, e com extremidades quentes. Ainda em ambiente de observação no pronto-socorro, a paciente relatou que possuía condições financeiras para a compra de medicamentos e desejava tratar-se em casa.\nAinda a respeito da situação hipotética apresentada, considere-se que após o manejo inicial, o hematologista tenha suspeitado de uma condição pró-trombótica associada à doença de base e, devido a esse acontecimento, solicitou-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "anti-ro, ani centromero, anti-sm."
+        },
+        {
+          "letra": "B",
+          "texto": "anticardiolipina, antiglicoproteina 1 e anticoagulante lúpico."
+        },
+        {
+          "letra": "C",
+          "texto": "anticoagulante lúpico, beta 2 microglobulina e anti-la."
+        },
+        {
+          "letra": "D",
+          "texto": "anticoagulante lúpico, beta 2 microglobulina e anti-ro."
+        },
+        {
+          "letra": "E",
+          "texto": "anticoagulante lúpico, anticentrômero e anti-p."
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "clinica.reumato.les",
+        "clinica.hemato.hemostasia"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q020",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 20,
+      "enunciado": "Um homem de 88 anos de idade compareceu ao pronto-socorro, trazido pela esposa, que relatou que o cônjuge possui Alzheimer. Nos últimos meses, evoluiu com piora cognitiva progressiva e diminuição da aceitação oral. O paciente fazia acompanhamento ambulatorial com neurologista, que já havia afirmado a progressão da doença. O paciente é totalmente dependente para executar atividades básicas e, nos últimos meses, ele encontra-se acamado. Ao exame físico: paciente severamente desidratado; emagrecido; perfusão periférica limítrofe; FC 112; PA 85 x 55 mmHg; glicemia 88; não contactuante; sonolento; e reage apenas a estímulo tátil.\nCom base nessa situação hipotética, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Deve ser procedida intubação orotraqueal, solicitação de tomografia computadorizada de crânio, assim como exames laboratoriais e sondagem nasoenteral para dieta e hidratação."
+        },
+        {
+          "letra": "B",
+          "texto": "Deve-se conversar com a esposa, entender as diretivas do paciente, expor a ausência de benefício na realização de procedimentos invasivos e tomar uma decisão médica compartilhada com a família. Após a limitação de medidas invasivas, deve-se realizar a passagem de sonda nasoenteral para dieta, como também realizar a solicitação de exames laboratoriais inicialmente e hidratar o paciente, sempre sem realizar qualquer procedimento que potencialmente possa causar dor ou sofrimento."
+        },
+        {
+          "letra": "C",
+          "texto": "Deve-se conversar com a esposa, entender as diretivas do paciente, expor a ausência de benefício na realização de procedimentos invasivos e tomar uma decisão médica compartilhada com a família. Nesse momento, o paciente já se encontra nos últimos momentos de vida e, idealmente, não deve-se realizar infusão de dieta artificial e(ou) tentar reverter as novas intercorrências agudas."
+        },
+        {
+          "letra": "D",
+          "texto": "Deve-se conversar com a esposa, entender as preferências dela e, posteriormente, assumir a conduta conforme o que a família acreditou ser o mais adequado."
+        },
+        {
+          "letra": "E",
+          "texto": "Deve-se conversar com a esposa, entender as diretivas do paciente, expor a ausência de benefício na realização de procedimentos invasivos e tomar uma decisão médica compartilhada com a família. Nesse momento, o paciente já se encontra nos últimos momentos de vida e devem-se, apenas, manter a hidratação, os sintomáticos e a dieta em via alternativa, sem a solicitação de exames, pois são as medidas com benefícios bem estabelecidos (estabelecidos em literatura médica) nessa fase de evolução da doença."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.etica.codigo",
+        "clinica.neuro.demencias"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q021",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 21,
+      "enunciado": "Assinale a alternativa incorreta acerca das úlceras de pressão.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O tratamento é clínico, sem intervenção cirúrgica, desde que a ferida seja limpa meticulosamente, com água e sabão ou algum outro meio surfactante e que seja evitada pressão na área em questão."
+        },
+        {
+          "letra": "B",
+          "texto": "Úlceras de pressão são úlceras decorrentes de isquemia tecidual local provocadas pela alteração do reflexo de dor."
+        },
+        {
+          "letra": "C",
+          "texto": "Pacientes tetraplégicos, idosos com fraturas de colo de fêmur e pacientes criticamente doentes são os mais afetados."
+        },
+        {
+          "letra": "D",
+          "texto": "As úlceras de pressão podem se desenvolver em 24 horas ou levar até 5 dias para sua manifestação."
+        },
+        {
+          "letra": "E",
+          "texto": "Ao mesmo tempo em que as alterações cutâneas ocorrem, a úlcera no plano profundo pode ser muito mais extensa, uma vez que, quanto mais profundo for o tecido, mais intensos são os efeitos da pressão."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.periop"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q022",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 22,
+      "enunciado": "Qual item correlaciona adequadamente o nome da classificação com a sua descrição?\nI. Classificação de Forrest consiste no sistema de classificação para úlceras pépticas hemorrágicas.\nII. Classificação de Hinchey consiste no sistema de classificação para diverticulite crônica.\nIII. Classificação de Parks consiste no sistema de classificação para esofagite.\nIV. Classificação de Los Angeles consiste no sistema de classificação para fístulas perianais.\nV. Classificação TNM consiste no sistema de classificação para tumores malignos.\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente os itens I e V estão certos."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente os itens I, II e V estão certos."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente os itens III, IV e V estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente os itens I, III e IV estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.abdome"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q023",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 23,
+      "enunciado": "Um homem de 19 anos de idade, hígido, chegou ao consultório com queixa de verruga na região anal. Ao exame, observou-se lesão condilomatosa única de 0,5 cm na margem anal, sem lesões no canal anal.\nCom base nessa situação hipotética e supondo-se que o médico estará em um ambiente com recurso disponível, assinale a alternativa que apresenta a conduta adequada.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "solicitar hemograma, coagulograma, eletrocardiograma e, após, avaliar os exames, agendar ressecção no centro cirúrgico com laser, com raquianestesia e encaminhamento da peça para anatomia patológica"
+        },
+        {
+          "letra": "B",
+          "texto": "tratamento tópico com ácido acético a 50%"
+        },
+        {
+          "letra": "C",
+          "texto": "solicitar hemograma, coagulograma, eletrocardiograma e, após, avaliar os exames agendar, ressecção no centro cirúrgico com crioterapia e anestesia local"
+        },
+        {
+          "letra": "D",
+          "texto": "solicitar sorologia para hepatite B, C, HIV e sífilis e acompanhar a evolução da lesão"
+        },
+        {
+          "letra": "E",
+          "texto": "anestesia local, ressecção a frio com tesoura, encaminhamento da peça para anatomia patológica e solicitação de sorologia para hepatite B, C, HIV e sífilis"
+        }
+      ],
+      "gabarito": "E",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.abdome.colorretal"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q024",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 24,
+      "enunciado": "Em relação às causas de abdome agudo obstrutivo (AAO) em alça fechada, julgue os itens a seguir.\nI. Volvo de sigmoide\nII. Hérnia interna\nIII. Ileobiliar\nIV. Tumor de cólon esquerdo estenosante com válvula ileocecal incompetente\nV. Hérnia inguinal encarcerada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente os itens I, II e V estão certos."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente os itens I, II, IV e V estão certos."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente os itens II, III e IV estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente os itens II, III e V estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.abdome.obstrucao"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q025",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 25,
+      "enunciado": "Julgue os itens a seguir, acerca das doenças que são possíveis de ser diagnosticadas durante a realização do toque retal.\nI. Hiperplasia prostática\nII. Fecaloma\nIII. Retocele\nIV. Tumor localizado na transição retosigmoide\nV. Doença hemorroidária interna grau I",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente os itens I, II e IV estão certos."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente os itens I, III e V estão certos."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente os itens I, II, IV e V estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente os itens III e IV estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente os itens I, II e III estão certos"
+        }
+      ],
+      "gabarito": "E",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.abdome.colorretal"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q026",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 26,
+      "enunciado": "Assinale a alternativa que apresenta a ordem de prevalência dos tumores na população brasileira, com exceção dos tumores de pele.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nos homens, próstata, pulmão e colorretal; e, nas mulheres, mama, colorretal e colo do útero"
+        },
+        {
+          "letra": "B",
+          "texto": "nos homens, próstata, colorretal e pulmão; e, nas mulheres, mama, colo do útero e colorretal"
+        },
+        {
+          "letra": "C",
+          "texto": "nos homens, próstata, colorretal e pulmão; e, nas mulheres, mama, colorretal e colo do útero"
+        },
+        {
+          "letra": "D",
+          "texto": "nos homens, colorretal, próstata e pulmão; e, nas mulheres, colorretal mama e colo do útero"
+        },
+        {
+          "letra": "E",
+          "texto": "nos homens, próstata, pulmão e gástrico; e, nas mulheres, mama, colo do útero e pulmão"
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.onco",
+        "preventiva.epidemio.indicadores"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q027",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 27,
+      "enunciado": "Nos ferimentos na face, é preferível a sutura por pontos simples e separados, utilizando pontos simples invertidos nos planos profundos, a fim de evitar a tensão da sutura final da pele. Para os planos profundos, dá-se preferência aos fios absorvíveis, como o monocryl® 4-0, enquanto que, na pele, utilizam-se fios inabsorvíveis, como o mononylon® 3-0. Os pontos de suturas devem ser realizados próximos às bordas da ferida, e não devem causar tensão tecidual, que pode resultar em isquemia e cicatrizes perpendiculares à ferida, por necrose tissular na área contida pelo fio. Em relação aos ferimentos corto-contusos na fase, é correto afirmar",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A sutura deve ser feita com pontos contínuos."
+        },
+        {
+          "letra": "B",
+          "texto": "Não deve ser realizado sutura nos planos profundos."
+        },
+        {
+          "letra": "C",
+          "texto": "Os pontos de sutura devem ser realizado distantes 1 cm da borda da ferida para não causar tensão tecidual"
+        },
+        {
+          "letra": "D",
+          "texto": "Na pele, deve ser usado mononylon® 5-0 ou 6-0."
+        },
+        {
+          "letra": "E",
+          "texto": "As cicatrizes perpendiculares à ferida não têm relação com o tipo de ponto, e, sim, com a gravidade do ferimento."
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.trauma"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q028",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 28,
+      "enunciado": "Em relação ao abdome agudo (AA), é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apendicite aguda é um exemplo de AA infeccioso."
+        },
+        {
+          "letra": "B",
+          "texto": "raios X de abdome não têm utilidade no AA perfurativo e obstrutivo, sendo substituído pela tomografia."
+        },
+        {
+          "letra": "C",
+          "texto": "tomografia é o primeiro exame complementar que deve ser solicitado nos casos de AA hemorrágico"
+        },
+        {
+          "letra": "D",
+          "texto": "AA obstrutivo pode evoluir para AA perfurativo."
+        },
+        {
+          "letra": "E",
+          "texto": "raios X de abdome, ainda hoje, é um exame fundamental nos casos de exame AA vascular."
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.abdome"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q029",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 29,
+      "enunciado": "A tomografia de abdome e pelve com contraste deve ser solicitada na suspeita clínica de algumas das enfermidades a seguir. Quais das enfermidades abaixo listadas, justifica-se a solicitação de tomografia de abdome e pelve com contraste endovenoso\nI. apendicite aguda retrocecal\nII. ureterolitíase\nIII. diverticulite aguda complicada\nIV. pancreatite aguda\nV. colecistite aguda\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente os itens I, II, III e IV estão certos."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente os itens I, II, e V estão certos."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente os itens I, III e IV estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente os itens II, III e V estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.abdome"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q030",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 30,
+      "enunciado": "Assinale a alternativa que apresenta os medicamentos empregados para a intubação orotraqueal em um adulto politraumatizado.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "succinilcolina 100 mg seguida do etomidato 3 g/kg"
+        },
+        {
+          "letra": "B",
+          "texto": "etomidato 0,3 mg/kg seguido da succinilcolina 1 a 2 mg/kg"
+        },
+        {
+          "letra": "C",
+          "texto": "etomidato 3 g/kg seguido da succinilcolina 100 mg"
+        },
+        {
+          "letra": "D",
+          "texto": "etomidato 70 g seguido da succinilcolina 100 mg"
+        },
+        {
+          "letra": "E",
+          "texto": "succinilcolina 1 mg a 2 mg/kg seguido do etomidato 0,5 mg/kg"
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.trauma.atls",
+        "cirurgia.periop.anestesia"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q031",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 31,
+      "enunciado": "Assinale a alternativa que apresenta a manifestação clínica da resposta motora denominada decorticação e descerebração, respectivamente, conforme a escala de coma de Glasgow.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "localização da dor e flacidez dos membros"
+        },
+        {
+          "letra": "B",
+          "texto": "extensão anormal e flacidez dos membros"
+        },
+        {
+          "letra": "C",
+          "texto": "flexão normal e flexão anormal dos membros"
+        },
+        {
+          "letra": "D",
+          "texto": "flexão e extensão anormal dos membros"
+        },
+        {
+          "letra": "E",
+          "texto": "flacidez e extensão anormal dos membros"
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.trauma.tce"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q032",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 32,
+      "enunciado": "Em relação aos pólipos colônicos, assinale a alternativa incorreta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Pólipos adenomatosos e pólipos serrilhados representam os dois principais subtipos neoplásicos que servem como precursores diretos para a maioria dos câncer colorretal."
+        },
+        {
+          "letra": "B",
+          "texto": "Pólipos serrilhados são uma designação abrangente que inclui pólipos hiperplásicos, lesões serrilhadas sésseis e adenomas serrilhados tradicionais."
+        },
+        {
+          "letra": "C",
+          "texto": "A principal distinção entre pólipos malignos e suas lesões precursoras benignas é sua localização no cólon."
+        },
+        {
+          "letra": "D",
+          "texto": "Os pólipos adenomatosos podem ser divididos em tipos tubulares, tubulovilosos ou vilosos."
+        },
+        {
+          "letra": "E",
+          "texto": "As lesões polipoides podem ser pediculadas, subpedunculadas ou sésseis."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.abdome.colorretal"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q033",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 33,
+      "enunciado": "Um paciente de 70 anos de idade, em acompanhamento por hiperplasia prostática benigna, em uso de doxazosina, chegou ao pronto-socorro com bexigoma.\nCom base nessa situação hipotética, assinale a alternativa que apresenta a sequência de atendimento adequada.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "realizar punção suprapúbica de alívio"
+        },
+        {
+          "letra": "B",
+          "texto": "passagem de sonda vesical de alívio, caso não seja efetiva a passagem de sonda vesical de demora; e, caso não se obtenha sucesso, realizar a punção suprapúbica de alívio"
+        },
+        {
+          "letra": "C",
+          "texto": "aumentar a dose de doxazosina e encaminhar ao urologista"
+        },
+        {
+          "letra": "D",
+          "texto": "passagem de sonda vesical de demora e, caso não se obtenha sucesso, realizar cistostomia por punção, para permitir um rápido esvaziamento da bexiga prevenindo ex vacum"
+        },
+        {
+          "letra": "E",
+          "texto": "passagem de sonda vesical de alívio e, caso não seja efetivo, realizar cistostomia cirúrgica"
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.uro.hpb"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q034",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 34,
+      "enunciado": "Assinale a alternativa que apresenta os fatores que favorecem a perpetuação das fístulas do trato digestivo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "anemia, fístulas com alto débito, obstrução a jusante e fístulas crônicas"
+        },
+        {
+          "letra": "B",
+          "texto": "desnutrição, doença inflamatória intestinal, obstrução à montante e trajeto curto da fístula"
+        },
+        {
+          "letra": "C",
+          "texto": "fístulas agudas, com baixo débito, obstrução a jusante e com múltiplas abordagens"
+        },
+        {
+          "letra": "D",
+          "texto": "infecção no local da fístula, doença inflamatória intestinal, fístulas agudas e com baixo débito"
+        },
+        {
+          "letra": "E",
+          "texto": "desnutrição, fístulas labiadas, localizadas no trato digestivo baixo e obstrução à montante"
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.periop.complicacoes"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q035",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 35,
+      "enunciado": "Em relação às lesões térmicas, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O débito urinário deve ser de 0,5 ml/kg/h, independentemente da natureza da queimadura e idade do paciente."
+        },
+        {
+          "letra": "B",
+          "texto": "Para o cálculo de área queimada irregular, utilizar a palma da mão do doente, excluindo-se os dedos, que representará 1% da área corpórea queimada."
+        },
+        {
+          "letra": "C",
+          "texto": "Logo após as queimaduras de segundo grau, quando a área de superfície corporal for maior que 10%, as bolhas devem ser rompidas e devem ser aplicadas compressas frias."
+        },
+        {
+          "letra": "D",
+          "texto": "Nas queimaduras químicas provocadas por ácidos, agentes neutralizantes devem ser utilizados antes da irrigação com água."
+        },
+        {
+          "letra": "E",
+          "texto": "A síndrome compartimental resulta da combinação da diminuição da elasticidade da pele com o aumento do edema dos tecidos moles."
+        }
+      ],
+      "gabarito": "E",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.trauma.queimados"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q036",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 36,
+      "enunciado": "A respeito do câncer de próstata, julgue os itens a seguir.\nI. A partir dos 45 anos de idade, todo homem deve ser submetido ao rastreamento com toque retal e ao antígeno prostático específico (PSA).\nII. A maioria dos tumores localizados são assintomáticos.\nIII. Muitos homens com a doença menos agressiva tendem a morrer com o câncer em vez de morrer do câncer.\nIV. Pacientes entre 40 e 50 anos de idade com histórico familiar, afrodescendentes e mutação patogênica no gene BRCA são pacientes de maior risco.\nV. Diante de um diagnóstico de câncer, a cirurgia, a radioterapia ou as terapias sistêmicas têm de ser indicadas.\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente os itens I, II e IV estão certos."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente os itens I, II e V estão certos."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente os itens II, III e IV estão certos."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente os itens III, IV e V estão certos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os itens estão certos."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.uro.hpb",
+        "preventiva.rastreamento.rastreio"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q037",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 37,
+      "enunciado": "Considerando a trombose venosa profunda (TVP), assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A combinação de eco-Doppler colorido negativa seguida de D-dímero negativo permite descartar com segurança a hipótese da TVP, com exceção dos pacientes com câncer e TVP recorrente."
+        },
+        {
+          "letra": "B",
+          "texto": "O risco de embolia pulmonar é maior quando a TVP está localizada abaixo da veia poplítea."
+        },
+        {
+          "letra": "C",
+          "texto": "A avaliação clínica é suficiente para diagnosticar TVP nos casos em que os fatores de risco estão presentes."
+        },
+        {
+          "letra": "D",
+          "texto": "Os fatores de riscos estão relacionados exclusivamente a fatores adquiridos, como idade avançada, câncer, procedimentos cirúrgicos, imobilização, uso de estrogênio, ciclo gravídico-puerperal."
+        },
+        {
+          "letra": "E",
+          "texto": "Empastamento da panturrilha associado aos sinais de Homans e da bandeira são patognomônico de TVP."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.vascular.tvp"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q038",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 38,
+      "enunciado": "Acerca da artéria aorta, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ramos terminais são: artéria ilíaca comum direita e esquerda."
+        },
+        {
+          "letra": "B",
+          "texto": "Todo o corpo é suprido pela artéria aorta."
+        },
+        {
+          "letra": "C",
+          "texto": "Ramos do arco aórtico são: tronco braquiocefálico; artéria carótida comum direita; e artéria subclávia esquerda."
+        },
+        {
+          "letra": "D",
+          "texto": "Ramos viscerais da aorta abdominal são: tronco celíaco; artérias suprarrenais médias; artéria mesentérica superior; artérias renais; artérias gonadais; e artéria mesentérica inferior."
+        },
+        {
+          "letra": "E",
+          "texto": "Ramos da aorta torácica são: artérias esofágicas (para o esôfago torácico); artérias subcostais; e intercostais posteriores (terceira à décima primeira)."
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.vascular.aorta"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q039",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 39,
+      "enunciado": "Um paciente de 34 anos de idade queixou-se de dor inguinal na região esquerda, que piorava após a pratica esportiva. Ele negou comorbidades. Apresentava hábito intestinal diário. Ao exame físico, foi evidenciada a presença de hérnia inguinal à esquerda pequena e redutível. Com base nessa situação hipotética, assinale a alternativa incorreta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O tratamento cirúrgico está indicado."
+        },
+        {
+          "letra": "B",
+          "texto": "O motivo para definir o momento da cirurgia não é o risco de encarceramento ou estrangulamento, mas, sim, o prejuízo na qualidade de vida."
+        },
+        {
+          "letra": "C",
+          "texto": "Diagnósticos diferenciais incluem linfonodomegalia e hidrocele."
+        },
+        {
+          "letra": "D",
+          "texto": "O melhor exame de imagem para o diagnóstico é a tomografia computadorizada."
+        },
+        {
+          "letra": "E",
+          "texto": "Desde que o cirurgião domine as técnicas anestésica e cirúrgica, a melhor anestesia para se operar hérnia inguinal por inguinotomia é a anestesia local."
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.abdome.hernias"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q040",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 40,
+      "enunciado": "No que diz respeito ao trauma cervical, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Uma radiografia cervical lateral de qualidade deve incluir da primeira (C1) à sétima (C7) vértebra cervical."
+        },
+        {
+          "letra": "B",
+          "texto": "O choque neurogênico resulta da perda do tônus vasomotor e da inervação parassimpática do coração."
+        },
+        {
+          "letra": "C",
+          "texto": "O resultado da perda do tônus vasomotor resulta na vasoconstrição dos vasos sanguíneos e, consequentemente, na hipertensão."
+        },
+        {
+          "letra": "D",
+          "texto": "A paraplegia completa resulta de lesão ao nível da coluna cervical"
+        },
+        {
+          "letra": "E",
+          "texto": "Quando a coluna vertebral é lesada, a principal preocupação deve ser a possibilidade de insuficiência respiratória."
+        }
+      ],
+      "gabarito": "E",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.trauma.atls"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q041",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 41,
+      "enunciado": "Um menino de 5 anos de idade, previamente hígido, foi levado pelos pais ao pronto atendimento com suspeita de dengue. A criança apresentou quadro de febre, que teve início há 3 dias, associado à cefaleia e mialgia com exantema maculopapular difuso e pruriginoso há 24 horas. Foram negados sintomas gastrointestinais. O exame físico apresentou os seguintes dados: peso 17 kg; bom estado geral; anictérico; normocárdico; normotenso; sem sinais meníngeos; abdome indolor à palpação e sem visceromegalias; e pele e mucosa sem alterações.\nCom base nessa situação hipotética, a conduta a ser realizada é orientar",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "repouso; prescrever hidratação oral com 130 ml/kg/dia de líquidos ingeridos, sendo 1/3 do volume com sais de reidratação oral; e ibuprofeno, se for necessário"
+        },
+        {
+          "letra": "B",
+          "texto": "repouso; prescrever hidratação oral com 130 ml/kg/dia de líquidos ingeridos, sendo 2/3 do volume com sais de reidratação oral; e paracetamol, se for necessário"
+        },
+        {
+          "letra": "C",
+          "texto": "repouso; prescrever hidratação oral com 100 ml/kg/dia de líquidos ingeridos, sendo 1/3 do volume com sais de reidratação oral; e paracetamol, se for necessário"
+        },
+        {
+          "letra": "D",
+          "texto": "repouso; prescrever hidratação oral com 100 ml/kg/dia de líquidos ingeridos, sendo 2/3 do volume com sais de reidratação oral; e paracetamol, se for necessário"
+        },
+        {
+          "letra": "E",
+          "texto": "repouso; prescrever hidratação oral com 80 ml/kg/dia de líquidos ingeridos, sendo 1/3 do volume com sais de reidratação oral; e ibuprofeno, se for necessário"
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "clinica.infecto.arboviroses",
+        "pediatria.infecto"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q042",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 42,
+      "enunciado": "Uma menina de 3 anos de idade, previamente hígida, foi levada pelos pais ao pronto atendimento, pois apresentou quadro de febre baixa e exantema avermelhado maculopapular em região maxilar bilateral há 3 dias e, no dia da consulta, apresentava lesões que se disseminaram para tronco e membros, de aspecto rendilhado. Não havia alterações de mucosa.\nCom base nessa situação hipotética, a principal hipótese diagnóstica e o agente etiológico são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "eritema infeccioso e parvovírus B19."
+        },
+        {
+          "letra": "B",
+          "texto": "eritema infeccioso e herpes vírus 6."
+        },
+        {
+          "letra": "C",
+          "texto": "exantema súbito e herpes vírus 6."
+        },
+        {
+          "letra": "D",
+          "texto": "exantema súbito e parvovírus B19."
+        },
+        {
+          "letra": "E",
+          "texto": "escarlatina e estreptococo do grupo B."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.infecto.exantematicas"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q043",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 43,
+      "enunciado": "Um menino de 4 anos de idade, previamente hígido, foi levado pela mãe ao pronto-socorro com quadro de lesões difusas, pruriginosas, eritematosas, elevadas, com edema central e tamanhos variados há duas horas. O paciente não apresentou sinais de gravidade e mantinha os sinais vitais sem alterações.\nCom base nessa situação hipotética, assinale a alternativa que apresenta o medicamento que pertence à primeira linha para o tratamento nesse caso.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "hidroxizina"
+        },
+        {
+          "letra": "B",
+          "texto": "adrenalina"
+        },
+        {
+          "letra": "C",
+          "texto": "fexofenadina"
+        },
+        {
+          "letra": "D",
+          "texto": "prometazina"
+        },
+        {
+          "letra": "E",
+          "texto": "prednisolona"
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.emergencia"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q044",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 44,
+      "enunciado": "A respeito da vacina aprovada recentemente para a prevenção da dengue, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a vacina é uma formulação tetravalente de vírus vivos atenuados."
+        },
+        {
+          "letra": "B",
+          "texto": "é recomendado um esquema de três doses para crianças (de 0, 6 e 12 meses de vida) e para adolescentes."
+        },
+        {
+          "letra": "C",
+          "texto": "o público-alvo definido pelo Ministério da Saúde é composto de crianças e de adolescentes de 4 meses de vida a 15 anos de idade."
+        },
+        {
+          "letra": "D",
+          "texto": "a vacina é indicada apenas para pessoas que já tiveram infecção prévia confirmada pelo vírus da dengue."
+        },
+        {
+          "letra": "E",
+          "texto": "a vacina é indicada para crianças imunocomprometidas."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.puericultura.vacinacao",
+        "clinica.infecto.arboviroses"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q045",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 45,
+      "enunciado": "Um lactente de 3 meses de vida, previamente hígido, foi levado pelos pais ao pronto atendimento por apresentar quadro de tosse seca e coriza há 8 dias, com piora nas últimas horas, evoluindo com cianose e vômitos. A criança foi mantida em observação no pronto atendimento e apresentou crise de tosse, com pletora facial, guincho e cianose.\nCom base nessa situação hipotética, assinale a alternativa que apresenta a principal hipótese diagnóstica, o principal agente etiológico e o medicamento adequado para o tratamento, respectivamente.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "coqueluche, Bordetella parapertussis e azitromicina"
+        },
+        {
+          "letra": "B",
+          "texto": "coqueluche, Bordetella pertussis e azitromicina"
+        },
+        {
+          "letra": "C",
+          "texto": "bronquiolite viral aguda, vírus sincicial respiratório e prednisolona"
+        },
+        {
+          "letra": "D",
+          "texto": "laringite aguda, vírus parainfluenza e dexametasona"
+        },
+        {
+          "letra": "E",
+          "texto": "laringite aguda, adenovírus e adrenalina"
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.infecto.ivas"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q046",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 46,
+      "enunciado": "Um menino de 9 anos de idade foi levado ao pronto-socorro pelos pais devido à picada de uma cobra (conforme figura a seguir), no pé direito, há 30 minutos. A criança apresentou dor moderada, edema, eritema e rubor local.\nInstituto Butantã (Bothrops jararaca).\nCom base nessa situação hipotética, a conduta adequada deverá ser",
+      "imagem": "/provas/sus-sp-2025/q046.jpg",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "permanecer em repouso, em observação clínica por 6 a 12 horas e analgesia."
+        },
+        {
+          "letra": "B",
+          "texto": "realizar torniquete, manter o segmento picado elevado e estendido e coletar tempo de coagulação."
+        },
+        {
+          "letra": "C",
+          "texto": "manter em observação clínica e, caso evolua com sinais de choque, administrar soro antibotrópico."
+        },
+        {
+          "letra": "D",
+          "texto": "internar e administrar soro antibotrópico intravenoso o mais precocemente possível."
+        },
+        {
+          "letra": "E",
+          "texto": "encaminhar o paciente à unidade de terapia intensiva e administrar soro antibotrópico intradérmico, no local da lesão."
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.emergencia",
+        "clinica.emergencia.intoxicacoes"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q047",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 47,
+      "enunciado": "Um lactente de 9 meses de vida, previamente hígido, apresentou quadro de febre há 2 dias e irritabilidade e inapetência há 24 horas. Exame físico com abaulamento de fontanela anterior. A análise do LCR apresentou os seguintes dados: 300 células/mm3 , com 85% de linfócitos; proteína 40 mg/dL; e glicose 48 mg/dl. (glicemia sérica: 70 mg/dl).\nCom base nessa situação hipotética, assinale a alternativa que apresenta a hipótese diagnóstica.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "É sugestivo de meningite viral, sendo o herpes vírus o agente mais comum."
+        },
+        {
+          "letra": "B",
+          "texto": "É sugestivo de meningite causada pelo Haemophilus influenzae tipo B, sendo necessário iniciar ampicilina."
+        },
+        {
+          "letra": "C",
+          "texto": "É sugestivo de meningite causado por enterovírus, sendo necessários observação e sintomáticos."
+        },
+        {
+          "letra": "D",
+          "texto": "É sugestivo de meningite causado pela Neisseria meningitidis, sendo necessário iniciar ceftriaxone."
+        },
+        {
+          "letra": "E",
+          "texto": "É sugestivo de meningite tuberculosa, sendo necessária a realização de PPD antes de iniciar o tratamento."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "clinica.infecto.meningite",
+        "pediatria.infecto"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q048",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 48,
+      "enunciado": "A respeito da composição do leite materno, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o leite maduro só é secretado a partir do 21º dia após o parto."
+        },
+        {
+          "letra": "B",
+          "texto": "o colostro contém mais lipídios que proteínas em sua composição."
+        },
+        {
+          "letra": "C",
+          "texto": "a IgM secretória é a principal imunoglobulina presente no leite humano."
+        },
+        {
+          "letra": "D",
+          "texto": "a concentração de gordura no leite humano costuma diminuir no decorrer de uma mamada."
+        },
+        {
+          "letra": "E",
+          "texto": "a principal proteína do leite materno é a lactoalbumina; e o principal carboidrato, a lactose."
+        }
+      ],
+      "gabarito": "E",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.puericultura.aleitamento"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q049",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 49,
+      "enunciado": "Assinale a alternativa que apresenta uma doença que não consta no teste de triagem neonatal bioquímico básico.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fenilcetonúria"
+        },
+        {
+          "letra": "B",
+          "texto": "hipotireoidismo congênito"
+        },
+        {
+          "letra": "C",
+          "texto": "fibrose cística"
+        },
+        {
+          "letra": "D",
+          "texto": "deficiência de biotinidase"
+        },
+        {
+          "letra": "E",
+          "texto": "agamaglobulinemia"
+        }
+      ],
+      "gabarito": "E",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.neonato"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q050",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 50,
+      "enunciado": "Assinale a alternativa que apresenta o(s) marco(s) do desenvolvimento neuropsicomotor que ocorre(m) na maioria dos lactentes aos 9 meses de vida.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "olhar quando chamado pelo nome e sentar-se sem suporte"
+        },
+        {
+          "letra": "B",
+          "texto": "dar alguns passos por conta própria e usar os dedos para se alimentar com um pouco de comida"
+        },
+        {
+          "letra": "C",
+          "texto": "tentar dizer uma ou duas palavras além de “mama” ou “dada”"
+        },
+        {
+          "letra": "D",
+          "texto": "apontar para pedir algo ou para obter ajuda"
+        },
+        {
+          "letra": "E",
+          "texto": "imitar outras crianças enquanto brinca"
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.puericultura.desenvolvimento"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q051",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 51,
+      "enunciado": "A consulta pediátrica de puericultura de rotina é um momento importante na prevenção e na promoção da saúde infantil. A respeito dos parâmetros do crescimento referentes aos primeiros 1.000 dias de vida, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Durante o período intrauterino, o pico da velocidade de crescimento de comprimento ocorre no terceiro trimestre da gravidez."
+        },
+        {
+          "letra": "B",
+          "texto": "O crescimento da criança é variável, mas apresenta velocidade constante."
+        },
+        {
+          "letra": "C",
+          "texto": "O lactente, no primeiro ano de vida, geralmente duplica o peso, por volta dos 4 a 6 meses de vida, e triplica o peso do nascimento com 15 meses de vida."
+        },
+        {
+          "letra": "D",
+          "texto": "No segundo trimestre de vida, o lactente aumenta o perímetro cefálico, em média, 1 cm/mês."
+        },
+        {
+          "letra": "E",
+          "texto": "O hormônio de crescimento (GH) é o principal hormônio envolvido na aceleração do crescimento intrauterino."
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.puericultura.crescimento"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q052",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 52,
+      "enunciado": "Uma mãe levou seu filho de 6 anos de idade ao pronto atendimento infantil, pois, há duas horas, ele tomou o remédio que ela usa para dormir: clonazepam.\nCom base nessa situação hipotética, assinale a alternativa que apresenta, respectivamente, o antídoto e a principal causa de morbimortalidade nas crianças intoxicadas por esse medicamento.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "naloxona/depressão respiratória"
+        },
+        {
+          "letra": "B",
+          "texto": "flumazenil/lesão hepática"
+        },
+        {
+          "letra": "C",
+          "texto": "n-acetilcisteína/lesão hepática"
+        },
+        {
+          "letra": "D",
+          "texto": "flumazenil/depressão respiratória"
+        },
+        {
+          "letra": "E",
+          "texto": "naloxona/lesão hepática"
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.emergencia",
+        "clinica.emergencia.intoxicacoes"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q053",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 53,
+      "enunciado": "Uma criança de 1 ano e 10 meses de idade foi vítima de afogamento e levada por seus pais ao pronto-socorro. Ela não apresentou resposta ao ambiente e, no monitor, apresentou o ritmo de taquicardia ventricular. Com base nessa situação hipotética, assinale a alternativa que apresenta a conduta adequada para esse caso.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "checar pulso no pulso carotídeo e, na ausência de pulso, realizar desfibrilação com 2 j/kg"
+        },
+        {
+          "letra": "B",
+          "texto": "checar pulso no pulso braquial e, na ausência de pulso, realizar cardioversão sincronizada com 1j/kg"
+        },
+        {
+          "letra": "C",
+          "texto": "checar pulso no pulso carotídeo e, na ausência de pulso, iniciar adrenalina 0,01 mg/kg"
+        },
+        {
+          "letra": "D",
+          "texto": "checar pulso no pulso braquial e, na ausência de pulso, realizar desfibrilação com 2 j/kg"
+        },
+        {
+          "letra": "E",
+          "texto": "checar pulso no pulso braquial e, na ausência de pulso, realizar cardioversão sincronizada 0,5 j/kg"
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.emergencia",
+        "clinica.emergencia.pcr"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q054",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 54,
+      "enunciado": "A adolescência é uma fase de transição da infância à vida adulta, em que ocorrem diversos fenômenos sociais, culturais, econômicos e hormonais que iniciam a puberdade, ou seja, processo de alterações físicas que culminam na maturação física e sexual.\nQuanto ao crescimento e à puberdade na adolescência, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A menarca ocorre, em média, de um ano a um ano e meio após a telarca."
+        },
+        {
+          "letra": "B",
+          "texto": "Nos meninos, a espermarca geralmente ocorre em G4."
+        },
+        {
+          "letra": "C",
+          "texto": "De 50% a 75% da massa óssea do indivíduo adulto é adquirida na adolescência."
+        },
+        {
+          "letra": "D",
+          "texto": "O estirão puberal dos meninos é mais tardio e de menor magnitude que das meninas."
+        },
+        {
+          "letra": "E",
+          "texto": "A aceleração da velocidade de crescimento ocorre no Tanner dois, tanto para meninos quanto para meninas."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.puericultura.crescimento"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q055",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 55,
+      "enunciado": "A figura a seguir é a caderneta de uma menina de 3 anos e 2 meses de idade que apresentou 18 kg de peso e IMC 18. Com base nessa situação hipotética, nas medidas isoladas, plotadas em forma de círculo no gráfico dessa caderneta da criança, assinale a alternativa que apresenta a classificação dessa criança em relação ao peso para a idade e o IMC.",
+      "imagem": "/provas/sus-sp-2025/q055.jpg",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "peso elevado/IMC adequado"
+        },
+        {
+          "letra": "B",
+          "texto": "peso adequado/IMC com risco de sobrepeso"
+        },
+        {
+          "letra": "C",
+          "texto": "peso adequado/IMC adequado"
+        },
+        {
+          "letra": "D",
+          "texto": "peso elevado/IMC com risco de sobrepeso"
+        },
+        {
+          "letra": "E",
+          "texto": "peso elevado/IMC adequado"
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.puericultura.crescimento"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q056",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 56,
+      "enunciado": "Quanto às recomendações de suplementação de ferro do consenso sobre anemia ferropriva da sociedade brasileira de pediatria, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Recém-nascidos a termo, peso adequado para a idade gestacional, em aleitamento materno exclusivo, porém com fator de risco para anemia ferropriva, devem receber 1 mg de ferro elementar/kg/dia, iniciando aos 3 meses de vida até os 2 anos de idade."
+        },
+        {
+          "letra": "B",
+          "texto": "Recém-nascidos a termo, peso adequado para a idade gestacional, em aleitamento materno exclusivo devem receber 1 mg de ferro elementar/kg/dia, iniciando aos 6 meses de vida até os 2 anos de idade, independentemente da presença de fatores de risco para anemia ferropriva."
+        },
+        {
+          "letra": "C",
+          "texto": "Recém-nascidos a termo, peso adequado para a idade gestacional, em aleitamento materno exclusivo, porém com fator de risco para anemia ferropriva, devem receber 2 mg de ferro elementar/kg/dia, iniciando aos 3 meses de vida até os 2 anos de idade."
+        },
+        {
+          "letra": "D",
+          "texto": "Recém-nascidos a termo, peso adequado para a idade gestacional, em aleitamento materno exclusivo devem receber 2 mg de ferro elementar/kg/dia, iniciando aos 6 meses de vida até os 2 anos de idade, independentemente da presença de fatores de risco para anemia ferropriva."
+        },
+        {
+          "letra": "E",
+          "texto": "Recém-nascidos a termo, peso adequado para a idade gestacional, em aleitamento materno exclusivo, sem fator de risco para anemia ferropriva, devem receber 1 mg de ferro elementar/kg/dia, iniciando aos 6 meses de vida até 1 ano de idade."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.puericultura.aleitamento",
+        "clinica.hemato.anemias"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q057",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 57,
+      "enunciado": "Uma criança de 2 anos de idade, do sexo feminino, com diagnóstico prévio de doença falciforme foi levada pelos pais ao hospital com quadro de astenia, palidez e dor abdominal, com piora nas últimas horas. Ao exame físico, a criança foi notada letárgica e com baço palpável a cerca de 5 cm do rebordo costal esquerdo. Com base nessa situação hipotética, assinale a alternativa que apresenta a conduta adequada em relação à criança.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "hidratação, analgesia e realização de ultrassom de abdome para confirmar esplenomegalia"
+        },
+        {
+          "letra": "B",
+          "texto": "administração de antibióticos de amplo espectro e hidratação venosa"
+        },
+        {
+          "letra": "C",
+          "texto": "solicitar transfusão de concentrado de hemácias com urgência e manter monitorização clínica"
+        },
+        {
+          "letra": "D",
+          "texto": "entrar em contato com equipe de cirurgia para realização esplenectomia de urgência"
+        },
+        {
+          "letra": "E",
+          "texto": "coletar sorologia para parvovírus B19 e iniciar terapia com antibiótico"
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "clinica.hemato.anemias",
+        "pediatria.emergencia"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q058",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 58,
+      "enunciado": "Uma menina de 5 anos de idade foi levada ao pronto-socorro pelos pais após sofrer uma queda de patinete. Os pais relatam que, no momento da queda, a criança estava sem capacete e bateu a cabeça. Na entrada do pronto-socorro, a criança encontrava-se irritada, um pouco sonolenta, e com algumas escoriações. Durante a avaliação, a menina apresentou episódios de vômitos. Com base nessa situação hipotética, assinale a alternativa que apresenta a conduta adequada para esse caso.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "alta hospitalar, orientando os pais a respeito da benignidade do caso"
+        },
+        {
+          "letra": "B",
+          "texto": "prescrever antieméticos, analgésico e hidratação"
+        },
+        {
+          "letra": "C",
+          "texto": "orientar retorno em 48 horas para reavaliação e realização de exames de imagem"
+        },
+        {
+          "letra": "D",
+          "texto": "encaminhamento para neurocirurgia de urgência"
+        },
+        {
+          "letra": "E",
+          "texto": "solicitar tomografia de crânio para avaliar possíveis lesões intracranianas"
+        }
+      ],
+      "gabarito": "E",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.emergencia",
+        "cirurgia.trauma.tce"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q059",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 59,
+      "enunciado": "Uma lactente de 10 meses de vida foi levada ao pediatra pelos pais com queixa de dificuldade para dormir devido a prurido na pele. Ao exame físico, foi verificada a presença de lesões eritematosas com pápulas, vesículas e crostas na face, além de algumas lesões de mesmo aspecto na região extensora dos braços. Foi notada ausência de lesões na região do nariz e da boca.\nCom base nessa situação hipotética, assinale a alternativa que apresenta o diagnóstico e a conduta terapêutica adequada para esse caso.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "impetigo, prescrever antibiótico tópico e orientações para descolonização"
+        },
+        {
+          "letra": "B",
+          "texto": "dermatite seborreica, orientar uso de corticoide tópico"
+        },
+        {
+          "letra": "C",
+          "texto": "prurigo estrófulo, prescrever corticoide tópico e uso de repelentes"
+        },
+        {
+          "letra": "D",
+          "texto": "dermatite atópica, orientar hidratação da pele"
+        },
+        {
+          "letra": "E",
+          "texto": "dermatite de contato alérgica e anti-histamínicos"
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.puericultura"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q060",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 60,
+      "enunciado": "Um menino de 6 anos de idade foi levado para consulta pela mãe devido a episódios frequentes de falta de ar, tosse e “chiado no peito”, que pioram no período da noite e durante a prática de atividades físicas. A mãe relatou que a criança já esteve internada no pronto-socorro algumas vezes devido a desconforto respiratório e que, nessa ocasião, fora dado um diagnóstico de asma. Atualmente, a criança tem feito uso apenas de broncodilatadores e realizado inalação com soro fisiológico quando os sintomas ficam mais intensos.\nCom base nessa situação hipotética, assinale a alternativa que apresenta a conduta adequada para controlar essa doença.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "prescrever antibiótico profilático para evitar as crises, que geralmente estão relacionadas à infecção bacteriana"
+        },
+        {
+          "letra": "B",
+          "texto": "manter paciente com broncodilatadores de forma contínua e aumentar a dose no caso de crise"
+        },
+        {
+          "letra": "C",
+          "texto": "prescrever corticoide via oral contínua e manter uso de broncodilatadores apenas nas crises"
+        },
+        {
+          "letra": "D",
+          "texto": "iniciar o uso de corticoide inalatório diário para ajudar na inflamação crônica das vias aéreas"
+        },
+        {
+          "letra": "E",
+          "texto": "proibir a realização de atividades físicas, uma vez que elas são fatores de piora das crises do paciente"
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.emergencia.asma"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q061",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 61,
+      "enunciado": "Uma paciente de 65 anos de idade, hipertensa em uso de enalapril 10 mg/dia (para hipertensão arterial), relatou sangramento genital durante três dias em pequena quantidade, sem cólicas. Ela negou qualquer outra sintomatologia. O exame ginecológico foi normal.\nCom base nessa situação hipotética, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a causa mais provável do sangramento é atrofia endometrial."
+        },
+        {
+          "letra": "B",
+          "texto": "a causa mais provável é o uso do enalapril. Deve-se suspender a medicação e manter a observação."
+        },
+        {
+          "letra": "C",
+          "texto": "a causa mais provável, nessa faixa etária, é o câncer do endométrio. Deve-se investigar e fazer a ablação histeroscópica do endométrio."
+        },
+        {
+          "letra": "D",
+          "texto": "deve-se realizar a ultrassonografia transvaginal. Se a espessura endometrial estiver menor que 10 mm, é considerada normal."
+        },
+        {
+          "letra": "E",
+          "texto": "a histeroscopia ambulatorial será indicada, se a espessura endometrial à ultrassonografia for maior que 15 mm."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "go.ginecologia.sua"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q062",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 62,
+      "enunciado": "Uma paciente de 23 anos de idade relatou ter corrimento branco amarelado com odor desagradável, que piora quando mantém relações sexuais. Ao exame especular, o colo uterino estava aparentemente normal, e o conteúdo vaginal era branco leitoso. Ao realizar exame a fresco com soro fisiológico, o médico encontrou diversas células, descritas como clue cells ou células alvos. Com base nessa situação hipotética, esses achados sugerem",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "candidíase vaginal."
+        },
+        {
+          "letra": "B",
+          "texto": "infecção por Trichomonas vaginalis."
+        },
+        {
+          "letra": "C",
+          "texto": "infecção por Gardnerella vaginalis."
+        },
+        {
+          "letra": "D",
+          "texto": "infecção por HPV."
+        },
+        {
+          "letra": "E",
+          "texto": "infecção por HIV."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "go.ginecologia.ist"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q063",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 63,
+      "enunciado": "Uma paciente de 18 anos de idade relatou ter dificuldade em manter relações sexuais, pois sente muita dor durante a penetração. Ao exame ginecológico, foi detectada a existência de dois colos uterinos e um septo vaginal longitudinal. O ginecologista informou à paciente que se trata de um útero didelfo.\nCom base nessa situação hipotética e em relação a essa afecção, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "se trata de uma anomalia do cromossomo 18."
+        },
+        {
+          "letra": "B",
+          "texto": "o tratamento é cirúrgico, com a retirada do septo vaginal e do hemiútero esquerdo."
+        },
+        {
+          "letra": "C",
+          "texto": "o diagnóstico correto é útero bicorno."
+        },
+        {
+          "letra": "D",
+          "texto": "se trata da não fusão dos dutos paramesonéfricos."
+        },
+        {
+          "letra": "E",
+          "texto": "a confirmação diagnóstica é realizada com a histeroscopia diagnóstica e tratada com a histeroscopia cirúrgica."
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "go.ginecologia"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q064",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 64,
+      "enunciado": "Uma paciente de 22 anos de idade, obesa e com hirsutismo, estava em tratamento com diagnóstico de síndrome dos ovários policísticos. Ela informou que notou o aparecimento de manchas escuras e aveludadas nas axilas, na virilha e no pescoço. O ginecologista informou tratar-se de Acantose nigricans.\nCom base nessa situação hipotética, o aparecimento dessas manchas é causado devido ao(à)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aumento da produção de androstenediona."
+        },
+        {
+          "letra": "B",
+          "texto": "resistência à insulina."
+        },
+        {
+          "letra": "C",
+          "texto": "anovulação crônica."
+        },
+        {
+          "letra": "D",
+          "texto": "hipoestrogenismo crônico."
+        },
+        {
+          "letra": "E",
+          "texto": "inversão da relação FSH e LH."
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "go.ginecologia.ciclo"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q065",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 65,
+      "enunciado": "Uma paciente de 49 anos de idade relatou irritabilidade, sudorese noturna e secura vaginal. Aos 44 anos, ela foi submetida à histerectomia subtotal devido a mioma uterino. A paciente é acometida por diabetes tipo II controlado e faz uso de 500 mg de metformina por dia. O ginecologista chegou ao diagnóstico de síndrome do climatério e propôs realizar uma terapia hormonal. Com base nessa situação hipotética, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a terapia hormonal está contraindicada em razão do diabetes."
+        },
+        {
+          "letra": "B",
+          "texto": "deve ser realizada uma terapia hormonal combinada de estrogênio e progestagênio obrigatoriamente."
+        },
+        {
+          "letra": "C",
+          "texto": "pode ser realizada uma terapia hormonal apenas com estrogênio, em razão da histerectomia subtotal."
+        },
+        {
+          "letra": "D",
+          "texto": "será encontrado LH mais elevado que o FSH e a androstenediona bastante elevada, se for realizada uma dosagem hormonal."
+        },
+        {
+          "letra": "E",
+          "texto": "a melhor terapêutica é o uso de implante hormonal de etonogestrel (progestagênio)."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "go.ginecologia.climaterio"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q066",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 66,
+      "enunciado": "Uma paciente de 48 anos de idade realizou uma mamografia de rotina, na qual foi encontrada uma densidade assimétrica na mama esquerda, com diagnóstico radiológico de BI-RADS 3. A paciente também realizou uma ultrassonografia mamária, na qual se constatou um quadro normal.\nCom base nessa situação hipotética, a conduta adequada será",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "repetir a mamografia em seis meses."
+        },
+        {
+          "letra": "B",
+          "texto": "repetir a mamografia em um ano."
+        },
+        {
+          "letra": "C",
+          "texto": "realizar mamotomia na mama esquerda."
+        },
+        {
+          "letra": "D",
+          "texto": "realizar core biopsy na mama esquerda."
+        },
+        {
+          "letra": "E",
+          "texto": "realizar ressonância magnética das mamas."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "go.ginecologia.mama"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q067",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 67,
+      "enunciado": "Assinale a alternativa que apresenta fatores de risco para o desenvolvimento de câncer do colo do útero.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nuliparidade, iniciação sexual precoce e diabetes"
+        },
+        {
+          "letra": "B",
+          "texto": "hipertensão, obesidade e diabetes"
+        },
+        {
+          "letra": "C",
+          "texto": "multiparidade, elevado nível socioeconômico e antecedente familiar"
+        },
+        {
+          "letra": "D",
+          "texto": "multiparidade, iniciação sexual precoce e baixo nível socioeconômico"
+        },
+        {
+          "letra": "E",
+          "texto": "tabagismo, uso de drogas ilícitas e sedentarismo"
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "go.ginecologia.colo"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q068",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 68,
+      "enunciado": "Uma paciente de 33 anos de idade, após a realização de videolaparoscopia, foi diagnosticada com endometriose pélvica profunda.\nCom base nessa situação hipotética, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os focos de endometriose penetram mais que 5 mm no local de implantação."
+        },
+        {
+          "letra": "B",
+          "texto": "a doença está em estádio avançado, causando infertilidade."
+        },
+        {
+          "letra": "C",
+          "texto": "a doença tem que ser tratada com análogo ou antagonista do GnRH por, no mínimo, um ano."
+        },
+        {
+          "letra": "D",
+          "texto": "a doença afetou o reto sigmoide e deverá ser tratada com histerectomia e ressecção parcial do reto sigmoide."
+        },
+        {
+          "letra": "E",
+          "texto": "a doença afeta, no mínimo, três órgãos, por exemplo, útero, bexiga e ovários."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "go.ginecologia.endometriose"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q069",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 69,
+      "enunciado": "Uma paciente estava com sangramento uterino anormal e compareceu ao hospital para ser submetida à ultrassonografia transvaginal e à histeroscopia ambulatorial. A paciente foi diagnosticada com a presença de um mioma submucoso tipo zero.\nCom base nessa situação hipotética, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o mioma está localizado integralmente no miométrio."
+        },
+        {
+          "letra": "B",
+          "texto": "o mioma tem grande processo de degeneração hialina."
+        },
+        {
+          "letra": "C",
+          "texto": "o mioma tem 50% de seu volume na cavidade uterina e 50% no miométrio."
+        },
+        {
+          "letra": "D",
+          "texto": "não poderá ser operada por histeroscopia."
+        },
+        {
+          "letra": "E",
+          "texto": "o mioma está localizado integralmente na cavidade uterina."
+        }
+      ],
+      "gabarito": "E",
+      "origem": "oficial",
+      "temas": [
+        "go.ginecologia.sua"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q070",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 70,
+      "enunciado": "Uma paciente portadora de herpes genital simples indagou o ginecologista a respeito da origem da afecção, do prognóstico e da terapêutica.\nCom base nessa situação hipotética, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "É causada pelos cinco tipos de herpes (1, 2, 3, 4 e 5) e tem bom prognóstico."
+        },
+        {
+          "letra": "B",
+          "texto": "Pode ser recorrente, mas é curada com a vacina."
+        },
+        {
+          "letra": "C",
+          "texto": "O tratamento é, preferencialmente, local com o aciclovir."
+        },
+        {
+          "letra": "D",
+          "texto": "A vacina para HPV por reação cruzada melhora o prognóstico da doença."
+        },
+        {
+          "letra": "E",
+          "texto": "É uma doença recorrente, incurável e as recidivas são mais comuns nas infecções pelo tipo 2."
+        }
+      ],
+      "gabarito": "E",
+      "origem": "oficial",
+      "temas": [
+        "go.ginecologia.ist"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q071",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 71,
+      "enunciado": "A membrana amniótica é caracterizada por apresentar células de Hofbauer na camada denominada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "membrana basal."
+        },
+        {
+          "letra": "B",
+          "texto": "fibroblástica."
+        },
+        {
+          "letra": "C",
+          "texto": "compacta."
+        },
+        {
+          "letra": "D",
+          "texto": "espongiosa."
+        },
+        {
+          "letra": "E",
+          "texto": "epitelial."
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "go.obstetricia"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q072",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 72,
+      "enunciado": "O transporte de imunoglobulinas e albumina pelo trofoblasto faz-se por meio de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "difusão simples."
+        },
+        {
+          "letra": "B",
+          "texto": "difusão facilitada."
+        },
+        {
+          "letra": "C",
+          "texto": "osmose."
+        },
+        {
+          "letra": "D",
+          "texto": "transporte passivo."
+        },
+        {
+          "letra": "E",
+          "texto": "pinocitose."
+        }
+      ],
+      "gabarito": "E",
+      "origem": "oficial",
+      "temas": [
+        "go.obstetricia"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q073",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 73,
+      "enunciado": "O diâmetro de insinuação da apresentação cefálica fletida a da apresentação pélvica é, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ocipitobregmatico e bituberoso."
+        },
+        {
+          "letra": "B",
+          "texto": "ocipitofrontal e bitrocanterico."
+        },
+        {
+          "letra": "C",
+          "texto": "ocipitomentoneiro e bitrocanterico."
+        },
+        {
+          "letra": "D",
+          "texto": "biparietal e bitrocanterico."
+        },
+        {
+          "letra": "E",
+          "texto": "ocipitofrontal e bituberoso."
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "go.obstetricia.parto"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q074",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 74,
+      "enunciado": "O assinclitismo posterior é caracterizado por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "descida inicial do parietal posterior."
+        },
+        {
+          "letra": "B",
+          "texto": "descida inicial do parietal anterior."
+        },
+        {
+          "letra": "C",
+          "texto": "sutura sagital no diâmetro transverso."
+        },
+        {
+          "letra": "D",
+          "texto": "sutura sagital mais próxima do promontório."
+        },
+        {
+          "letra": "E",
+          "texto": "lambda próxima do púbis."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "go.obstetricia.parto"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q075",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 75,
+      "enunciado": "No toque obstétrico, quando o dedo indicador está na mesma altura que o dedo médio, ao nível das espinha ciáticas, na avaliação da descida, é correto afirmar que a apresentação está no plano",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "zero."
+        },
+        {
+          "letra": "B",
+          "texto": "menos 1."
+        },
+        {
+          "letra": "C",
+          "texto": "mais 1."
+        },
+        {
+          "letra": "D",
+          "texto": "menos 2."
+        },
+        {
+          "letra": "E",
+          "texto": "mais 2."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "go.obstetricia.parto"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q076",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 76,
+      "enunciado": "O desprendimento do polo cefálico na defletida de primeiro grau faz-se por meio de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "deflexão."
+        },
+        {
+          "letra": "B",
+          "texto": "flexão."
+        },
+        {
+          "letra": "C",
+          "texto": "deflexão e flexão."
+        },
+        {
+          "letra": "D",
+          "texto": "flexão e deflexão."
+        },
+        {
+          "letra": "E",
+          "texto": "extensão."
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "go.obstetricia.parto"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q077",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 77,
+      "enunciado": "A linha de orientação da cefálica defletida de primeiro grau é denominada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sutura sagital."
+        },
+        {
+          "letra": "B",
+          "texto": "sutura sagitometópica."
+        },
+        {
+          "letra": "C",
+          "texto": "sutura metópica."
+        },
+        {
+          "letra": "D",
+          "texto": "linha facial."
+        },
+        {
+          "letra": "E",
+          "texto": "gradeado costal."
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "go.obstetricia.parto"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q078",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 78,
+      "enunciado": "Com o feto vivo e de termo, a apresentação MEP persistente não permite o parto vaginal, porque o diâmentro",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mentoesternal é maior que a altura do sacro."
+        },
+        {
+          "letra": "B",
+          "texto": "ocipitomentoneiro é maior que o conjugado obstétrico."
+        },
+        {
+          "letra": "C",
+          "texto": "ocípitofrontal não atinge o plano zero."
+        },
+        {
+          "letra": "D",
+          "texto": "mentoesternal é maior que a altura do púbis."
+        },
+        {
+          "letra": "E",
+          "texto": "o diâmetro subocipitobregmatico é maior que o Conjugata exitus."
+        }
+      ],
+      "gabarito": null,
+      "origem": "oficial",
+      "temas": [
+        "go.obstetricia.parto"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q079",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 79,
+      "enunciado": "A rotação interna de uma apresentação cefálica OS é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0°."
+        },
+        {
+          "letra": "B",
+          "texto": "45°."
+        },
+        {
+          "letra": "C",
+          "texto": "90°."
+        },
+        {
+          "letra": "D",
+          "texto": "135°."
+        },
+        {
+          "letra": "E",
+          "texto": "180°."
+        }
+      ],
+      "gabarito": "E",
+      "origem": "oficial",
+      "temas": [
+        "go.obstetricia.parto"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q080",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 80,
+      "enunciado": "A manobra de Bracht na apresentação pélvica é utilizada para o desprendimento do polo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cefálico."
+        },
+        {
+          "letra": "B",
+          "texto": "pélvico."
+        },
+        {
+          "letra": "C",
+          "texto": "cefálico e cintura escapular."
+        },
+        {
+          "letra": "D",
+          "texto": "pélvico e cintura escapular."
+        },
+        {
+          "letra": "E",
+          "texto": "cefálico e cintura pélvica."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "go.obstetricia.parto"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q081",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 81,
+      "enunciado": "Um estudo mostrou que uma nova vacina reduziu a incidência de uma doença em 80% em uma população. Com base nessa situação hipotética, é correto afirmar que esse é um exemplo de um tipo de medida epidemiológica denominado",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "risco relativo."
+        },
+        {
+          "letra": "B",
+          "texto": "incidência cumulativa."
+        },
+        {
+          "letra": "C",
+          "texto": "redução de risco relativo."
+        },
+        {
+          "letra": "D",
+          "texto": "redução de risco absoluto."
+        },
+        {
+          "letra": "E",
+          "texto": "prevalência."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.epidemio.estudos"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q082",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 82,
+      "enunciado": "Um município identificou um aumento de casos de dengue em uma determinada área.\nCom base nessa situação hipotética, é correto afirmar que a primeira ação a ser realizada pela equipe de vigilância epidemiológica local será a de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "notificar as autoridades federais sobre o surto de dengue."
+        },
+        {
+          "letra": "B",
+          "texto": "orientar a população para medidas de prevenção e de controle do mosquito."
+        },
+        {
+          "letra": "C",
+          "texto": "encaminhar todos os casos para internação em hospitais de referência."
+        },
+        {
+          "letra": "D",
+          "texto": "realizar uma investigação epidemiológica para entender a extensão do problema."
+        },
+        {
+          "letra": "E",
+          "texto": "vacinar a população contra a dengue."
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.epidemio.vigilancia"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q083",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 83,
+      "enunciado": "Um artigo concluiu que o uso de um determinado medicamento reduziu o tempo de internação hospitalar em pacientes com uma doença crônica. A amostra do estudo, porém, é pequena e não randomizada.\nCom base nessa situação hipotética, assinale a alternativa que apresenta a principal limitação desse estudo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ausência de um grupo de controle"
+        },
+        {
+          "letra": "B",
+          "texto": "falta de representatividade da amostra"
+        },
+        {
+          "letra": "C",
+          "texto": "incapacidade de generalizar os resultados"
+        },
+        {
+          "letra": "D",
+          "texto": "uso de uma medida de desfecho subjetiva"
+        },
+        {
+          "letra": "E",
+          "texto": "custo elevado do medicamento"
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.epidemio.estudos"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q084",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 84,
+      "enunciado": "Uma paciente de 34 anos de idade foi atendida pela primeira vez em uma unidade básica de saúde (UBS) após sentir dores de cabeça frequentes e pressão alta. A equipe de APS realizou uma avaliação inicial, orientou sobre a importância de mudanças no estilo de vida e agendou uma consulta de retorno para acompanhamento. Durante o atendimento, a paciente comentou que já esteve em uma emergência hospitalar por conta da pressão alta, mas que nunca conseguiu acompanhamento regular.\nCom base nessa situação hipotética, assinale a alternativa que apresenta um dos principais papéis da atenção primária à saúde.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "acompanhar a paciente ao longo do tempo, coordenando seu cuidado e monitorando sua condição de saúde"
+        },
+        {
+          "letra": "B",
+          "texto": "enviar a paciente à emergência para resolver imediatamente o problema de pressão alta"
+        },
+        {
+          "letra": "C",
+          "texto": "solicitar uma série de exames laboratoriais e de imagem para investigar todas as possíveis causas da hipertensão"
+        },
+        {
+          "letra": "D",
+          "texto": "limitar o atendimento às queixas atuais da paciente e aguardá-la buscar a unidade de saúde novamente no caso do retorno dos sintomas"
+        },
+        {
+          "letra": "E",
+          "texto": "encaminhar a paciente para o especialista focal, em razão de quadros de hipertensão anteriormente apresentados"
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.sus.aps"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q085",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 85,
+      "enunciado": "Em um município do interior, houve um aumento repentino de casos de diarreia aguda entre crianças em uma creche. A equipe de saúde pública foi acionada para investigar as possíveis causas e evitar a propagação da doença.\nCom base nessa situação hipotética, é correto afirmar que a primeira medida adotada pela equipe de vigilância epidemiológica deve ser",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "iniciar uma campanha de vacinação contra diarreia na comunidade."
+        },
+        {
+          "letra": "B",
+          "texto": "recolher amostras de água e de alimentos para análise laboratorial e verificar a qualidade sanitária da creche."
+        },
+        {
+          "letra": "C",
+          "texto": "notificar as autoridades estaduais sobre uma possível epidemia e aguardar orientação."
+        },
+        {
+          "letra": "D",
+          "texto": "medicar todas as crianças com diarreia para evitar o agravamento dos sintomas."
+        },
+        {
+          "letra": "E",
+          "texto": "encaminhar as crianças para atendimento hospitalar especializado."
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.epidemio.vigilancia"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q086",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 86,
+      "enunciado": "Durante uma consulta, um paciente adolescente pediu ao médico que não informasse seus pais sobre um problema de saúde, pois ele temia uma reação negativa. Com base nessa situação hipotética, segundo o Código de Ética Médica, assinale a alternativa que apresenta a situação em que o médico deve respeitar o pedido de confidencialidade do paciente adolescente.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Quando o paciente tem 16 anos de idade ou mais e entende os riscos envolvidos."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente se o problema de saúde do adolescente não representa um risco grave à sua saúde ou à saúde de terceiros."
+        },
+        {
+          "letra": "C",
+          "texto": "Quando o adolescente assina um termo de responsabilidade pela confidencialidade."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente se o médico julgar que os pais não são emocionalmente preparados para lidar com a situação."
+        },
+        {
+          "letra": "E",
+          "texto": "Sempre que o paciente pedir sigilo, independentemente do contexto."
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.etica.codigo"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q087",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 87,
+      "enunciado": "Em um bairro com altos índices de doenças respiratórias, a equipe da unidade básica de saúde desenvolveu um projeto de promoção da saúde para prevenir contra esses problemas.\nCom base nessa situação hipotética, assinale a estratégia que está alinhada a uma abordagem de promoção da saúde.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "distribuir medicamentos para todos os moradores com sintomas respiratórios"
+        },
+        {
+          "letra": "B",
+          "texto": "realizar oficinas sobre controle de umidade e ventilação adequada nas residências"
+        },
+        {
+          "letra": "C",
+          "texto": "encaminhar os pacientes com sintomas respiratórios para consultas especializadas"
+        },
+        {
+          "letra": "D",
+          "texto": "identificar os indivíduos com problemas respiratórios e oferecer assistência prioritária"
+        },
+        {
+          "letra": "E",
+          "texto": "fazer exames de raio X em todos os moradores para detectar doenças respiratórias precocemente"
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.rastreamento.rastreio",
+        "preventiva.sus.aps"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q088",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 88,
+      "enunciado": "Em uma cidade com aumento de casos de hipertensão e diabetes, a secretaria de saúde resolveu desenvolver um plano de ações de prevenção. Durante a reunião, uma proposta de intervenção comunitária foi sugerida.\nCom base nessa situação hipotética, assinale a alternativa que apresenta a ação que está alinhada à abordagem de promoção da saúde para prevenção de doenças crônicas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fornecer medicamentos para hipertensão e diabetes gratuitamente"
+        },
+        {
+          "letra": "B",
+          "texto": "realizar consultas de acompanhamento a cada seis meses com pacientes diagnosticados"
+        },
+        {
+          "letra": "C",
+          "texto": "promover grupos de caminhada e atividades físicas nos parques da cidade, incentivando a participação de toda a comunidade"
+        },
+        {
+          "letra": "D",
+          "texto": "implantar uma triagem anual para identificar novos casos de hipertensão e diabetes"
+        },
+        {
+          "letra": "E",
+          "texto": "distribuir panfletos informativos sobre as doenças nas unidades de saúde"
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.rastreamento.rastreio",
+        "preventiva.sus.aps"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q089",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 89,
+      "enunciado": "Durante uma campanha de vacinação contra a gripe em um bairro, a equipe de saúde observou que muitos idosos com comorbidades não estavam participando.\nCom base nessa situação hipotética, assinale a alternativa que apresenta a ação indicada para aumentar a adesão desse grupo à vacinação.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Enviar mensagens de texto semanais com lembretes sobre a campanha."
+        },
+        {
+          "letra": "B",
+          "texto": "realizar palestras semanais sobre a importância da vacina em locais públicos"
+        },
+        {
+          "letra": "C",
+          "texto": "oferecer a vacinação em domicílio para os idosos com mobilidade reduzida"
+        },
+        {
+          "letra": "D",
+          "texto": "distribuir panfletos informativos nas farmácias e supermercados locais"
+        },
+        {
+          "letra": "E",
+          "texto": "aumentar o número de dias da campanha de vacinação no posto de saúde"
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.sus.aps"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q090",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 90,
+      "enunciado": "Um médico descobriu, durante uma consulta, que seu paciente tem uma doença infectocontagiosa e se recusava a avisar a pessoa com quem convive.\nSegundo o Código de Ética Médica, a atitude que o médico deve adotar é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "respeitar a confidencialidade e manter o sigilo sobre a condição do paciente."
+        },
+        {
+          "letra": "B",
+          "texto": "notificar as autoridades de saúde pública, devido ao risco de transmissão."
+        },
+        {
+          "letra": "C",
+          "texto": "pedir ao paciente para assinar um termo de responsabilidade, isentando o médico de qualquer consequência."
+        },
+        {
+          "letra": "D",
+          "texto": "informar imediatamente a pessoa em risco sem o consentimento do paciente."
+        },
+        {
+          "letra": "E",
+          "texto": "encaminhar o paciente a outro médico para evitar envolvimento ético."
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.etica.codigo"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q091",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 91,
+      "enunciado": "Um homem de 35 anos de idade compareceu à unidade básica de saúde com queixas de cansaço excessivo, dificuldade de concentração e perda de interesse nas atividades que costumava apreciar. Ele trabalhava como motorista de ônibus e relatou que os sintomas começaram há alguns meses, mas que se intensificaram recentemente. Ele negou histórico psiquiátrico anterior e afirmou que o ambiente de trabalho tem sido estressante. Após uma avaliação inicial, ele apresentou sintomas compatíveis com um quadro leve de depressão, sem sinais de ideação suicida.\nCom base nessa situação hipotética, a conduta indicada para o paciente segundo as diretrizes do SUS para o atendimento de saúde mental na atenção primária, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "encaminhar o paciente imediatamente para um psiquiatra."
+        },
+        {
+          "letra": "B",
+          "texto": "prescrever antidepressivos sem avaliação de outras abordagens."
+        },
+        {
+          "letra": "C",
+          "texto": "agendar consultas periódicas para acompanhamento e iniciar apoio psicossocial na unidade básica de saúde."
+        },
+        {
+          "letra": "D",
+          "texto": "recomendar que o paciente busque terapia em uma clínica privada."
+        },
+        {
+          "letra": "E",
+          "texto": "solicitar exames laboratoriais antes de iniciar qualquer ação de acompanhamento."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.sus.aps",
+        "clinica.psiq.humor"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q092",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 92,
+      "enunciado": "Em um surto de sarampo, a prioridade para a contenção da transmissão em uma área afetada é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ampliar a vacinação para a faixa etária de 6 a 12 meses de vida na área de surto"
+        },
+        {
+          "letra": "B",
+          "texto": "monitorar todos os casos notificados sem intervenções adicionais"
+        },
+        {
+          "letra": "C",
+          "texto": "iniciar a vacinação somente após confirmação de todos os casos"
+        },
+        {
+          "letra": "D",
+          "texto": "administrar antivirais a todos os casos suspeitos"
+        },
+        {
+          "letra": "E",
+          "texto": "isolar apenas os pacientes sintomáticos e liberar os contatos"
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.epidemio.vigilancia"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q093",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 93,
+      "enunciado": "Assinale a alternativa que apresenta o exemplo de uma ação de intersetorialidade no contexto da saúde pública.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O hospital realiza campanhas internas de higiene das mãos entre profissionais de saúde."
+        },
+        {
+          "letra": "B",
+          "texto": "A prefeitura organiza uma feira de saúde para oferecer exames gratuitos."
+        },
+        {
+          "letra": "C",
+          "texto": "A secretaria de saúde trabalha em conjunto com a secretaria de educação para promover educação nutricional nas escolas."
+        },
+        {
+          "letra": "D",
+          "texto": "Um posto de saúde oferece palestras de prevenção para seus pacientes."
+        },
+        {
+          "letra": "E",
+          "texto": "Uma unidade de saúde adota protocolos para reduzir internações."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.sus.principios"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q094",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 94,
+      "enunciado": "Em uma unidade básica de saúde (UBS) manter de um bairro periférico, a equipe de saúde observou que muitos pacientes com doenças crônicas, como diabetes e hipertensão, apresentavam dificuldades para seguir o tratamento recomendado. A adesão às orientações médicas e ao uso de medicamentos foi baixa, e os profissionais de saúde identificaram que muitos pacientes tinham barreiras relacionadas ao entendimento sobre a doença e o autocuidado. A equipe decidiu implementar uma estratégia para melhorar a adesão ao tratamento e a compreensão dos pacientes sobre a importância do cuidado contínuo. Com base nessa situação hipotética, o método para promover a adesão ao tratamento dos pacientes com doenças crônicas nessa UBS é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fornecer panfletos informativos sobre o tratamento de cada condição."
+        },
+        {
+          "letra": "B",
+          "texto": "realizar consultas para cada paciente."
+        },
+        {
+          "letra": "C",
+          "texto": "implementar grupos de apoio na UBS para troca de experiências entre pacientes com doenças crônicas."
+        },
+        {
+          "letra": "D",
+          "texto": "aumentar a frequência das consultas para todos os pacientes com doenças crônicas."
+        },
+        {
+          "letra": "E",
+          "texto": "encaminhar o paciente para a rede de referência."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.sus.aps"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q095",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 95,
+      "enunciado": "Assinale a alternativa que apresenta um determinante social da saúde que pode afetar a adesão ao tratamento de moradores de uma região.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "disponibilidade de medicamentos na farmácia local"
+        },
+        {
+          "letra": "B",
+          "texto": "distância da casa do paciente até o serviço de saúde"
+        },
+        {
+          "letra": "C",
+          "texto": "frequência de eventos científicos na área de saúde"
+        },
+        {
+          "letra": "D",
+          "texto": "quantidade de consultas realizadas pelo paciente no último ano"
+        },
+        {
+          "letra": "E",
+          "texto": "tipos de exames disponíveis na rede pública"
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.sus"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q096",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 96,
+      "enunciado": "Um gestor de saúde pública em uma cidade de médio porte decidiu melhorar a qualidade do atendimento nas unidades de saúde do município, com foco na redução de filas e otimização do tempo de espera dos pacientes. Ele resolveu implementar uma ação que envolvesse a participação dos próprios profissionais de saúde para identificar e propor melhorias.\nCom base nessa situação hipotética, é correto afirmar que a ação a ser indicada para que o gestor alcance esse objetivo será a de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "implantar um sistema eletrônico de agendamento de consultas, sem necessidade de consulta aos profissionais."
+        },
+        {
+          "letra": "B",
+          "texto": "reforçar o treinamento contínuo para a equipe de saúde, incentivando a participação em cursos e seminários externos."
+        },
+        {
+          "letra": "C",
+          "texto": "realizar reuniões periódicas com a equipe das unidades para identificar pontos de melhoria e implementar propostas."
+        },
+        {
+          "letra": "D",
+          "texto": "contratar novos profissionais para reduzir o número de atendimentos por profissional."
+        },
+        {
+          "letra": "E",
+          "texto": "ampliar o horário de atendimento das unidades de saúde, incluindo plantões noturnos."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.sus.financiamento"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q097",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 97,
+      "enunciado": "Em uma comunidade ribeirinha, a equipe de saúde foi informada de um aumento nos casos de doenças gastrointestinais, principalmente em crianças. Durante uma visita, um agente de saúde observou que as famílias utilizavam água de um rio próximo para consumo doméstico, sem tratamento adequado.\nCom base nessa situação hipotética, é correto afirmar que a intervenção indicada, visando a um efeito imediato e eficaz para a equipe de saúde, na tentativa de reduzir os casos de doenças gastrointestinais na comunidade, será",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "orientar os moradores sobre a importância de ferver a água antes do consumo."
+        },
+        {
+          "letra": "B",
+          "texto": "solicitar ao governo local a construção de um hospital próximo."
+        },
+        {
+          "letra": "C",
+          "texto": "realizar campanhas de conscientização sobre hábitos alimentares saudáveis."
+        },
+        {
+          "letra": "D",
+          "texto": "distribuir suplementos vitamínicos para as crianças da comunidade."
+        },
+        {
+          "letra": "E",
+          "texto": "encaminhar as famílias para tratamento com antibióticos no posto de saúde."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.sus.aps"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q098",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 98,
+      "enunciado": "Em uma revisão sistemática sobre a efetividade de um novo medicamento para hipertensão, foram incluídos apenas estudos publicados em inglês e que apresentaram resultados positivos. O pesquisador responsável defendeu que o novo medicamento é altamente eficaz com base nos resultados que foram obtidos no estudo.\nCom base nessa situação hipotética, o viés que pode estar presente nesse estudo, impactando a interpretação dos resultados é o viés de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "publicação, pois apenas estudos com resultados positivos e em inglês foram incluídos."
+        },
+        {
+          "letra": "B",
+          "texto": "observador, por depender da avaliação dos pacientes sobre o uso do medicamento."
+        },
+        {
+          "letra": "C",
+          "texto": "memória, pois os participantes podem ter dificuldade em recordar informações."
+        },
+        {
+          "letra": "D",
+          "texto": "seleção, pois não foram incluídos estudos com amostras de outros países."
+        },
+        {
+          "letra": "E",
+          "texto": "atrito, por conta da perda de participantes ao longo do estudo."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.epidemio.estudos"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q099",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 99,
+      "enunciado": "Em uma cidade de médio porte, houve um aumento recente de casos de uma doença infecciosa de notificação obrigatória. A secretaria de saúde local precisou entender o perfil epidemiológico da doença e o comportamento de transmissão para implementar ações de controle e prevenção.\nCom base nessa situação hipotética, a estratégia adequada para realizar o monitoramento e o controle desse aumento de casos é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "realizar apenas um levantamento dos casos internados no hospital da cidade."
+        },
+        {
+          "letra": "B",
+          "texto": "reforçar a notificação compulsória e realizar busca ativa de casos na comunidade."
+        },
+        {
+          "letra": "C",
+          "texto": "solicitar que cada unidade de saúde forneça relatórios mensais dos atendimentos sem envolver a vigilância."
+        },
+        {
+          "letra": "D",
+          "texto": "esperar que os casos diminuam para, então, estudar o comportamento da doença."
+        },
+        {
+          "letra": "E",
+          "texto": "encaminhar todos os casos para tratamento em uma cidade vizinha."
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.epidemio.vigilancia"
+      ]
+    },
+    {
+      "id": "sus-sp-2025-q100",
+      "banca": "SUS-SP",
+      "ano": 2025,
+      "numero": 100,
+      "enunciado": "A equipe de saúde de uma cidade estava analisando os indicadores de saúde locais para avaliar o impacto das ações de promoção da saúde e prevenção de doenças. Ao revisar os dados, a equipe observou uma alta taxa de incidência de doenças respiratórias em uma área urbana da cidade.\nCom base nessa situação hipotética, assinale a alternativa que apresenta o indicador recomendado para investigar a associação entre a alta taxa de doenças respiratórias e os possíveis fatores ambientais na região.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "taxa de mortalidade infantil"
+        },
+        {
+          "letra": "B",
+          "texto": "incidência de doenças transmissíveis"
+        },
+        {
+          "letra": "C",
+          "texto": "nível de poluição do ar na área urbana"
+        },
+        {
+          "letra": "D",
+          "texto": "número de consultas ambulatoriais realizadas por mês"
+        },
+        {
+          "letra": "E",
+          "texto": "taxa de natalidade na população geral"
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.epidemio.indicadores"
+      ]
+    }
+  ]
+}

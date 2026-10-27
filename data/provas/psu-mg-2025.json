@@ -1,0 +1,2270 @@
+{
+  "id": "psu-mg-2025",
+  "banca": "PSU-MG",
+  "ano": 2025,
+  "titulo": "PSU-MG/AREMG 2025 — Prova Geral, Tipo 1 (aplicada em 01/12/2024)",
+  "fonte": "https://site-medway.s3.sa-east-1.amazonaws.com/wp-content/uploads/sites/5/2026/07/14151522/PSU-MG-2025-Objetiva.pdf",
+  "questoes": [
+    {
+      "id": "psu-mg-2025-q001",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 1,
+      "enunciado": "Mulher de 52 anos encontrava-se internada para a realização de colecistectomia videolaparacoscópica. No 2º dia do pós operatório, apresentou dispneia, de início súbito e pré-síncope. Ao exame físico, PA 70/50mmHg, FC 134bpm, FR 32ipm e SpO2 86% (ar ambiente). A pele estava pálida e sudorética, e o tempo de enchimento capilar periférico era maior que 3 segundos. Após a ressuscitação volêmica com 1.000mL de solução cristaloide e administração de oxigênio pelo cateter nasal a 3L/min, os dados vitais eram PA 104/64mmHg, FC 118bpm, FR 20ipm e SpO2 94% (ar ambiente). A angioTC do tórax revelou falhas de enchimento nas artérias dos lobos inferiores de ambos os pulmões. A dosagem de troponina sérica resultou em 0,34ng/mL. O ecocardiograma revelou dilatação e hipocontratilidade do ventrículo direito.\nAssinale a alternativa que apresenta o tratamento imediato MAIS ADEQUADO:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Alteplase IV"
+        },
+        {
+          "letra": "B",
+          "texto": "Enoxaparina SC"
+        },
+        {
+          "letra": "C",
+          "texto": "Filtro de veia cava inferior"
+        },
+        {
+          "letra": "D",
+          "texto": "Trombectomia mecânica"
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "clinica.pneumo.tep"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q002",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 2,
+      "enunciado": "Mulher de 52 anos encontrava-se internada para a realização de colecistectomia videolaparacoscópica. No 2º dia do pós operatório, apresentou dispneia, de início súbito e pré-síncope. Ao exame físico, PA 70/50mmHg, FC 134bpm, FR 32ipm e SpO2 86% (ar ambiente). A pele estava pálida e sudorética, e o tempo de enchimento capilar periférico era maior que 3 segundos. Após a ressuscitação volêmica com 1.000mL de solução cristaloide e administração de oxigênio pelo cateter nasal a 3L/min, os dados vitais eram PA 104/64mmHg, FC 118bpm, FR 20ipm e SpO2 94% (ar ambiente). A angioTC do tórax revelou falhas de enchimento nas artérias dos lobos inferiores de ambos os pulmões. A dosagem de troponina sérica resultou em 0,34ng/mL. O ecocardiograma revelou dilatação e hipocontratilidade do ventrículo direito. Cerca de oito meses depois, a paciente apresenta cinco episódios ao dia de evacuação com fezes líquidas, sem sangue, muco, pus ou restos alimentares. O sintoma iniciou logo após a alta hospitalar da internação para a cirurgia eletiva. As evacuações ocorrem predominantemente no período diurno, principalmente após as refeições. Nega emagrecimento. Desconhece comorbidades e nega uso de medicamentos. O estudo por endoscopia digestiva alta e colonoscopia não revelam anormalidades. EXAMES DE LABORATÓRIO: hemoglobina 15,2g/dL; leucócitos 6.300/mm³; proteína C reativa 3mg/L; anti-transglutaminase tecidual IgA não reagente; IgA total 280mg/dL; anti-HIV não reagente; exame parasitológico de fezes: negativo.\nAssinale a alternativa que indica o tratamento MAIS ADEQUADO nesse caso:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Amitriptilina"
+        },
+        {
+          "letra": "B",
+          "texto": "Colestiramina"
+        },
+        {
+          "letra": "C",
+          "texto": "Duspatalina"
+        },
+        {
+          "letra": "D",
+          "texto": "Loperamida"
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "clinica.gastro"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q003",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 3,
+      "enunciado": "Mulher de 42 anos anos informa ter migrânea, manifestando aura de hemiplegia. Relata que tem apresentado duas crises por semana de cefaleia intensa, com limitação das atividades de vida. É portadora de dismenorreia e hipertensão arterial sistêmica. Faz uso de ciproterona/ etinilestradiol e losartana. Para o controle das crises de cefaleia, faz uso de anti-inflamatório não esteroidal. Ao exame físico, PA 152/94mmHg; FC 68bpm. Sem anormalidades outras.\nAssinale a alternativa ERRADA em relação à prevenção de acidente vascular encefálico nessa paciente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Otimizar o controle pressórico da paciente"
+        },
+        {
+          "letra": "B",
+          "texto": "Prescrever tratamento para a profilaxia das crises de cefaleia"
+        },
+        {
+          "letra": "C",
+          "texto": "Prescrever sumaptriptano para tratamento das crises agudas"
+        },
+        {
+          "letra": "D",
+          "texto": "Suspender o uso de ciproterona/etinilestradiol"
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "clinica.neuro.cefaleia",
+        "clinica.neuro.avc"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q004",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 4,
+      "enunciado": "Mulher de 25 anos vai ao Pronto Socorro queixando-se de dor torácica ventilatório-dependente no hemitórax direito e dor nos quatro membros há dois dias. No momento, apresenta dispneia aos mínimos esforços e piora das dores. É portadora de anemia falciforme SS, e a hemoglobina basal é 9,6g/dL. Iniciou o uso de hidroxiureia há duas semanas. Ao exame físico, PA 124/82mmHg, FC 122bpm, SpO2 88% (ar ambiente), FR 24ipm, TAx 38,4°C. O exame respiratório revela taquipneia e crepitações teleinspiratórias na base do hemitórax direito. EXAMES DE LABORATÓRIO: Hg 7,2g/dL; leucócitos 15.900/mm³; neutrófilos 13.430/ mm³; proteína C reativa 45mg/L. RADIOGRAFIA DO TÓRAX:\nAssinale a alternativa que apresenta uma conduta INADEQUADA:",
+      "imagem": "/provas/psu-mg-2025/q004.jpg",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Prescrever ceftriaxona e azitromicina IV"
+        },
+        {
+          "letra": "B",
+          "texto": "Realizar transfusão de concentrado de hemácias"
+        },
+        {
+          "letra": "C",
+          "texto": "Solicitar angioTC do tórax"
+        },
+        {
+          "letra": "D",
+          "texto": "Suspender hidroxiureia"
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "clinica.hemato.anemias"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q005",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 5,
+      "enunciado": "Homem de 62 anos queixa-se de dispneia e dor torácica aos esforços e astenia por duas semanas. É portador de hipertensão arterial sistêmica e doença renal crônica (creatinina basal 2,9mg/dL; clearance de creatina 24mL/min/1,73 m²). EXAMES DE LABORATÓRIO: hemoglobina 6,4g/dL; VCM 75fL; HCM 25pg; CHCM 29g/dL; RDW 16,5%; leucócitos 6.500/mm³; neutrófilos 3.560/mm³; ferritina 20pmol/L; índice de saturação da transferrina 6%.\nAssinale a alternativa que apresenta uma conduta inicial INADEQUADA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Prescrição de eritropoietina"
+        },
+        {
+          "letra": "B",
+          "texto": "Prescrição de sal férrico parenteral"
+        },
+        {
+          "letra": "C",
+          "texto": "Solicitação de endoscopia digestiva alta e colonoscopia"
+        },
+        {
+          "letra": "D",
+          "texto": "Transfusão de concentrado de hemácias"
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "clinica.nefro.drc",
+        "clinica.hemato.anemias"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q006",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 6,
+      "enunciado": "Homem de 55 anos queixa-se de dor, edema e calor na 1ª articulação metatarsofalangeana esquerda há dois dias. Nega febre ou dores em outras articulações. É portador de doença renal crônica (clearance de creatinina 18mL/min/1.73m²). Faz uso de furosemida, carbonato de cálcio e alopurinol há mais de um ano. Ao exame físico, PA 120/78mmHg, FC 84bpm, FR 16ipm. Apresenta vermelhidão, calor e limitação de movimento na 1ª articulação metatarsofalangeana esquerda, sem derrame articular significativo. EXAMES DE LABORATÓRIO: leucócitos 6.800/mm³; neutrófilos 3.560/mm³; proteína C reativa 16mg/L; ácido úrico 4,5mg/dL.\nAssinale a alternativa que apresenta a conduta MAIS ADEQUADA nesse caso:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Prescrever ibuprofeno"
+        },
+        {
+          "letra": "B",
+          "texto": "Prescrever prednisona"
+        },
+        {
+          "letra": "C",
+          "texto": "Realizar artrocentese diagnóstica"
+        },
+        {
+          "letra": "D",
+          "texto": "Suspender alopurinol"
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "clinica.reumato.gota"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q007",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 7,
+      "enunciado": "Mulher de 56 anos vai ao Pronto Socorro queixando-se de mal estar e hiporexia há três dias. Nega outras queixas. É portadora de cirrose hepática por hepatite C crônica, Faz uso de furosemida, espironolactona e carvedilol. Ao exame físico, PA 104/64mmHg, FC 55bpm, Tax 36,2°C. O exame do abdome apresenta submacicez dos flancos, a palpação é indolor e revela normotensão. EXAMES DE LABORATÓRIO: leucócitos 6.780/mm³; creatinina 1,6mg/dL (valor basal 0,7mg/dL); ureia 54mg/dL; proteína C reativa 4mg/L.\nAssinale a alternativa que apresenta uma conduta inicial INADEQUADA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Administração de albumina pela via IV"
+        },
+        {
+          "letra": "B",
+          "texto": "Prescrição de terlipressina pela via IV"
+        },
+        {
+          "letra": "C",
+          "texto": "Realização de paracentese diagnóstica"
+        },
+        {
+          "letra": "D",
+          "texto": "Suspensão do carvedilol"
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "clinica.gastro.cirrose"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q008",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 8,
+      "enunciado": "Homem de 61 anos queixa-se de dor torácica à esquerda em aperto ao subir morros e durante situações de estresse emocional, associada a dispneia. Relata melhora em até 5 minutos da interrupção do esforço físico. E obeso, tabagista e portador de asma brônquica. Ao exame físico, apresenta sibilos expiratórios difusamente à ausculta respiratória. Apresenta o seguinte traçado eletrocardiográfico:\nAssinale a alternativa que apresenta um achado auscultatório que pode ser encontrado ao exame físico deste paciente por causa da anormalidade observada no ECG:",
+      "imagem": "/provas/psu-mg-2025/q008.jpg",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Desdobramento constante e variável de B2"
+        },
+        {
+          "letra": "B",
+          "texto": "Desdobramento paradoxal de B2"
+        },
+        {
+          "letra": "C",
+          "texto": "Hiperfonese de B1"
+        },
+        {
+          "letra": "D",
+          "texto": "Hipofonese de B2"
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "clinica.cardio.sca"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q009",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 9,
+      "enunciado": "Homem de 61 anos queixa-se de dor torácica à esquerda em aperto ao subir morros e durante situações de estresse emocional, associada a dispneia. Relata melhora em até 5 minutos da interrupção do esforço físico. É obeso, tabagista e portador de asma brônquica. Ao exame físico, apresenta sibilos expiratórios difusamente à ausculta respiratória. Apresenta o seguinte traçado eletrocardiográfico:\nAssinale a alternativa que apresenta um teste inicial ADEQUADO para a propedêutica da dor torácica nesse paciente:",
+      "imagem": "/provas/psu-mg-2025/q008.jpg",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "AngioTC de coronárias"
+        },
+        {
+          "letra": "B",
+          "texto": "Cineangiocoronariografia"
+        },
+        {
+          "letra": "C",
+          "texto": "Cintilografia de perfusão miocárdica com dipiridamol"
+        },
+        {
+          "letra": "D",
+          "texto": "Teste ergométrico"
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "clinica.cardio.sca"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q010",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 10,
+      "enunciado": "Homem de 54 anos queixa-se de formigamento nas mãos e nos pés e fraqueza generalizada. Realizou tireoidectomia total há duas semanas por causa de bócio multinodular e faz uso de levotiroxina 150mcg ao dia. Ao exame físico, apresenta contratura carpal após 3 minutos de insuflação do manguito do esfigmomanômetro acima da pressão arterial sistólica. EXAMES DE LABORATÓRIO: cálcio total 7,3mg/dL; fósforo 5,4mg/dL; albumina 4,3g/dL.\nAssinale a alternativa que apresenta uma complicação precoce ou tardia que NÃO ocorre devido ao distúrbio metabólico mais provavelmente apresentado pelo paciente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Insuficiência cardíaca"
+        },
+        {
+          "letra": "B",
+          "texto": "Laringoespasmo"
+        },
+        {
+          "letra": "C",
+          "texto": "Osteoporose"
+        },
+        {
+          "letra": "D",
+          "texto": "Síndrome rígido-acinética"
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "clinica.endocrino.osso"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q011",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 11,
+      "enunciado": "Mulher de 28 anos queixa-se de dispneia aos esforços há três semanas. Apresentou picos febris de até 37,9°C, sudorese profusa durante as noites e perda de 3kg neste período. Nega ortopneia, dispneia paroxística noturna ou edema periférico. A tomografia do tórax revelou derrame pleural moderado à esquerda e linfonodomegalias mediastinais; o parênquima pulmonar não apresenta anormalidades, a área cardíaca está preservada e não há derrame pericárdico ou alteração do pericárdio. Realizou-se toracocentese diagnóstica. EXAMES DE LABORATÓRIO: Material - sangue: LDH 168U/L; proteínas totais 7,2g/dL. Material líquido pleural: aspecto límpido. LDH 60U/L; proteínas totais 2,4g/dL; células 134/mm³; hemácias ausentes; células atípicas: ausentes. Dentre as seguintes alternativas, assinale aquela que apresenta o diagnóstico diferencial MAIS PROVÁVEL nesse caso:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Insuficiência cardíaca congestiva"
+        },
+        {
+          "letra": "B",
+          "texto": "Linfoma"
+        },
+        {
+          "letra": "C",
+          "texto": "Lupus eritematoso sistêmico"
+        },
+        {
+          "letra": "D",
+          "texto": "Tuberculose pleural"
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "clinica.pneumo.tb"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q012",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 12,
+      "enunciado": "Homem de 55 anos vai ao consultório com os resultados de exames. Interrompeu o etilismo há três meses; fazia o uso de 760g de álcool por semana. Nega internações ou doenças prévias conhecidas. Nega aumento de volume abdominal, sangramento digestivo ou episódios de confusão mental. ULTRASSONOGRAFIA DO ABDOME: fígado de dimensões reduzidas, superfície irregular e nodular, e parênquima com aumento difuso da ecogenicidade. A veia porta apresenta diâmetro aumentado. Esplenomegalia leve. Ausência de líquido livre na cavidade abdominal. EXAMES DE LABORATÓRIO: hemoglobina 13g/dL; leucócitos totais 4.100/mm³; plaquetas 152.000/mm³. ELASTOGRAFIA HEPÁTICA: medida da rigidez hepática pela elastografia transitória de 26 kPa.\nAssinale a alternativa CORRETA sobre o caso:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A medida da rigidez hepática deve ser repetida a cada dois anos, desde que o paciente não apresente descompensações no intervalo."
+        },
+        {
+          "letra": "B",
+          "texto": "A prescrição de betabloqueadores não-seletivos está indicada para a prevenção de descompensação clínica."
+        },
+        {
+          "letra": "C",
+          "texto": "Não há indicação para o rastreio endoscópico de varizes."
+        },
+        {
+          "letra": "D",
+          "texto": "O resultado obtido revela cirrose hepática descompensada, com hipertensão portal clinicamente significativa."
+        }
+      ],
+      "gabarito": null,
+      "origem": "oficial",
+      "temas": [
+        "clinica.gastro.cirrose"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q013",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 13,
+      "enunciado": "Assinale a alternativa que apresenta um contexto em que a terapia anti-retroviral NÃO deve ser iniciada em até sete dias do primodiagnóstico da infecção pelo HIV.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Paciente apresentando tuberculose pulmonar em início de tratamento específico"
+        },
+        {
+          "letra": "B",
+          "texto": "Paciente assintomático com contagem de CD4 > 500/mm³"
+        },
+        {
+          "letra": "C",
+          "texto": "Paciente com criptococose meningea em início de tratamento específico"
+        },
+        {
+          "letra": "D",
+          "texto": "Paciente portador de cirrose hepática por coinfecção com vírus da hepatite B"
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "clinica.infecto.hiv"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q014",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 14,
+      "enunciado": "Homem de 89 anos é levado pelos familiares para consulta com a queixa de perda de memória, como dificuldade de concentração e esquecimento de alguns nomes de pessoas e de algumas palavras. Apresenta insônia, vários despertares noturnos, noctúria e sonolência diurna. O exame físico não apresenta anormalidades. O mini-exame do estado mental revela pontuação 21, considerada baixa para a escolaridade (ensino superior). EXAMES DE LABORATÓRIO: vitamina B12 387pg/mL; TSH 8,8mcUI/mL; T4 livre 1,3ng/dL; sorologia para Treponema pallidum IgG reagente; anti-HIV não reagente.\nAssinale, entre as abaixo, a conduta inicial INADEQUADA em relação ao manejo das queixas cognitivas nesse paciente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Prescrever inibidor da colinesterase"
+        },
+        {
+          "letra": "B",
+          "texto": "Prescrever levotiroxina"
+        },
+        {
+          "letra": "C",
+          "texto": "Solicitar polissonografia"
+        },
+        {
+          "letra": "D",
+          "texto": "Solicitar punção lombar"
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "clinica.neuro.demencias"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q015",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 15,
+      "enunciado": "Mulher de 45 anos vai ao Pronto Socorro queixando-se de dor há 12h no andar superior do abdome, intensa, associada a náuseas e vômitos, piora após a alimentação. Desconhece comorbidades e nega uso de medicamentos ou drogas. Ao exame físico, PA 130/92mmHg, FC 128bpm, FR 22ipm, SpO2 98% (ar ambiente). A palpação do andar superior do abdome é dolorosa, e não há sinais de irritação peritoneal. EXAMES DE LABORATÓRIO: hemoglobina 16,7g/dL; leucócitos 13.450/mm³; neutrófilos 9.880/mm³; plaquetas 156.000/mm³; proteína C reativa 56mg/L; creatinina 1,5mg/dL; ureia 89mg/dL; amilase 590U/L; lipase 134U/L.\nAssinale a alternativa que apresenta uma prescrição inicial INADEQUADA nesse caso:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Dieta oral suspensa"
+        },
+        {
+          "letra": "B",
+          "texto": "Meropenem IV"
+        },
+        {
+          "letra": "C",
+          "texto": "Morfina IV"
+        },
+        {
+          "letra": "D",
+          "texto": "Ressuscitação volêmica com solução cristaloide"
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "clinica.gastro.pancreatite"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q016",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 16,
+      "enunciado": "Paciente de 70 anos, do sexo feminino, comparece a consulta trazendo exame de tomografia computadorizada de abdome, feita no Pronto Atendimento devido a quadro de lombalgia, evidenciando nódulo hipervascular no colo do pâncreas de 1,9cm de diâmetro. Nega outros sintomas e diz estar sentindo-se muito bem, porém está muito apreensiva devido ao resultado do exame pela possibilidade de ser um câncer de pancreas. Dentre as opções abaixo, em relação á conduta frente está situação, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Indicar a enucleação do nódulo."
+        },
+        {
+          "letra": "B",
+          "texto": "Indicar a realização de ecoendoscopia com punção/biópsia do nódulo."
+        },
+        {
+          "letra": "C",
+          "texto": "Indicar a realização de pancreatectomia central com preservação do baço."
+        },
+        {
+          "letra": "D",
+          "texto": "Tranquilizar a paciente e acompanhá-la com exames de imagem em seis meses."
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.onco"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q017",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 17,
+      "enunciado": "Paciente de 72 anos, sexo masculino, submetido a gastrectomia total há cinco dias, inicia quadro de agitação e confusão mental, taquipneia (30irpm), drenagem de secreção de mau cheiro pela ferida operatória, alteração aguda de 5 pontos no escore SOFA (Sequential Sepsis-related Organ Failure Assessment), necessitando de vasopressores para manutenção da pressão arterial média maior ou igual a 65mmHg e dosagem de lactato de 7mmol/litro, mesmo após reposição volêmica adequada. Considerando os dados descritos acima, o diagnóstico MAIS PRECISO para o quadro apresentado por este paciente é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Choque séptico"
+        },
+        {
+          "letra": "B",
+          "texto": "Resposta orgânica ao trauma exacerbado"
+        },
+        {
+          "letra": "C",
+          "texto": "Sepse"
+        },
+        {
+          "letra": "D",
+          "texto": "Síndrome da Resposta Inflamatória Sistêmica"
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "clinica.infecto.sepse"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q018",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 18,
+      "enunciado": "PCF, 58 anos, sexo feminino, engenheira, relata empachamento pós-prandial desde há cerca de um mês, que foi se intensificando a ponto de conseguir ingerir somente uma quantidade muito pequena de alimentos. Apresentou emagrecimento de cerca de 5kg com a moléstia atual. Ao exame físico, foi palpada massa no epigástrio e quadrante superior esquerdo. Realizou tomografia de abdome, onde foi vista tumoração sólida retroperitoneal de formato ovóide, com cerca de 18cm de diâmetro, heterogênea, com aspecto sugestivo de conter gordura macroscópica em seu interior, comprimindo e desviando o estômago cranialmente e anteriormente, e deslocando o cólon transverso caudalmente e o rim, anteriormente. Não há evidências radiológicas de invasão local ou metástase à distância. EM relação a este caso, assinale a alternativa ERRADA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A laparotomia mediana é uma boa via de acesso cirúrgico para a resolução desse caso."
+        },
+        {
+          "letra": "B",
+          "texto": "A maioria das tumorações primárias de retroperitônio é benigna."
+        },
+        {
+          "letra": "C",
+          "texto": "Não se deve recomendar biópsia percutânea da lesão para diagnóstico diferencial."
+        },
+        {
+          "letra": "D",
+          "texto": "O melhor tratamento para essa lesão é a excisão cirúrgica completa."
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.onco"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q019",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 19,
+      "enunciado": "A hipocalemia é um distúrbio hidroeletrolítico comum e potencialmente fatal quando grave. Um número significativo de pacientes candidatos à cirurgia apresenta essa condição clínica e o diagnóstico e a conduta apropriada são fundamentais para a boa evolução clínica do paciente. Em relação aos pacientes com hipocalemia é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A correção intravenosa da hipocalemia deve ser feita geralmente com uma taxa de 40-60 mmol/hora."
+        },
+        {
+          "letra": "B",
+          "texto": "A hipermagnesemia crônica é responsável por cerca de 40% dos casos de hipocalemia refratária ao tratamento."
+        },
+        {
+          "letra": "C",
+          "texto": "A hipocalemia causa infradesnivelamento do segmento ST, depressão da onda T e o aparecimento da onda U."
+        },
+        {
+          "letra": "D",
+          "texto": "Dosagem de potássio urinário < 20mEq/L sugere etiologia renal como causa da hipocalemia."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "clinica.nefro.eletrolitos"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q020",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 20,
+      "enunciado": "A resposta orgânica ao trauma, também conhecida como REMIT (Resposta Endocrino, Metabólica e Imunológica ao Trauma), é um conjunto de reações que o organismo desenvolve para manter a homeostasia. Na fase inicial da REMIT ocorrem várias alterações metabólicas e imunológicas e, portanto, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A excreção de potássio na urina está reduzida devido à liberação aumentada de aldosterona."
+        },
+        {
+          "letra": "B",
+          "texto": "A liberação do hormônio do crescimento está aumentada."
+        },
+        {
+          "letra": "C",
+          "texto": "O lactato produzido perifericamente é convertido em glicose devido ao processo de glicogênese."
+        },
+        {
+          "letra": "D",
+          "texto": "Observa-se aumento da síntese da albumina."
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.periop"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q021",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 21,
+      "enunciado": "Paciente de 67 anos, sexo masculino, foi submetido a colectomia parcial há cinco dias. Iniciou distensão abdominal importante, taquicardia, taquipneia, hipotensão arterial e sonolência. Gasometria arterial e ionograma apresentou pH 7,18; PaCO2 36 mmHg; PaO2 70 mmHg; HCO3 13 mEq/L; BE 12 mEq/l; Na 135 mEq/L; K 2,8 mEq/L; CI 97 mEq/L. Qual o distúrbio ácido-base apresentado pelo paciente?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Acidose metabólica com anion gap aumentado"
+        },
+        {
+          "letra": "B",
+          "texto": "Acidose metabólica com ânion gap normal"
+        },
+        {
+          "letra": "C",
+          "texto": "Acidose mista com anion gap aumentado"
+        },
+        {
+          "letra": "D",
+          "texto": "Acidose mista com ânion gap normal"
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "clinica.nefro.acidobase"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q022",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 22,
+      "enunciado": "DBD, 17 anos, sexo masculino, estudante, apresentou quadro de dor periumbilical, acompanhada de inapetência e náusea, ontem. Hoje apresenta dor abdominal localizada no quadrante inferior direito do abdome, com temperatura axilar de 37,8°C, sem defesa abdominal, com relato de dor à palpação profunda, mas sem dor à descompressão abdominal. A hiperextensão da coxa direita provoca dor lombar à direita e em fossa ilíaca direita. Exames laboratoriais mostraram 12.050 leucócitos/mm³ com 6% de bastonetes.\nAssinale qual das alternativas abaixo está ERRADA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A tomografia de abdome sem contraste é o melhor exame para diagnóstico diferencial neste caso."
+        },
+        {
+          "letra": "B",
+          "texto": "É improvável que a radiografia simples de abdome traga elementos diagnósticos decisivos."
+        },
+        {
+          "letra": "C",
+          "texto": "O quadro clínico sugere apendicite aguda, embora não seja a apresentação clássica."
+        },
+        {
+          "letra": "D",
+          "texto": "Os achados de laboratorio sugerem um quadro infeccioso agudo."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.abdome.apendicite"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q023",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 23,
+      "enunciado": "Sobre a dissecção cirúrgica durante a colecistectomia videolaparoscópica nas colecistites agudas, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A causa mais comum de lesão de ducto biliar é a presença de variações congênitas da anatomia da região do pedículo biliar."
+        },
+        {
+          "letra": "B",
+          "texto": "As lesões vasculares e ductais mais graves ocorrem após a conversão de colecistectomia laparoscópica para colecistectomia aberta."
+        },
+        {
+          "letra": "C",
+          "texto": "Ducto biliar aberrante anterior esquerdo é um achado de identificação difícil e frequentemente responsável por lesões intraoperatórias."
+        },
+        {
+          "letra": "D",
+          "texto": "O triângulo hepatocístico é uma referência essencial na interpretação da anatomia correta, e é formado pelo ducto cístico inferiormente, pela superfície do fígado superiormente e pelo ducto hepático comum lateralmente."
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.abdome.vias_biliares"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q024",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 24,
+      "enunciado": "Mulher, 37 anos, sem comorbidades, realizou ultrassonografia abdominal para avaliação de dor pélvica bem localizada e mal caracterizada. O exame revelou cisto ovariano de médio tamanho, sem sinais de complicação/gravidade e colecistolitíase (cálculo único de 3cm), sem dilatação de vias biliares intra e extra-hepática. Sem outras queixas e achados relevantes ao exame físico. Em relação ao caso clínico acima, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Considerando que a sintomatologia deve se referir ao cisto ovariano, paciente só deve ser orientada em relação a este achado ecográfico."
+        },
+        {
+          "letra": "B",
+          "texto": "Mesmo sendo a paciente jovem e assintomática, está formalmente indicada litotripsia extracorpórea no tratamento da litíase biliar."
+        },
+        {
+          "letra": "C",
+          "texto": "Paciente deve ser orientada em relação à história natural da litíase biliar e, aos benefícios e riscos da colecistectomia videolaparoscópica."
+        },
+        {
+          "letra": "D",
+          "texto": "Para se definir a melhor conduta, neste caso, é imprescindível a paciente realizar previamente colangiorressonância ou ecoendoscopia."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "go.ginecologia"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q025",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 25,
+      "enunciado": "Paciente de 52 anos apresenta aumento cervical anterior com presença de um nódulo tireoidiano. A ultrassonografia revela um nódulo sólido de 3cm com microcalcificações. A punção aspirativa por agulha fina (PAAF) sugere malignidade. Assinale a alternativa que apresenta o tipo MAIS COMUM de câncer de tireoide associado a esses achados:\nAssinale a alternativa que apresenta o tipo MAIS COMUM de câncer de tireoide associado a esses achados:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Carcinoma anaplásico de tireoide"
+        },
+        {
+          "letra": "B",
+          "texto": "Carcinoma folicular de tireoide"
+        },
+        {
+          "letra": "C",
+          "texto": "Carcinoma medular de tireoide"
+        },
+        {
+          "letra": "D",
+          "texto": "Carcinoma papilífero de tireoide"
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.onco.tireoide"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q026",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 26,
+      "enunciado": "WEF, 42 anos, sexo feminino, bancária, vem apresentando disfagia desde há seis anos. No início, a disfagia se manifestava somente com sólidos, deglutidos em porções maiores, mas progrediu para dificuldade de ingestão até de água. Apresentou perda ponderal de cerca de três quilos, nos últimos seis meses. Sobre a propedeutica para esse caso, e os achados possíveis, qual das afirmativas abaixo está ERRADA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A esofagoscopia é o exame principal, pois permite avaliar diretamente a função peristáltica do esôfago."
+        },
+        {
+          "letra": "B",
+          "texto": "A impedanciometria esofágica pode auxiliar na avaliação, mostrando a distensibilidade do órgão durante a deglutição."
+        },
+        {
+          "letra": "C",
+          "texto": "A manometria esofágica é um exame importante que pode demonstrar o relaxamento incompleto do esfíncter esofagiano inferior."
+        },
+        {
+          "letra": "D",
+          "texto": "O esofagograma baritado é pouco invasivo e pode demonstrar estenose na porção distal e retardo do esvaziamento."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.abdome.esofago_estomago"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q027",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 27,
+      "enunciado": "Mulher de 28 anos, faxineira, com índice de massa corporal (IMC) de 42 kg/m², busca tratamento para obesidade mórbida. Ela possui um histórico de tentativas frustradas de perda de peso por meio de dieta, exercícios e terapia comportamental. A paciente apresenta hipertensão arterial e síndrome da apneia obstrutiva do sono, ambas controladas. É também diabética, controlada com medicação oral e tem distúrbio de ansiedade. Relata passado de alcoolismo. Após uma avaliação detalhada por uma equipe multidisciplinar, é sugerida a realização de cirurgia bariátrica. Considerando a avaliação pré-operatória e os critérios para a indicação da cirurgia bariátrica, qual das seguintes condições representa uma CONTRAINDICAÇÃO RELATIVA que deve ser cuidadosamente considerada antes da realização do procedimento?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Diagnóstico de transtorno de ansiedade não controlado."
+        },
+        {
+          "letra": "B",
+          "texto": "Histórico de alcoolismo em abstinência há 6 meses."
+        },
+        {
+          "letra": "C",
+          "texto": "Nível de escolaridade baixo, dificultando a adesão a orientações pós-operatórias."
+        },
+        {
+          "letra": "D",
+          "texto": "Presença de diabetes mellitus tipo 2 controlada com medicação oral."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.abdome.esofago_estomago"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q028",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 28,
+      "enunciado": "Paciente de 65 anos, sexo masculino, comparece ao consultório trazendo o resultado de exame de ultrassonografia do abdome que foi realizada para controle de cálculo renal, cujo resultado evidenciou nódulo hipoecogênico localizado no lobo esquerdo do fígado, de 3,2cm de diâmetro. O laudo do ultrassonografista sugere hemangioma. Durante a consulta, o paciente não manifestou nenhuma queixa e relatou que ingere bebidas alcoólicas quase diariamente há vários anos. Em relação a essa situação, qual deve ser a conduta MAIS ADEQUADA neste momento?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Informar o paciente que o hemangioma é lesão benigna e não será necessário realização de acompanhamento."
+        },
+        {
+          "letra": "B",
+          "texto": "Informar o paciente que o hemangioma é lesão benigna mas que será necessário realização de acompanhamento com ultrassonografia a cada seis meses."
+        },
+        {
+          "letra": "C",
+          "texto": "Solicitar biópsia hepática guiada por ultrassom do nódulo hepático."
+        },
+        {
+          "letra": "D",
+          "texto": "Solicitar exame de imagem com contraste venoso, exames laboratoriais para avaliação da função hepática e dosagem de alfa-fetoproteína."
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.abdome"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q029",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 29,
+      "enunciado": "Em relação aos tumores de pele, assinale entre as afirmativas abaixo a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Como princípio básico da cirurgia para tratamento do carcinoma espinocelular, o cirurgião deve ter em mente o cuidado em não fazer margens muito amplas pela dificuldade na reconstrução, devendo ser mais econômico possível"
+        },
+        {
+          "letra": "B",
+          "texto": "Pacientes com carcinoma espinocelular TO e T1 diagnosticados em biopsia incisional não podem ser tratados com curetagem e cauterização pelos péssimos índices de sucesso"
+        },
+        {
+          "letra": "C",
+          "texto": "O carcinoma espinocelular tem prevalência menor em pacientes transplantados em uso de imunossupressor, já que a medicação inibe o crescimento do tumor"
+        },
+        {
+          "letra": "D",
+          "texto": "Os tumores que se desenvolvem em cicatrizes de queimaduras geralmente comportam-se de maneira mais agressiva com maior índice de metástases"
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.onco"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q030",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 30,
+      "enunciado": "PVRG, 72 anos, sexo masculino, é portador de volumosa hérnia inguinal à direita com episódios eventuais de dor em cólica. Relata que consegue reduzir o conteúdo herniário com manobras manuais, com alívio dos sintomas de cólicas. É tabagista. Outras comorbidades: diabetes, obesidade, hipertrofia prostática. Procurou um cirurgião e recebeu algumas orientações.\nAssinale a assertiva que apresenta uma orientação ERRADA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Deverá ser utilizada tela para reduzir os riscos de recidiva."
+        },
+        {
+          "letra": "B",
+          "texto": "Deverá suspender o tabagismo por período mínimo de dois meses e fazer uma avaliação urológica (hipertrofia prostática) no período pré-operatório para reduzir os riscos de recidiva."
+        },
+        {
+          "letra": "C",
+          "texto": "Já que consegue reduzir o conteúdo herniário com manobras manuais e tem várias comorbidades é mais seguro evitar a cirurgia."
+        },
+        {
+          "letra": "D",
+          "texto": "Deve tentar reduzir o peso e controlar o diabetes para prevenção de infecção do sítio cirúrgico."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.abdome.hernias"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q031",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 31,
+      "enunciado": "As doenças autoimunes pediátricas são um desafio, tanto em seu reconhecimento e diagnóstico, quanto pela forma de abordagem multifacetada. Em relação às doenças autoimunes que podem acometer crianças e adolescentes, está CORRETA a afirmação:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A dermatomiosite juvenil é prevalente em adolescentes do sexo masculino, e é diagnosticada a partir de lesões de pele e fraqueza muscular, podendo se correlacionar com câncer na vida adulta."
+        },
+        {
+          "letra": "B",
+          "texto": "A hepatite autoimune e colangite esclerosante primária são diagnosticadas na maior porcentagem dos casos devido a quadro de complicações de cirrose hepática, como hemorragia digestiva e ascite."
+        },
+        {
+          "letra": "C",
+          "texto": "A tireoidite de Hashimoto (tireoidite autoimune) em crianças e adolescentes pode resultar em redução do crescimento, atraso no desenvolvimento esquelético e puberdade tardia."
+        },
+        {
+          "letra": "D",
+          "texto": "O lúpus eritematoso sistêmico tem quadro mais leve em crianças e adolescentes quando comparados a adultos e o comprometimento do sistema nervoso central é menos frequente."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "clinica.reumato"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q032",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 32,
+      "enunciado": "Criança de 5 anos e 6 meses compareceu à Unidade Básica de Saúde para consulta de rotina em Pediatria. A mãe se mostra preocupada com a alimentação da criança, pois esta se baseia em poucos alimentos, a saber: arroz, batata, macarrão e carne de frango ou ovo. Não aceita outros legumes, verduras ou quaisquer frutas. Gosta de doces e salgadinhos industrializados. Hoje, na avaliação pôndero estatural, tem peso de 29Kg (Escore-Z no gráfico da Organização Mundial de Saúde - OMS - entre + 2 e +3) e estatura 116cm (Escore-Z no gráfico da OMS entre 0 e +1) e IMC de 21,5 (Escore-Z no gráfico da OMS =3). Diante do caso apresentado e considerando os distúrbios nutricionais na infância, é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A avaliação pôndero estatural nos indica que a intervenção deve ser baseada em restringir os carboidratos na alimentação até que ocorra a perda de peso para o escore-Z zero esperado para a idade."
+        },
+        {
+          "letra": "B",
+          "texto": "A seletividade alimentar apresentada pelo paciente justifica a conduta de iniciar a reposição medicamentosa de ferro, vitamina A e vitamina D."
+        },
+        {
+          "letra": "C",
+          "texto": "O diagnóstico de obesidade grave torna necessário a recomendação de prática de atividades físicas, bem como avaliação laboratorial de perfil lipídico e glicêmico."
+        },
+        {
+          "letra": "D",
+          "texto": "O transtorno alimentar restritivo evitativo é diagnóstico provável nesse caso, sendo importante a avaliação laboratorial de anemia ferropriva e deficiência de oligoelementos."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.puericultura.crescimento"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q033",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 33,
+      "enunciado": "Em relação à educação de crianças em situações especiais é ERRADO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Crianças e adolescentes tem direito a monitor na sala de aula"
+        },
+        {
+          "letra": "B",
+          "texto": "É uma meta a ser atingida que o aluno se adapte ao sistema educacional vigente"
+        },
+        {
+          "letra": "C",
+          "texto": "O atendimento deve ocorrer preferencialmente na rede regular de ensino"
+        },
+        {
+          "letra": "D",
+          "texto": "Os professores devem realizar cursos de capacitação para integração melhor desses alunos"
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.puericultura"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q034",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 34,
+      "enunciado": "Filomena, de 12 meses de idade, previamente saudável, está apresentando diarreia líquida há sete dias, com fezes volumosas, sem sangue, eliminadas de forma explosiva acompanhada de distensão abdominal e assadura importante na região perianal. Ao exame físico, pesa 6Kg, está levemente enoftálmica, com sede, diurese diminuída. A perfusão de extremidades é de quatro segundos. Em uso de dieta normal para a idade e com fórmula alimentar habitual. Qual deve ser a conduta inicial MAIS ADEQUADA em relação à hidratação?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solução fisiológica endovenosa 0,9%- 20ml/Kg, correr livre."
+        },
+        {
+          "letra": "B",
+          "texto": "Solução glicofisiológica endovenosa 1:1- 50ml/Kg- correr em 1 hora"
+        },
+        {
+          "letra": "C",
+          "texto": "Solução de reidratação oral por gastróclise"
+        },
+        {
+          "letra": "D",
+          "texto": "Terapia de reidratação oral"
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.infecto.diarreia"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q035",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 35,
+      "enunciado": "Filomena, de 12 meses de idade, previamente saudável, está apresentando diarreia líquida há sete dias, com fezes volumosas, sem sangue, eliminadas de forma explosiva acompanhada de distensão abdominal e assadura importante na região perianal. Ao exame físico, pesa 6Kg, está levemente enoftálmica, com sede, diurese diminuída. A perfusão de extremidades é de quatro segundos. Em uso de dieta normal para a idade e com fórmula alimentar habitual. Dentre as medidas terapêuticas listadas abaixo, a MAIS INDICADA para o tratamento desta criança é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Manter a dieta e prescrever probiótico por cinco dias"
+        },
+        {
+          "letra": "B",
+          "texto": "Prescrever antimicrobiano, azitromicina por três dias"
+        },
+        {
+          "letra": "C",
+          "texto": "Substituir a fórmula à base de proteína do leite de vaca por hidrolisado proteico"
+        },
+        {
+          "letra": "D",
+          "texto": "Suspender temporariamente a lactose da dieta"
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.infecto.diarreia"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q036",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 36,
+      "enunciado": "O Decreto n.º 11.074/2022, publicado em 18 de maio de 2022, instituiu o Programa de Proteção Integral da Criança e do Adolescente - Protege Brasil, em alusão ao \"Maio Laranja\", mês de combate ao abuso e à exploração sexual do público infanto-juvenil no Brasil. Sobre esse tema, assinale a alternativa ERRADA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A violência sexual intrafamiliar requer uma proposta de trabalho interdisciplinar da equipe de saúde por suas múltiplas implicações no âmbito pessoal e familiar, social e legal."
+        },
+        {
+          "letra": "B",
+          "texto": "É dever de todos os cidadãos prevenir a ocorrência de ameaça ou violação dos direitos da criança e do adolescente em todos os ambientes de convívio intra ou extrafamiliar."
+        },
+        {
+          "letra": "C",
+          "texto": "O afastamento de criança ou adolescente do convívio familiar para a proteção de vítimas de violência ou abuso sexual é de competência do Conselho Tutelar e de autoridade policial."
+        },
+        {
+          "letra": "D",
+          "texto": "O artigo 5º do Estatuto da Criança e do Adolescente prevê que nenhuma criança ou adolescente será objeto de qualquer forma de negligência, discriminação, exploração e violência, crueldade ou opressão."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.emergencia.maus_tratos"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q037",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 37,
+      "enunciado": "As causas de parada cardiorrespiratória (PCR) em bebês e crianças diferem da PCR em adultos de acordo com um número crescente de evidências científicas que vêm sendo analisadas e publicadas. Baseado nisso, a American Heart Association em 2020 lançou novas diretrizes para o Suporte Básico e Avançado de Vida em Pediatria. Considerando estas diretrizes, assinale a alternativa ERRADA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Crianças com miocardite aguda acompanhada de arritmias, bloqueio cardíaco, alterações do segmento ST ou baixo débito cardíaco têm alto risco de PCR, sendo necessário a transferência rápida para uma unidade de terapia intensiva."
+        },
+        {
+          "letra": "B",
+          "texto": "Durante e após o atendimento da PCR, o paciente pode apresentar hipertensão pulmonar, sendo indicado sedar e evitar a intubação traqueal. O paciente deve ser mantido em leve acidemia."
+        },
+        {
+          "letra": "C",
+          "texto": "O uso rotineiro de pressão cricoide não é recomendado durante a intubação endotraqueal de pacientes pediátricos, pois reduz as taxas de sucesso da intubação e não reduz a taxa de regurgitação."
+        },
+        {
+          "letra": "D",
+          "texto": "Quando houver recursos disponíveis, o monitoramento contínuo por eletroencefalografia é recomendado para a detecção de convulsões depois de uma PCR em pacientes com encefalopatia persistente."
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.emergencia",
+        "clinica.emergencia.pcr"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q038",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 38,
+      "enunciado": "Você está de plantão em um Pronto Atendimento e avalia uma criança de 4 anos de idade com quadro, há dois dias, de febre alta, inapetência, vômitos e dor abdominal aguda, em cólica, com piora ao deambular. Há relato de piora progressiva. Os pais estão ansiosos e pensam que pode ser apendicite. Considerando as causas de dor abdominal aguda na infância, assinale a alternativa ERRADA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apendicite aguda é a causa mais comum de dor abdominal de indicação cirúrgica em lactentes, sendo o diagnóstico difícil face à apresentação atípica e à dificuldade de se obter a história clínica e realizar o exame físico"
+        },
+        {
+          "letra": "B",
+          "texto": "A radiografia simples de abdome pode mostrar sinais de alerta como o apagamento do músculo psoas no quadrante inferior direito, a presença de alça sentinela, níveis líquidos em alça intestinal, massa intra abdominal e fecalito"
+        },
+        {
+          "letra": "C",
+          "texto": "Em crianças menores de 3 anos de idade, devido à dificuldade em diagnosticar apendicite, a taxa de perfuração é alta, ocorrendo geralmente nas primeiras 48 horas após o início dos sintomas clínicos"
+        },
+        {
+          "letra": "D",
+          "texto": "Os escores de Alvarado e o PAS (Pediatric Appendicitis Score) utilizam elementos da história clínica, exame físico e resultados de exames laboratoriais para identificação de pacientes com alta probabilidade de apendicite"
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "cirurgia.abdome.apendicite"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q039",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 39,
+      "enunciado": "Você está em uma unidade de atenção primária de saúde atendendo um lactente de 12 meses de idade. O paciente vinha evoluindo bem, com cartão de vacina em dia e testes de triagem neonatal sem alterações. Há quatro meses iniciou diarreia, com eliminação de fezes volumosas semiliquidas ou pastosas 4 a 5 vezes ao dia, sem muco ou sangue, algumas vezes com resto alimentar. Concomitantemente, houve redução do ganho ponderal. Recebeu aleitamento materno até os seis meses de vida, e, a seguir, foram introduzidos alimentos em geral, incluindo leite de vaca e glúten. Resultados de exames: anemia ferropriva leve, hipoalbuminemia discreta, pesquisa de leucocitos nas fezes positivo. Baseando-se no caso descrito, é considerado ERRADA a alternativa:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A presença de leucocitos nas fezes é um exame inespecífico e pode ser indicativo de ocorrência de processo inflamatório do intestino, podendo ser observada em várias afecções."
+        },
+        {
+          "letra": "B",
+          "texto": "Fezes volumosas e de aspecto mais claro sugerem acometimento de intestino delgado, enquanto a presença de muco ou sangue geralmente provém de afecções do cólon."
+        },
+        {
+          "letra": "C",
+          "texto": "Marcadores bioquímicos podem auxiliar a avaliar o grau de desnutrição e a indicar o tipo de abordagem terapêutica e nutricional a ser adotada."
+        },
+        {
+          "letra": "D",
+          "texto": "O teste de retirada da proteína do leite de vaca e seus derivados da dieta, por quatro semanas, pode permitir o diagnóstico, sem necessidade do teste de provocação oral."
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.puericultura.aleitamento"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q040",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 40,
+      "enunciado": "Você está atendendo uma criança de 3 anos e 6 meses de idade em uma unidade de saúde de atenção primária. A mãe está apreensiva, pois considera que existe um atraso na linguagem. Diante disto, podemos considerar que para avaliar o desenvolvimento da linguagem da criança nesta idade são esperados alguns marcos de desenvolvimento. Em relação ao desenvolvimento da linguagem desta criança, qual dentre os parâmetros abaixo NÃO É considerado um marco adequado à idade:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Consegue fazer perguntas simples como \"qual seu nome?\""
+        },
+        {
+          "letra": "B",
+          "texto": "Consegue identificar quantitativos: grande, pequeno e muito."
+        },
+        {
+          "letra": "C",
+          "texto": "Consegue nomear objetos com os quais tem contato mais frequente."
+        },
+        {
+          "letra": "D",
+          "texto": "Consegue pronunciar cerca de 20 palavras e entender cerca de 50."
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.puericultura.desenvolvimento"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q041",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 41,
+      "enunciado": "Lactente, sexo masculino, 2 meses e meio de idade, vem apresentando \"chieira\" intermitente nos últimos dias. Hoje está com dificuldade respiratória. Ao exame clínico, está acianótico, com dificuldade respiratória leve e saturação de oxigênio de 95% em ar ambiente. A ausculta revela sibilos esparsos e um sopro holossistólico ao longo da borda esternal esquerda. Abdome flácido, fígado palpado a 2cm do rebordo costal direito. Restante do exame sem alterações. O diagnóstico MAIS PROVÁVEL é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Comunicação interventricular"
+        },
+        {
+          "letra": "B",
+          "texto": "Forame oval patente"
+        },
+        {
+          "letra": "C",
+          "texto": "Persistência do canal arterial"
+        },
+        {
+          "letra": "D",
+          "texto": "Síndrome de Eisenmenger"
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.puericultura"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q042",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 42,
+      "enunciado": "Criança de 7 anos comparece à Unidade de Saúde com quadro de febre há três dias, dor abdominal leve e exantema petequial em tronco. Apresentou hoje um episódio de vomito. Realizado teste rápido para dengue com resultado positivo.\nAssinale a alternativa que descreve a MELHOR conduta a ser instituída neste momento:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Fazer hidratação oral e coleta de hemograma, avaliando o resultado assim que disponível."
+        },
+        {
+          "letra": "B",
+          "texto": "Fazer hidratação oral e manter em observação por 48 horas na unidade de saúde."
+        },
+        {
+          "letra": "C",
+          "texto": "Fazer hidratação oral em casa e retornar à unidade de saúde no dia da melhora da febre."
+        },
+        {
+          "letra": "D",
+          "texto": "Iniciar hidratação venosa em leito de internação hospitalar com propedeutica laboratorial completa."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "clinica.infecto.arboviroses"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q043",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 43,
+      "enunciado": "Criança de 9 anos comparece à Unidade de Saúde com relato de linfadenomegalia cervical e febre há quatro dias. Ao exame físico, você identifica dois linfonodos cervicais anteriores de 2cm à direita e 1cm à esquerda, móveis e fibroelásticos, sem sinais flogísticos, sem outras alterações ao exame físico.\nAssinale a alternativa que contém o exame laboratorial MAIS INDICADO neste momento para o diagnóstico da doença:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Biopsia do linfonodo com pesquisa de células neoplásicas."
+        },
+        {
+          "letra": "B",
+          "texto": "Ecocardiograma para pesquisa de coronariopatia."
+        },
+        {
+          "letra": "C",
+          "texto": "Sorologia para citomegalovirus."
+        },
+        {
+          "letra": "D",
+          "texto": "Teste rápido molecular (TRM) para tuberculose em escarro."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.infecto"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q044",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 44,
+      "enunciado": "Paciente do sexo feminino, de 12 anos, com quadro de cefaléia, febre e convulsões é admitida no Pronto Atendimento com diagnóstico de meningite. Iniciado ceftriaxone imediatamente, sendo realizada punção lombar no 2º dia de tratamento. Líquor: 243células (65% neutrófilos, 23% linfocitos, 12% monócitos), glicose 22mg/dL, proteínas 317mg/dL, Gram de líquor sem visualização de bactérias, cultura do líquor em andamento. Glicemia capilar: 112mg/dL. Diante desses resultados, assinale a MELHOR CONDUTA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Deve ser iniciada dexametasona no terceiro dia de tratamento."
+        },
+        {
+          "letra": "B",
+          "texto": "Deve ser realizada nova punção lombar para melhor esclarecimento da etiologia."
+        },
+        {
+          "letra": "C",
+          "texto": "O antibiótico deve ser mantido por 10 dias."
+        },
+        {
+          "letra": "D",
+          "texto": "O antibiótico deve ser suspenso e mantida observação clínica."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "clinica.infecto.meningite"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q045",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 45,
+      "enunciado": "Paciente de 3 meses é hospitalizado com quadro de febre, coriza e tosse há quatro dias. Ao exame físico, você percebe taquipneia (FR: 62irpm), esforço respiratório leve, sibilos e crepitações difusas à ausculta respiratória, com saturação de 89% em ar ambiente. A radiografia de tórax mostra infiltrado intersticial e hiperinsuflação. A mãe nega episódios semelhantes anteriormente. Em relação ao tratamento desta criança, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Iniciar broncodilatadores inalatórios e palivizumabe."
+        },
+        {
+          "letra": "B",
+          "texto": "Iniciar dieta por sonda nasogástrica e adrenalina inalatória."
+        },
+        {
+          "letra": "C",
+          "texto": "Iniciar soroterapia venosa e corticoterapia via oral."
+        },
+        {
+          "letra": "D",
+          "texto": "Iniciar oxigenioterapia e lavagem nasal com soro fisiológico."
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.infecto.ivas"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q046",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 46,
+      "enunciado": "A detecção precoce e o acompanhamento da sífilis na gestação são fundamentais para prevenir a transmissão vertical e as complicações materno-fetais. Em relação aos exames complementares para o diagnóstico e acompanhamento da sífilis em gestantes, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O rastreamento da sífilis na gestação com teste rápido deve ser realizado apenas no primeiro trimestre, uma vez que resultados posteriores não trazem benefícios significativos para o manejo da gestante."
+        },
+        {
+          "letra": "B",
+          "texto": "O teste FTA-Abs (Fluorescent Treponemal Antibody Absorption) é um teste treponêmico, e uma vez positivo permanece reagente por toda a vida, não sendo indicado para monitorar a resposta ao tratamento."
+        },
+        {
+          "letra": "C",
+          "texto": "O teste rápido para sífilis, disponível no Sistema Único de Saúde (SUS), pode ser utilizado tanto para diagnóstico quanto para o acompanhamento da resposta ao tratamento."
+        },
+        {
+          "letra": "D",
+          "texto": "O VDRL (Venereal Disease Research Laboratory) é um teste treponêmico que pode ser utilizado para confirmar o diagnostico de sífilis em gestantes com testes rápidos positivos."
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "go.obstetricia.infeccoes"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q047",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 47,
+      "enunciado": "Paciente GHS, 25 anos, primigesta, com 40 semanas de gestação, encontra-se no período expulsivo há 2 horas. A paciente está exausta, com contrações adequadas, dilatação cervical completa, bolsa rota e o feto está em apresentação cefálica, posição occipito esquerda anterior, com a cabeça no plano +2 de De Lee. O monitoramento fetal indica bradicardia fetal persistente de 90bpm. Considerando o cenário clínico acima, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Indicar parto a fórceps para extração fetal, uma vez que há sinais de hipóxia intraparto e o polo cefálico profundamente encaixado dificulta e aumenta o risco da cesareana"
+        },
+        {
+          "letra": "B",
+          "texto": "Indicar parto com o uso do vácuo extrator, uma vez que há sinais de hipóxia intraparto e sua segurança e efetividade na situação mostrada são superiores quando comparadas ao fórceps"
+        },
+        {
+          "letra": "C",
+          "texto": "Indicar cesareana, já que a variedade de posição do polo cefálico contraindica a realização de fórceps ou vácuo extrator"
+        },
+        {
+          "letra": "D",
+          "texto": "Indicar cesareana, uma vez que o fórceps não deve ser utilizado em primíparas e o vácuo extrator está contraindicado para rotação"
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "go.obstetricia.parto"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q048",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 48,
+      "enunciado": "Primigesta, 17 anos, com 35 semanas de gestação, comparece à maternidade apresentando pressão arterial 140x90mmHg há sete dias e cefaleia persistente desde o dia anterior. Nega outras intercorrências na gravidez. Ao exame físico, PA 140x90mmHg, frequência cardíaca (FC) de 92bpm, saturação de oxigênio de 99%, altura uterina de 31cm, cardiotocografia reativa à movimentação fetal, com linha de base de 132bpm; feto cefálico com dorso à direita. Não foram identificadas contrações uterinas e o colo uterino está fechado. Propedeutica de HELLP sem alterações. Com base no quadro clínico apresentado, dentre as alternativas abaixo, a conduta MAIS APROPRIADA nesse momento é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Internar para controle pressórico e realizar dopplervelocimetria fetal"
+        },
+        {
+          "letra": "B",
+          "texto": "Internar para indução do parto e iniciar sulfato de magnésio"
+        },
+        {
+          "letra": "C",
+          "texto": "Prescrever metildopa e encaminhar para o pré-natal de alto risco"
+        },
+        {
+          "letra": "D",
+          "texto": "Prescrever nifedipina e realizar curva pressórica ambulatorial"
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "go.obstetricia.dheg"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q049",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 49,
+      "enunciado": "Paciente de 42 anos, grávida de 38 semanas e quatro dias, foi admitida na maternidade com queixa de contrações. Foi internada e acompanhada segundo partograma abaixo: Trata-se de gestação única, o feto encontra-se cefálico e o peso fetal estimado pela ultrassonografia há dois dias foi 3705g. É hipertensa e diabética, e a gravidez se deu após tratamento de FIV (fertilização in vitro). As comorbidades estão bem controladas e não houve intercorrências durante o pré natal. O exame físico e os exames laboratoriais não tinham alterações dignas de nota,\nAssinale a alternativa CORRETA:",
+      "imagem": "/provas/psu-mg-2025/q049.jpg",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A evolução do trabalho de parto está dentro da normalidade e na hora de registro 8 a dilatação do colo uterino está completa tendo sido evidenciado que a variedade de posição do polo cefálico foi de ODT (occípito direita transversa) para OP (occípito púbica), após a rotação interna."
+        },
+        {
+          "letra": "B",
+          "texto": "A evolução do trabalho de parto está dentro da normalidade e na hora de registro 8 o polo cefálico ainda não alcançou o plano zero de De Lee porque ainda não realizou a rotação interna e a variedade de posição está indo de OET (occipito esquerda transversa) para OS (occípito sacra)."
+        },
+        {
+          "letra": "C",
+          "texto": "A evolução do trabalho de parto não está dentro da normalidade porque, embora a paciente esteja com dilatação de 10cm na hora de registro 8, a variedade de posição não está adequada para o nascimento."
+        },
+        {
+          "letra": "D",
+          "texto": "A evolução do trabalho de parto não está dentro da normalidade, pois não houve mudança da dilatação nas primeiras horas de registro e o polo cefálico insinuou na pelve materna transverso."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "go.obstetricia.parto"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q050",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 50,
+      "enunciado": "Em relação à inervação dos músculos do assoalho pélvico e do períneo, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O nervo pudendo deixa a pelve através do ligamento uterosacro"
+        },
+        {
+          "letra": "B",
+          "texto": "O nervo pudendo é o principal nervo sensorial e motor do períneo"
+        },
+        {
+          "letra": "C",
+          "texto": "O nervo pudendo possui quatro ramos: clitoriano, perineal, retal inferior e vesical"
+        },
+        {
+          "letra": "D",
+          "texto": "Para o bloqueio do nervo pudendo a referência anatômica é o forâmen ciático"
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "go.ginecologia"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q051",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 51,
+      "enunciado": "Primigesta, 23 anos, sem doenças prévias, retorna após 15 dias, à sua segunda consulta de pré-natal trazendo exames solicitados anteriormente. Encontra-se na consulta atual com 16 semanas e três dias de idade gestacional (confirmada por biometria fetal), sem queixas ginecológicas ou relativas à gestação e com cartão de vacina atualizado. Exames laboratoriais evidenciam: grupo sanguíneo B Rh negativo; glicemia de jejum = 91mg/dL; VDRL = não reator; anti-HIV não reator; HbsAg = não reator; anti-HCV = não reator; HTLV 1 e 2 = não reator; toxoplasmose = IgM negativo, IgG positivo; hemoglobina = 11,5g/dL, hematócrito = 34%, CM = 88fL, HCM = 27pg; urina rotina evidenciando glicosúria (2+ em 4+), urocultura sem crescimento bacteriano, e eletroforese de hemoglobina com padrão AA. Exame físico: Peso = 62Kg, I.M.C. = 22,4Kg/m²; PA = 110x80mmHg, FC = 88bpm; útero-fita = 15cm; B.C.F. = 142bpm; ausência de edemas em membros inferiores. É conduta ADEQUADA a ser indicada nesta consulta de pré-natal:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Antecipação do teste oral de tolerância à glicose de 75g de dextrosol em 2 horas, considerando risco elevado para diabetes gestacional."
+        },
+        {
+          "letra": "B",
+          "texto": "Orientações sobre higiene e dieta para prevenção de toxoplasmose e avaliar padrão de hemoglobina paterno."
+        },
+        {
+          "letra": "C",
+          "texto": "Prescrição de ferro elementar terapêutico na dose de 160mg e reavaliação dos níveis hematimétricos após 60 dias de tratamento."
+        },
+        {
+          "letra": "D",
+          "texto": "Solicitação de Coombs indireto e agendamento de nova consulta de pré-natal em quatro semanas."
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "go.obstetricia.prenatal"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q052",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 52,
+      "enunciado": "Paciente de 32 anos, 60 dias após parto por cesareana comparece em consulta de puerpério em Centro de Saúde. Queixa-se que após fissura em mamilo esquerdo sua mama apresenta-se edemaciada, endurecida, com dor intensa e eritema. Apresentou em domicílio dois picos febris de 39 graus, com melhora após uso de dipirona. Devido à fissura, paciente foi orientada por cunhada a só manter aleitamento na mama não fissurada. Ao exame físico: identifica-se mama esquerda com área de 5cm em quadrante supero lateral com endurecimento, dor, calor e vermelhidão. Não são visualizados trajetos fistulosos, secreção purulenta ou pontos de flutuação. Em relação ao caso, assinale a alternativa que apresenta o diagnóstico e a conduta CORRETOS:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Abscesso Lactacional; solicitar ultrassonografia e realizar drenagem cirúrgica."
+        },
+        {
+          "letra": "B",
+          "texto": "Ectasia Ductal; prescrever analgésicos e desobstruir o ducto."
+        },
+        {
+          "letra": "C",
+          "texto": "Mastite Lactacional; iniciar antibioticoterapia com amoxicilina ou cefalexina, além de incentivar aleitamento em ambas as mamas."
+        },
+        {
+          "letra": "D",
+          "texto": "Mastite Lactacional; iniciar antibioticoterapia com ciprofloxacino, além de incentivar aleitamento em ambas as mamas."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "go.obstetricia.parto"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q053",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 53,
+      "enunciado": "Considere uma gestante que manipula alimentos frescos em seu local de trabalho, onde auxilia os cozinheiros no preparo das refeições. No pré-natal, foi advertida quanto aos riscos de contrair algumas doenças, bem como comportamentos que atuam na prevenção desses agravos. Dentre esses agravos, a médica atendente reforçou cuidados em relação à toxoplasmose.\nAssinale a alternativa CORRETA sobre essa doença:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Numa gestação de 10 semanas, o resultado de avidez elevada sugere que a toxoplasmose aguda ocorreu antes da gestação."
+        },
+        {
+          "letra": "B",
+          "texto": "Para evitar a toxoplasmose deve-se afastar essa gestante da manipulação de alimentos cujo preparo envolva ovos e leite não pasteurizado."
+        },
+        {
+          "letra": "C",
+          "texto": "Teste de avidez se aplica a casos de toxoplasmose com IgM positivo e IgG negativo, para confirmar se a infecção é recente."
+        },
+        {
+          "letra": "D",
+          "texto": "Toxoplasma gondii é uma bactéria de vida intracelular obrigatória, que pode ser transmitida ao feto na gestação."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "go.obstetricia.infeccoes"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q054",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 54,
+      "enunciado": "Paciente de 45 anos, com história de ciclos menstruais regulares, apresenta sangramento uterino anormal (SUA) intermitente nos últimos seis meses. Foi realizada biópsia de endométrio que revelou hiperplasia endometrial simples sem atipias. Após exclusão de malignidade, qual seria A MELHOR ESTRATÉGIA de manejo a longo prazo no seguimento ambulatorial, levando-se em conta fatores de risco para recorrência?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ablação endometrial seguida de monitoramento anual."
+        },
+        {
+          "letra": "B",
+          "texto": "Administração contínua de progestágenos orais por seis meses."
+        },
+        {
+          "letra": "C",
+          "texto": "Inserção de sistema intrauterino de levonorgestrel (SIU-LNG)."
+        },
+        {
+          "letra": "D",
+          "texto": "Tratamento com estrogênio conjugado seguido de nova biópsia."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "go.ginecologia.sua"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q055",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 55,
+      "enunciado": "A dor pélvica e abdominal baixa é uma das queixas mais comuns em atendimento de urgência e nos ambulatórios, sendo divididas em dois grandes grupos: aguda, geralmente iniciada há uma semana e crônica. Esta última pode ter origem visceral, somática ou mista, podendo se apresentar de várias formas. Sobre este grupo de dor pélvica crônica, assinale a alternativa ERRADA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A ciclicidade da dor conforme o ciclo menstrual, a localização através de questionários validados por Sociedades de Especialidade e as escalas de dor aprimoram a avaliação na busca do diagnóstico e de melhor terapêutica"
+        },
+        {
+          "letra": "B",
+          "texto": "A história obstétrica deve ser anotada, embora tenha mais relevância para casos de dor aguda, sendo incomum que a paciente apresente dor pélvica ou genital crônica em consequência de partos"
+        },
+        {
+          "letra": "C",
+          "texto": "A postura e a marcha são parte importante do exame físico e qualquer assimetria pode refletir distúrbios musculoesqueléticos"
+        },
+        {
+          "letra": "D",
+          "texto": "Há associação significativa entre a dor pélvica crônica e o abuso físico, emocional ou sexual, devendo ser sempre pesquisados sintomas de depressão que podem estar envolvidos na causa ou na consequência da dor pélvica"
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "go.ginecologia.endometriose"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q056",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 56,
+      "enunciado": "Paciente de 20 anos, primigesta, admitida na maternidade com idade gestacional de 39 semanas, em trabalho de parto. Ao realizar toque vaginal foi identificado colo uterino com 10cm de dilatação, bolsa rota, feto no plano zero de De Lee apresentando variedade de apresentação OTD (occipito transverso direita) identificado sutura sagital mais próxima à sínfise púbica e distante do sacro. Paciente não deseja analgesia. Diante deste quadro, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Aguardar até 1 hora para a expulsão fetal, caso não ocorra dentro deste período indicar cesareana."
+        },
+        {
+          "letra": "B",
+          "texto": "Identificado assinclitismo anterior que impossibilita o parto vaginal, devendo ser indicada cesareana de imediato."
+        },
+        {
+          "letra": "C",
+          "texto": "O assinclitismo posterior pode ser transitório, podendo-se aguardar a descida da apresentação e parto vaginal com acompanhamento da evolução."
+        },
+        {
+          "letra": "D",
+          "texto": "Por se tratar de feto em posição transversa em período expulsivo, deve ser indicado fórceps de Simpson e parto vaginal."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "go.obstetricia.parto"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q057",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 57,
+      "enunciado": "Você atende na UBS paciente de 42 anos que apresenta os seguintes exames: Citologia cervical: Lesão intra-epitelial de alto grau (HSIL) Biópsia de colo: Neoplasia intra-epitelial grau III (NIC III), Foi submetida à conização há 45 dias e a peça cirúrgica apresenta o seguinte laudo: Neoplasia intra-epitelial grau III (NIC III). Ausência de sinais de invasão com margens cirúrgicas livres A MELHOR CONDUTA para acompanhamento pós-conização é realizar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Citologia 12 meses após o procedimento. Se a citologia for negativa passar para citologia trienal."
+        },
+        {
+          "letra": "B",
+          "texto": "Citologia 6 e 12 meses após o procedimento. Se as citologias forem negativas passar para citologia anual até completar cinco anos do tratamento."
+        },
+        {
+          "letra": "C",
+          "texto": "Citologia 6, 12, 18 e 24 meses após o procedimento. Se as citologias forem negativas passar para citologia trienal."
+        },
+        {
+          "letra": "D",
+          "texto": "Citologia em 3, 6, 9 e 12 meses após o procedimento. Se as citologias forem negativas passar para citologia anual até completar cinco anos do tratamento."
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "go.ginecologia.colo"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q058",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 58,
+      "enunciado": "O acretismo placentário se caracteriza pela aderência anormal do trofoblasto ao miométrio uterino. Atualmente, se apresenta como uma etiologia de incidência crescente e de elevada letalidade por hemorragia. Entre as alternativas abaixo, assinale aquela que NÃO apresenta fatores de risco para o acretismo placentário:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Cesareana e infecção endometrial após o aborto"
+        },
+        {
+          "letra": "B",
+          "texto": "Curetagem uterina e miomectomia"
+        },
+        {
+          "letra": "C",
+          "texto": "Gestação por fertilização in vitro e placenta prévia"
+        },
+        {
+          "letra": "D",
+          "texto": "Gravidez heterotópica e infecção do trato urinário"
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "go.obstetricia.sangramento2"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q059",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 59,
+      "enunciado": "Assinale a alternativa CORRETA quanto ao período de transição menopausica.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Durante a fase inicial de transição menopausica, os níveis de progesterona são mais baixos quando comparados aos de mulheres na meia idade reprodutiva. Entretanto, os níveis de testosterona não variam significativamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Mulheres na pós-menopausa com sangramento uterino anormal e com espessura endometrial à ultrassonografia > 4mm de espessura não têm indicação de realizar biópsia de endométrio."
+        },
+        {
+          "letra": "C",
+          "texto": "O risco de fraturas decorrente de osteoporose não depende da massa óssea no momento da menopausa, mas da taxa de perda óssea logo após a menopausa."
+        },
+        {
+          "letra": "D",
+          "texto": "Os níveis de SHBG (globulina ligadora de hormônios sexuais) aumentam após a menopausa, o que pode aumentar a fração livre dos esteróides. Com relação ao esteróide de origem supra-renal (SDHEA - sulfato de dehidroepiandrosterona) é observada redução nos seus níveis com o avançar da idade"
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "go.ginecologia.climaterio"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q060",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 60,
+      "enunciado": "Paciente de 55 anos, hígida, com menopausa aos 50 anos vem à Unidade Básica de Saúde com queixa de sensação de peso em baixo ventre. Ao exame físico, foi identificado prolapso de parede vaginal anterior +3cm e prolapso da posterior +2cm. Em relação a este caso, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O tratamento cirúrgico com colpoplastia anterior e colpoperineoplastia são suficientes para correção do prolapso, entretanto, a paciente pode vir a apresentar incontinência urinária de esforço posteriormente."
+        },
+        {
+          "letra": "B",
+          "texto": "O tratamento com mudanças de hábitos de vida e fisioterapia de assoalho pélvico tem altas taxas de sucesso neste caso."
+        },
+        {
+          "letra": "C",
+          "texto": "O uso de estrogênio tópico melhora o trofismo genital e por aumentar o tônus muscular pode reverter o prolapso."
+        },
+        {
+          "letra": "D",
+          "texto": "O uso de pessário associado a estrogenioterapia local e fisioterapia para assoalho pélvico deve ser a primeira escolha para a paciente por ser conservador e de menor risco."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "go.ginecologia"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q061",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 61,
+      "enunciado": "Considerando a Portaria GM/MS Nº 3.148, de 06 de fevereiro de 2024, que estabelece a lista nacional de notificação compulsória de doenças, agravos e eventos de Saúde Pública, nos serviços de saúde públicos e privados em todo o território nacional, assinale abaixo a opção em que TODAS AS DOENÇAS são de notificação imediata, em até 24 horas nos níveis de gestão municipal, estadual e federal.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Casos de dengue, difteria, leptospirose"
+        },
+        {
+          "letra": "B",
+          "texto": "Influenza humana produzida por novo subtipo viral, febre hemorrágica por ebola, tuberculose"
+        },
+        {
+          "letra": "C",
+          "texto": "Malária na região extra amazônica, raiva humana, febre amarela"
+        },
+        {
+          "letra": "D",
+          "texto": "Sarampo, rubéola, leishmaniose visceral"
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.epidemio.vigilancia"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q062",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 62,
+      "enunciado": "Segundo a Resolução De Diretoria Colegiada - RDC n° 406/2020 da Agência Nacional de Vigilância Sanitária – Anvisa, a farmacovigilância se refere a ciência e atividades relativas à detecção, avaliação, compreensão e prevenção de Eventos Adversos ou quaisquer outros problemas relacionados a medicamentos. Dentre as afirmações abaixo, qual se encaixa MELHOR nesta atividade?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A farmacovigilância não aborda problemas de qualidade, uso não aprovado e abuso de medicamentos"
+        },
+        {
+          "letra": "B",
+          "texto": "O Sistema Nacional de Vigilância de eventos supostamente atribuíveis à vacinação ou imunização foi criado em 1992, pelo Programa Nacional de Imunizações, antes da criação da Anvisa, portanto, as vacinas não estão sujeitas ao monitoramento de segurança no escopo da farmacovigilância"
+        },
+        {
+          "letra": "C",
+          "texto": "O VigiMed é o sistema disponibilizado pela Anvisa para que cidadãos, profissionais de saúde, detentores de registro de medicamentos e patrocinadores de estudos possam reportar suspeitas de eventos adversos relacionados apenas a medicamentos"
+        },
+        {
+          "letra": "D",
+          "texto": "Os sistemas de notificação voluntária geram o maior volume de informações, com baixo custo de manutenção, e permitem a identificação precoce de sinais de segurança relacionados aos medicamentos. Constituem a base dos sistemas nacionais de farmacovigilância"
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.epidemio.vigilancia"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q063",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 63,
+      "enunciado": "A Febre Reumática (FR) é a principal causa de cardiopatia adquirida entre 5 anos e 15 anos (infância e adolescência) no Brasil. Com relação à sua prevenção, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A profilaxia primária com a penicilina G benzatina previne a recorrência e a progressão da doença, além de diminuir a gravidade e a mortalidade relacionadas à doença."
+        },
+        {
+          "letra": "B",
+          "texto": "Carência de atendimento médico, condições precárias de saneamento e higiene e aglomerados populacionais estão associados à incidência de FR."
+        },
+        {
+          "letra": "C",
+          "texto": "Esforços têm sido realizados para a produção de vacinas contra o S. pyogenes, a fim de reduzir a incidência e prevalência da FR no país. Um facilitador na produção delas é a baixa diversidade de cepas causadoras da doença."
+        },
+        {
+          "letra": "D",
+          "texto": "O tratamento precoce das faringotonsilites estreptocócicas configura importante forma de prevenção do desenvolvimento da FR. O uso da penicilina G benzatina na prevenção primária não tem apresentado resultados satisfatórios devido ao surgimento de resistência antibiótica."
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "clinica.reumato"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q064",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 64,
+      "enunciado": "Criança de 3 anos de idade chega à Unidade Básica de Saúde com quadro de otalgia intensa à direita, de início súbito e acompanhada de febre, há três dias. Ao realizar o exame físico, nota-se uma hiperemia importante e abaulamento da membrana timpânica direita, temperatura axilar de 39.5°C, sem outras alterações. Com relação à indicação de antibioticoterapia para esta criança, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Deve ser adotada conduta expectante e só iniciar antibióticos se houver evolução para otorreia"
+        },
+        {
+          "letra": "B",
+          "texto": "Está indicado o uso de antibióticos e pode ser utilizado amoxicilina por via oral"
+        },
+        {
+          "letra": "C",
+          "texto": "Estaria recomendada somente se houvesse comprometimento bilateral"
+        },
+        {
+          "letra": "D",
+          "texto": "Não está indicada, pois a maioria dos casos, considerando a faixa etária e as condições clínicas da criança, têm melhora espontânea"
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.infecto.ivas"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q065",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 65,
+      "enunciado": "Sobre os princípios do Sistema Único de Saúde (SUS) no Brasil, considere as afirmativas a seguir:\nI. O princípio da universalidade garante que todos os cidadãos brasileiros têm direito a acesso aos serviços de saúde, independentemente de sua situação econômica ou social.\nII. A iniciativa privada poderá participar do Sistema Único de Saúde (SUS), em caráter complementar, devendo a prestação do serviço ser voluntária.\nIII. O princípio da equidade defende que todos devem receber o mesmo tratamento, independentemente de suas necessidades individuais.\nIV. A integralidade busca garantir ao indivíduo uma assistência à saúde que transcenda a prática curativa, contemplando o indivíduo em todos os níveis de atenção e considerando o sujeito inserido em um contexto social, familiar e cultural. Estão CORRETAS as afirmativas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I e II"
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas I, II e IV"
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas I e IV"
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas III e IV"
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.sus.principios"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q066",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 66,
+      "enunciado": "Ao ensinar sobre a reidratação oral para crianças com diarreia, qual das seguintes orientações para agentes comunitários de saúde está CORRETA?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Administrar soluções de reidratação oral (SRO) específicas para a diarreia, seguindo as instruções de preparo e administração recomendadas pelas receitas caseiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Instruir os pais a interromper a alimentação normal da criança até que a diarreia cesse completamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Recomendar o uso de sucos de frutas naturais ou bebidas esportivas como substituto para soluções farmacológicas de reidratação oral."
+        },
+        {
+          "letra": "D",
+          "texto": "Reconhecer sinais de alerta e orientar familiares para identifica-los: piora na diarreia (aumento da frequência e/ou do volume), vômitos repetidos, muita sede, recusa de alimentos, sangue nas fezes, diminuição da diurese."
+        }
+      ],
+      "gabarito": "D",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.infecto.diarreia"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q067",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 67,
+      "enunciado": "Qual alternativa contém CORRETAMENTE ações pertinentes à esfera pública considerando o conceito de vigilância da saúde ambiental?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Encaminhar às autoridades competentes a avaliação dos impactos à saúde causados pela exposição a poluentes do ar, como partículas finas e gases."
+        },
+        {
+          "letra": "B",
+          "texto": "Garantir o abastecimento de água potável para populações em situação de vulnerabilidade social e ambiental."
+        },
+        {
+          "letra": "C",
+          "texto": "Identificar, caracterizar e acompanhar a saúde de populações expostas a contaminantes e notificar judicialmente os responsáveis pela contaminação."
+        },
+        {
+          "letra": "D",
+          "texto": "Monitorar a exposição da população ou de trabalhadores a substâncias químicas tóxicas como: agrotóxicos, amianto, mercúrio, benzeno e chumbo."
+        }
+      ],
+      "gabarito": null,
+      "origem": "oficial",
+      "temas": [
+        "preventiva.epidemio.vigilancia"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q068",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 68,
+      "enunciado": "As lesões de trânsito são importante problema de saúde pública global, situando-se entre as dez principais causas de morte em países de baixa e média renda e a sexta causa de DALY (Disability Adjusted Life Years - Anos de vida perdidos ajustados por incapacidade). Sobre as lesões de trânsito no Brasil assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Fatores humanos são preponderantes como causa das lesões de trânsito, sendo que as condições das vias de circulação, a visibilidade e os defeitos nos veículos contribuem em pequena proporção na ocorrência de acidentes."
+        },
+        {
+          "letra": "B",
+          "texto": "Lesões no trânsito podem ser evitadas, para isso basta que todos, pedestres e motoristas sigam corretamente a legislação brasileira relacionada ao trânsito."
+        },
+        {
+          "letra": "C",
+          "texto": "Motoristas de automóveis e caminhões, motociclistas e ciclistas são as principais vítimas no trânsito."
+        },
+        {
+          "letra": "D",
+          "texto": "O perfil das vítimas fatais de motociclistas em lesões no trânsito é predominantemente do sexo masculino, isso porque as mulheres são mais prudentes no trânsito."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.epidemio.indicadores"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q069",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 69,
+      "enunciado": "Estudante do sexo masculino de 17 anos de idade, iniciou no dia 30/07/2024 com um quadro de tosse, cefaleia, mialgia e no dia 04/08/2024 apresentou exantema em todo corpo. Havia viajado para a Inglaterra e retornado ao Brasil no dia 28/07/2024. Não frequentou escola após seu retorno. O exame de biologia molecular (RT-PCR) teve resultado detectável para vírus do sarampo. Havia recebido a última dose da vacina tríplice viral em 2012. Com relação a este caso é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A primeira medida a ser tomada é repetir o exame de biologia molecular, porque provavelmente deve se tratar de exame falso positivo, considerando o estado vacinal do adolescente."
+        },
+        {
+          "letra": "B",
+          "texto": "Devem ser considerados contatos do caso as pessoas que estiveram próximas ao adolescente quatro dias antes e quatro dias após o início do exantema."
+        },
+        {
+          "letra": "C",
+          "texto": "Os passageiros dos mesmos voos que o paciente realizou não devem ser considerados como contatos, uma vez que durante o período da viagem ele estava assintomático."
+        },
+        {
+          "letra": "D",
+          "texto": "Os contatos do adolescente devem ser monitorados pelo período de dois meses."
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.epidemio.vigilancia",
+        "pediatria.infecto.exantematicas"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q070",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 70,
+      "enunciado": "Analise o texto: \"Jeca Tatu era um pobre caboclo que morava no mato, numa casinha de sapé. Vivia na maior pobreza, em companhia da mulher, muito magra e feia e de vários filhinhos pálidos e tristes... Ele não é assim, ele está assim... Examinando-lhe o sangue assombra em pobreza...\" (Urupês Monteiro Lobato, 1914). Este personagem serviu como referência para a denominação de uma doença que após mais de um século, ainda atinge milhões de pessoas em todo o mundo e é considerado pela Organização Mundial da Saúde, como uma doença tropical negligenciada.\nAssinale a alternativa que apresenta CORRETAMENTE esta doença:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Amebíase"
+        },
+        {
+          "letra": "B",
+          "texto": "Ancilostomíase"
+        },
+        {
+          "letra": "C",
+          "texto": "Ascaridíase"
+        },
+        {
+          "letra": "D",
+          "texto": "Estrongiloidíase"
+        }
+      ],
+      "gabarito": "B",
+      "origem": "oficial",
+      "temas": [
+        "clinica.infecto.endemicas"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q071",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 71,
+      "enunciado": "FDS, 25 anos, sexo masculino, solteiro, agricultor, com relato de familiares de ter ingerido composto organofosforado após desentendimento familiar. O paciente foi encontrado desacordado e encaminhado à unidade de emergência no município de Belo Horizonte. Apresentava rebaixamento do nível de consciência (Escala de Coma de Glasgow: 2/15), sialorreia intensa, sudorese, miose, ptose palpebral, bradicardia com hipotensão arterial. Apesar de todas as medidas tomadas ele evoluiu para óbito cerca de uma hora após dar entrada no Pronto Socorro.\nAssinale a alternativa que apresenta a atitude CORRETA do médico da unidade de emergência - que constatou o óbito em relação a Declaração de óbito (DO) para esse paciente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Preencher a DO, colocando o suicídio como provável doença ou estado morbido que causou diretamente a morte, sendo importante esta citação para fins epidemiológicos."
+        },
+        {
+          "letra": "B",
+          "texto": "Preencher a DO, colocando como condição significativa que contribuiu para a morte, não relacionada diretamente à causa do óbito, provável depressão."
+        },
+        {
+          "letra": "C",
+          "texto": "Não preencher a DO, devendo encaminhar o corpo para o Instituto Médico Legal."
+        },
+        {
+          "letra": "D",
+          "texto": "Preencher a DO, colocando como a doença ou estado mórbido que causou diretamente a morte: autointoxicação por exposição, intencional, a organofosforado."
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.etica.codigo",
+        "clinica.emergencia.intoxicacoes"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q072",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 72,
+      "enunciado": "A obesidade é uma condição crônica não transmissível (DCNT) de origem multifatorial e complexa, sendo considerada grave problema de saúde pública no mundo. Sobre as inúmeras e reconhecidas repercussões da obesidade, sabe-se que ela aparece como um importante fator de risco para outras doenças crônicas não transmissíveis (DCNTs). Sobre a situação da obesidade no Brasil, assinale a assertiva CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apresenta-se como fator de risco para as principais DCNTs mais prevalentes no Brasil (doenças cardiovasculares, diabetes, neoplasias malignas)."
+        },
+        {
+          "letra": "B",
+          "texto": "Na população adulta, observa-se maior prevalência de excesso de peso e obesidade nas mulheres de melhor nível sócio econômico."
+        },
+        {
+          "letra": "C",
+          "texto": "O aumento expressivo de casos de sobrepeso e obesidade, considerado em níveis epidêmicos, se deve à ausência de políticas públicas no país de prevenção e tratamento desta condição."
+        },
+        {
+          "letra": "D",
+          "texto": "O consumo de alimentos ultraprocessados, estilo de vida ou uso de alguns medicamentos são fatores que levam à obesidade, não havendo interferência de fatores genéticos."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "preventiva.epidemio.indicadores"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q073",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 73,
+      "enunciado": "Mulher de 66 anos de idade, residente em município onde está ocorrendo epidemia de dengue. é atendida em uma Unidade Básica de Saúde com quadro de febre, mal estar e cefaleia de início há três dias. Em uso de rivaroxabana há dois meses, devido a trombose venosa profunda em membro inferior. Ao exame físico, apresentava-se desidratada, com PA = 120x80mmHg, FC = 100bpm. Sem alterações à ausculta cardíaca e pulmonar. No hemograma foi observado hematócrito = 54,3% (Valor de Referência (VR) para mulheres = 35% a 45%) e plaquetas = 43.000células/mm³ (VR = 150.000 a 400.000células/mm³). Sobre o atendimento desta paciente dentro da Rede de Atenção à Saúde, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Deverá ser solicitada internação hospitalar em leito de enfermaria."
+        },
+        {
+          "letra": "B",
+          "texto": "Deverá ser solicitada internação hospitalar em leito de Unidade de Terapia Intensiva."
+        },
+        {
+          "letra": "C",
+          "texto": "Ela deverá ser acompanhada na UBS com agendamento de retorno diário, até 24 horas após o desaparecimento da febre, para avaliação clinica, realização de hemograma e dosagem de RNI para acompanhamento do estado da coagulação."
+        },
+        {
+          "letra": "D",
+          "texto": "Ela deverá ser acompanhada na UBS com agendamento de retorno para reavaliação clínica no dia de melhora da febre, e caso não haja defervescência, retornar no quinto dia da doença."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "clinica.infecto.arboviroses",
+        "preventiva.sus.aps"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q074",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 74,
+      "enunciado": "As vacinas foram inicialmente desenvolvidas contra infecções muito graves com grande morbimortalidade por doença aguda. Como as doenças não transmissíveis, incluindo o câncer, se tornaram as causas mais frequentes de morte nos países industrializados e em alguns países em desenvolvimento, as vacinas também estão sendo usadas para evitá-las, quando os agentes infecciosos estão envolvidos na carcinogenese. São exemplos de vacinas que LEVAM SECUNDARIAMENTE À PROTEÇÃO contra o câncer:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Vacina inativada para poliomielite - VIP e vacina oral do rotavírus humano"
+        },
+        {
+          "letra": "B",
+          "texto": "Vacina tríplice viral e tetra viral"
+        },
+        {
+          "letra": "C",
+          "texto": "Vacinas contra Hepatite B e contra papilomavirus humano (HPV)"
+        },
+        {
+          "letra": "D",
+          "texto": "Vacinas peneumocócicas e meningocócicas"
+        }
+      ],
+      "gabarito": "C",
+      "origem": "oficial",
+      "temas": [
+        "pediatria.puericultura.vacinacao"
+      ]
+    },
+    {
+      "id": "psu-mg-2025-q075",
+      "banca": "PSU-MG",
+      "ano": 2025,
+      "numero": 75,
+      "enunciado": "No período de 1980 a 2023 foram registrados mais de 1 milhão de casos de AIDS no Brasil. Sobre a situação epidemiológica da infecção pelo HIV e da AIDS no Brasil é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A maior concentração dos casos de AIDS no Brasil, no período de 1980 a 2023, foi observada nos indivíduos com idade entre 25 e 39 anos, com predomínio do sexo masculino."
+        },
+        {
+          "letra": "B",
+          "texto": "A taxa de detecção de HIV/AIDS em menores de 5 anos é utilizada como indicador para o monitoramento da transmissão vertical do HIV, e tem-se observado aumento na taxa de detecção nesta população nos últimos anos."
+        },
+        {
+          "letra": "C",
+          "texto": "Apesar de no início da epidemia a AIDS ter sido mais frequente em homens e em pessoas de maior nível sócio econômico, nos últimos 10 anos, o número de casos em pessoas de mais baixo nível sócio econômico e mulheres se tornou prevalente."
+        },
+        {
+          "letra": "D",
+          "texto": "Nos últimos 10 anos, todas as regiões apresentaram tendência de queda na taxa de detecção de AIDS, exceto a região Centro Oeste, na qual essa taxa se elevou em 20%."
+        }
+      ],
+      "gabarito": "A",
+      "origem": "oficial",
+      "temas": [
+        "clinica.infecto.hiv",
+        "preventiva.epidemio.indicadores"
+      ]
+    }
+  ]
+}

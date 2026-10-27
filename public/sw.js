@@ -1,5 +1,6 @@
 // Service worker: guarda as páginas e arquivos já visitados para o app abrir sem internet.
-const CACHE = "residencia-v1";
+// Mudar a versão apaga o cache antigo dos aparelhos.
+const CACHE = "residencia-v2";
 
 self.addEventListener("install", () => self.skipWaiting());
 
@@ -14,32 +15,36 @@ self.addEventListener("fetch", (event) => {
   const req = event.request;
   if (req.method !== "GET" || new URL(req.url).origin !== self.location.origin) return;
 
-  // Páginas: tenta a rede primeiro (conteúdo novo), cai no cache sem internet.
-  if (req.mode === "navigate") {
+  // Só arquivos que nunca mudam de conteúdo (o nome tem um código da versão) vêm do cache primeiro.
+  const url = new URL(req.url);
+  const imutavel = url.pathname.startsWith("/_next/static/") || url.pathname.startsWith("/provas/") || url.pathname.startsWith("/pdfjs/");
+  if (imutavel) {
     event.respondWith(
-      fetch(req)
-        .then((res) => {
-          const copia = res.clone();
-          caches.open(CACHE).then((c) => c.put(req, copia));
-          return res;
-        })
-        .catch(() => caches.match(req).then((r) => r || caches.match("/"))),
+      caches.match(req).then(
+        (r) =>
+          r ||
+          fetch(req).then((res) => {
+            if (res.ok) {
+              const copia = res.clone();
+              caches.open(CACHE).then((c) => c.put(req, copia));
+            }
+            return res;
+          }),
+      ),
     );
     return;
   }
 
-  // Arquivos estáticos: cache primeiro.
+  // Todo o resto (páginas e os dados que o Next busca ao trocar de aba): rede primeiro, cache sem internet.
   event.respondWith(
-    caches.match(req).then(
-      (r) =>
-        r ||
-        fetch(req).then((res) => {
-          if (res.ok) {
-            const copia = res.clone();
-            caches.open(CACHE).then((c) => c.put(req, copia));
-          }
-          return res;
-        }),
-    ),
+    fetch(req)
+      .then((res) => {
+        if (res.ok) {
+          const copia = res.clone();
+          caches.open(CACHE).then((c) => c.put(req, copia));
+        }
+        return res;
+      })
+      .catch(() => caches.match(req).then((r) => r || (req.mode === "navigate" ? caches.match("/") : Response.error()))),
   );
 });

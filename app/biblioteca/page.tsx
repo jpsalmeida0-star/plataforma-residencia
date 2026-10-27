@@ -40,6 +40,7 @@ function Biblioteca() {
   const [progresso, setProgresso] = useState<string | null>(null);
   const [ocupado, setOcupado] = useState(false);
   const cancelar = useRef(false);
+  const [retomar, setRetomar] = useState(false); // a indexação parou porque a conexão expirou
 
   const [consulta, setConsulta] = useState(consultaUrl);
   const [resultados, setResultados] = useState<Resultado[] | null>(null);
@@ -64,7 +65,9 @@ function Biblioteca() {
   async function aoConectar() {
     setAviso(null);
     try {
-      setToken(await conectar());
+      const novo = await conectar();
+      setToken(novo);
+      if (retomar) indexar(novo);
     } catch (e) {
       setAviso(e instanceof Error ? e.message : String(e));
     }
@@ -87,7 +90,7 @@ function Biblioteca() {
     setAviso(null);
     setOcupado(true);
     try {
-      const pdfs = await listarPdfs(token, raiz, (p, n) => setProgresso(`Lendo ${p} (${n} PDFs até agora)`));
+      const pdfs = await listarPdfs(token, raiz, setProgresso);
       const { novas, removidas } = await sincronizarLista(pdfs);
       setProgresso(`${pdfs.length} PDFs na pasta: ${novas} novos, ${removidas} removidos.`);
     } catch (e) {
@@ -98,9 +101,10 @@ function Biblioteca() {
     }
   }
 
-  async function indexar() {
-    if (!token) return;
+  async function indexar(comToken = token) {
+    if (!comToken) return;
     setAviso(null);
+    setRetomar(false);
     setOcupado(true);
     cancelar.current = false;
     const fila = await db.apostilas.where("status").equals("pendente").toArray();
@@ -109,13 +113,22 @@ function Biblioteca() {
       for (let i = 0; i < fila.length && !cancelar.current; i++) {
         const a = fila[i];
         setProgresso(`Indexando ${i + 1} de ${fila.length}: ${a.nome} (${mb(a.tamanho)})`);
-        const dados = await baixarPdf(token, a.id);
-        await indexarApostila(a, dados, pdfjs);
+        try {
+          const dados = await baixarPdf(comToken, a.id);
+          await indexarApostila(a, dados, pdfjs);
+        } catch (e) {
+          if (e instanceof TokenExpirado) throw e;
+          // Um arquivo com problema não para os outros: fica marcado como erro para tentar de novo.
+          await db.apostilas.update(a.id, { status: "erro", erro: e instanceof Error ? e.message : String(e) });
+        }
       }
       setProgresso(cancelar.current ? "Indexação pausada. Continue quando quiser." : "Indexação concluída.");
     } catch (e) {
       tratarErro(e);
-      setProgresso("Indexação interrompida. O que já foi feito ficou salvo.");
+      if (e instanceof TokenExpirado) {
+        setRetomar(true);
+        setProgresso("A conexão expirou (dura 1 hora). O que já foi indexado ficou salvo: conecte de novo para continuar.");
+      } else setProgresso("Indexação interrompida. O que já foi feito ficou salvo.");
     } finally {
       setOcupado(false);
     }
@@ -186,7 +199,9 @@ function Biblioteca() {
           ) : (
             <>
               <p className="suave">Entre com a conta Google que tem as apostilas. O app só lê os arquivos.</p>
-              <button className="primario" onClick={aoConectar}>Conectar ao Drive</button>
+              <button className="primario" onClick={aoConectar}>
+                {retomar ? "Conectar e continuar a indexação" : "Conectar ao Drive"}
+              </button>
             </>
           )}
 
@@ -199,7 +214,7 @@ function Biblioteca() {
           />
           <div className="chips" style={{ marginTop: 12 }}>
             <button disabled={!token || ocupado} onClick={atualizarLista}>Atualizar lista</button>
-            <button className="primario" disabled={!token || ocupado || pendentes.length === 0} onClick={indexar}>
+            <button className="primario" disabled={!token || ocupado || pendentes.length === 0} onClick={() => indexar()}>
               Indexar {pendentes.length} pendente(s)
             </button>
             {ocupado && <button onClick={() => (cancelar.current = true)}>Pausar</button>}

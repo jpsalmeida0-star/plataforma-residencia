@@ -111,19 +111,25 @@ async function chamar(token: string, caminho: string, params: Record<string, str
 type ArquivoDrive = {
   id: string;
   name: string;
-  mimeType: string;
-  modifiedTime: string;
+  parents?: string[];
+  modifiedTime?: string;
   size?: string;
   shortcutDetails?: { targetId: string; targetMimeType: string };
 };
 
-async function listarFilhos(token: string, pastaId: string): Promise<ArquivoDrive[]> {
+/** Todos os arquivos de um tipo que a conta enxerga, 1000 por página. */
+async function listarTodos(
+  token: string,
+  mimeType: string,
+  campos: string,
+  aoAvancar: (n: number) => void,
+): Promise<ArquivoDrive[]> {
   const todos: ArquivoDrive[] = [];
   let pageToken: string | undefined;
   do {
     const params: Record<string, string> = {
-      q: `'${pastaId}' in parents and trashed = false`,
-      fields: "nextPageToken, files(id, name, mimeType, modifiedTime, size, shortcutDetails)",
+      q: `mimeType = '${mimeType}' and trashed = false`,
+      fields: `nextPageToken, files(${campos})`,
       pageSize: "1000",
       supportsAllDrives: "true",
       includeItemsFromAllDrives: "true",
@@ -131,6 +137,7 @@ async function listarFilhos(token: string, pastaId: string): Promise<ArquivoDriv
     if (pageToken) params.pageToken = pageToken;
     const r = (await (await chamar(token, "/files", params)).json()) as { files: ArquivoDrive[]; nextPageToken?: string };
     todos.push(...r.files);
+    aoAvancar(todos.length);
     pageToken = r.nextPageToken;
   } while (pageToken);
   return todos;
@@ -138,42 +145,74 @@ async function listarFilhos(token: string, pastaId: string): Promise<ArquivoDriv
 
 export type PdfEncontrado = { id: string; nome: string; caminho: string; modificado: string; tamanho: number };
 
+export type ArquivosDaConta = { pastas: ArquivoDrive[]; atalhos: ArquivoDrive[]; pdfs: ArquivoDrive[] };
+
 /**
- * Percorre a pasta raiz e todas as subpastas (seguindo atalhos) e devolve os PDFs com o caminho de pastas.
- * `aoAvancar` recebe o caminho da pasta sendo lida, para mostrar progresso.
+ * Monta a lista de PDFs dentro da pasta raiz (e subpastas, seguindo atalhos) a partir das listas completas
+ * da conta. Separado da rede para ser testado.
  */
-export async function listarPdfs(
-  token: string,
-  raizId: string,
-  aoAvancar?: (pasta: string, encontrados: number) => void,
-): Promise<PdfEncontrado[]> {
-  const pdfs: PdfEncontrado[] = [];
+export function pdfsDaPasta(raizId: string, { pastas, atalhos, pdfs }: ArquivosDaConta): PdfEncontrado[] {
+  const filhos = new Map<string, { pastas: ArquivoDrive[]; atalhos: ArquivoDrive[]; pdfs: ArquivoDrive[] }>();
+  const grupo = (pai: string) => {
+    let g = filhos.get(pai);
+    if (!g) filhos.set(pai, (g = { pastas: [], atalhos: [], pdfs: [] }));
+    return g;
+  };
+  for (const f of pastas) for (const pai of f.parents ?? []) grupo(pai).pastas.push(f);
+  for (const f of atalhos) for (const pai of f.parents ?? []) grupo(pai).atalhos.push(f);
+  for (const f of pdfs) for (const pai of f.parents ?? []) grupo(pai).pdfs.push(f);
+  const pdfPorId = new Map(pdfs.map((f) => [f.id, f]));
+
+  const resultado = new Map<string, PdfEncontrado>();
+  const adicionar = (f: ArquivoDrive, caminho: string, nome = f.name) => {
+    if (!resultado.has(f.id))
+      resultado.set(f.id, { id: f.id, nome, caminho, modificado: f.modifiedTime ?? "", tamanho: Number(f.size ?? 0) });
+  };
+
   const visitadas = new Set<string>();
   const fila: { id: string; caminho: string }[] = [{ id: raizId, caminho: "" }];
-
   while (fila.length) {
     const pasta = fila.shift()!;
     if (visitadas.has(pasta.id)) continue;
     visitadas.add(pasta.id);
-    aoAvancar?.(pasta.caminho || "pasta principal", pdfs.length);
-
-    for (const f of await listarFilhos(token, pasta.id)) {
-      const id = f.shortcutDetails?.targetId ?? f.id;
-      const tipo = f.shortcutDetails?.targetMimeType ?? f.mimeType;
-      if (tipo === PASTA) fila.push({ id, caminho: pasta.caminho ? `${pasta.caminho} / ${f.name}` : f.name });
-      else if (tipo === PDF && f.mimeType !== ATALHO)
-        pdfs.push({ id, nome: f.name, caminho: pasta.caminho, modificado: f.modifiedTime, tamanho: Number(f.size ?? 0) });
-      else if (tipo === PDF) {
-        // Atalho para PDF: os metadados vêm do alvo.
-        const alvo = (await (await chamar(token, `/files/${id}`, {
-          fields: "id, name, modifiedTime, size",
-          supportsAllDrives: "true",
-        })).json()) as ArquivoDrive;
-        pdfs.push({ id, nome: alvo.name, caminho: pasta.caminho, modificado: alvo.modifiedTime, tamanho: Number(alvo.size ?? 0) });
+    const g = filhos.get(pasta.id);
+    if (!g) continue;
+    const sub = (nome: string) => (pasta.caminho ? `${pasta.caminho} / ${nome}` : nome);
+    for (const f of g.pastas) fila.push({ id: f.id, caminho: sub(f.name) });
+    for (const f of g.pdfs) adicionar(f, pasta.caminho);
+    for (const a of g.atalhos) {
+      const alvo = a.shortcutDetails;
+      if (!alvo) continue;
+      if (alvo.targetMimeType === PASTA) fila.push({ id: alvo.targetId, caminho: sub(a.name) });
+      else if (alvo.targetMimeType === PDF) {
+        const pdf = pdfPorId.get(alvo.targetId);
+        if (pdf) adicionar(pdf, pasta.caminho, a.name);
       }
     }
   }
-  return pdfs;
+  return [...resultado.values()].sort(
+    (x, y) => x.caminho.localeCompare(y.caminho, "pt-BR") || x.nome.localeCompare(y.nome, "pt-BR"),
+  );
+}
+
+/**
+ * PDFs da pasta raiz e de todas as subpastas. Em vez de abrir pasta por pasta (lento numa árvore grande),
+ * busca de uma vez todas as pastas, atalhos e PDFs da conta, 1000 por consulta, e monta a árvore aqui.
+ */
+export async function listarPdfs(
+  token: string,
+  raizId: string,
+  aoAvancar?: (mensagem: string) => void,
+): Promise<PdfEncontrado[]> {
+  const contagem = { pastas: 0, atalhos: 0, pdfs: 0 };
+  const avisar = () =>
+    aoAvancar?.(`Lendo o Drive: ${contagem.pastas} pastas, ${contagem.pdfs} PDFs, ${contagem.atalhos} atalhos…`);
+  const [pastas, atalhos, pdfs] = await Promise.all([
+    listarTodos(token, PASTA, "id, name, parents", (n) => ((contagem.pastas = n), avisar())),
+    listarTodos(token, ATALHO, "id, name, parents, shortcutDetails", (n) => ((contagem.atalhos = n), avisar())),
+    listarTodos(token, PDF, "id, name, parents, modifiedTime, size", (n) => ((contagem.pdfs = n), avisar())),
+  ]);
+  return pdfsDaPasta(raizId, { pastas, atalhos, pdfs });
 }
 
 /** Baixa o conteúdo de um PDF. */

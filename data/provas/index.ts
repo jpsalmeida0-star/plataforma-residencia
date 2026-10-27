@@ -14,7 +14,10 @@ import enare2024 from "./enare-2024.json";
 // 99 de D para C. A Medway também marca C na 31, mas a afirmativa III ("circundados por neutrófilos") é falsa, então
 // mantivemos o A do preliminar até achar o gabarito definitivo oficial.
 import enare2023 from "./enare-2023.json";
+// ENARE 2022/2023, caderno Tipo 1 (Instituto AOCP). Mesmo caso da 2023: preliminar oficial (prova 1) com o resultado dos
+// recursos da compilação pós-recursos da Medway: questões 31, 46, 49, 85, 86 e 100 anuladas; 19 de A para B e 51 de B para C.
+import enare2022 from "./enare-2022.json";
 
-export const PROVAS: Prova[] = [enamed2025c1 as Prova, enare2024 as Prova, enare2023 as Prova];
+export const PROVAS: Prova[] = [enamed2025c1 as Prova, enare2024 as Prova, enare2023 as Prova, enare2022 as Prova];
 
 export const QUESTOES: Questao[] = PROVAS.flatMap((p) => p.questoes);

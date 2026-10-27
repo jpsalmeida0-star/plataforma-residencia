@@ -17,7 +17,12 @@ import enare2023 from "./enare-2023.json";
 // ENARE 2022/2023, caderno Tipo 1 (Instituto AOCP). Mesmo caso da 2023: preliminar oficial (prova 1) com o resultado dos
 // recursos da compilação pós-recursos da Medway: questões 31, 46, 49, 85, 86 e 100 anuladas; 19 de A para B e 51 de B para C.
 import enare2022 from "./enare-2022.json";
+// PSU-MG/AREMG 2025 (prova geral, aplicada em 01/12/2024). A AREMG não deixa o caderno em acesso aberto; o texto vem da
+// transcrição publicada pela Medway, na numeração do Tipo 1. Gabarito: preliminar oficial da prova geral Tipo 1
+// (GABARITOPRELIMINARPROVAGERALTIPO1-PSUMG2025, em aremg.org.br) com as questões 12 e 67 anuladas após os recursos,
+// conforme o gabarito oficial republicado pela OsceLabs e pela Medway.
+import psuMg2025 from "./psu-mg-2025.json";
 
-export const PROVAS: Prova[] = [enamed2025c1 as Prova, enare2024 as Prova, enare2023 as Prova, enare2022 as Prova];
+export const PROVAS: Prova[] = [enamed2025c1 as Prova, enare2024 as Prova, enare2023 as Prova, enare2022 as Prova, psuMg2025 as Prova];
 
 export const QUESTOES: Questao[] = PROVAS.flatMap((p) => p.questoes);

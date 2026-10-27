@@ -22,7 +22,10 @@ import enare2022 from "./enare-2022.json";
 // (GABARITOPRELIMINARPROVAGERALTIPO1-PSUMG2025, em aremg.org.br) com as questões 12 e 67 anuladas após os recursos,
 // conforme o gabarito oficial republicado pela OsceLabs e pela Medway.
 import psuMg2025 from "./psu-mg-2025.json";
+// PSU-MG/AREMG 2024 (prova geral, aplicada em dezembro de 2023). Mesma origem do texto; gabarito oficial pós-recursos
+// (OsceLabs e Medway conferem entre si) com as questões 18, 19, 34 e 42 anuladas.
+import psuMg2024 from "./psu-mg-2024.json";
 
-export const PROVAS: Prova[] = [enamed2025c1 as Prova, enare2024 as Prova, enare2023 as Prova, enare2022 as Prova, psuMg2025 as Prova];
+export const PROVAS: Prova[] = [enamed2025c1 as Prova, enare2024 as Prova, enare2023 as Prova, enare2022 as Prova, psuMg2025 as Prova, psuMg2024 as Prova];
 
 export const QUESTOES: Questao[] = PROVAS.flatMap((p) => p.questoes);
